@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2025-12-30T23:57:38Z",
+    "generatedAt": "2026-01-06T19:14:15Z",
     "script": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\rules_to_json.py",
     "cwd": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant"
   },
@@ -11,7 +11,7 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules 20251114.txt",
       "sizeBytes": 962951,
       "sizeMB": 0.9183,
-      "modifiedAtLocal": "2025-12-30T20:57:39",
+      "modifiedAtLocal": "2026-01-06T16:14:16",
       "sha256": "d3a35d82e84890e170e3952c4a1466322e889853e6c9c1bb7ea958c53fff5e85",
       "lineCount": 9250
     }
@@ -22,8 +22,8 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.parsed.json",
       "sizeBytes": 2031037,
       "sizeMB": 1.9369,
-      "modifiedAtLocal": "2025-12-30T20:57:39",
-      "sha256": "fcb3add1bcc7370c988e4930e63b3e50868bd7c610078a58accc3f8ea6b01151",
+      "modifiedAtLocal": "2026-01-06T16:14:17",
+      "sha256": "a4d82e4fb4aeaef06b25282d41a832c36639231b4659b3377865db6b091effde",
       "lineCount": 43536
     },
     {
@@ -31,17 +31,17 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.ultra_flat.json",
       "sizeBytes": 945268,
       "sizeMB": 0.9015,
-      "modifiedAtLocal": "2025-12-30T20:57:39",
-      "sha256": "7852b85fe41530fe0b18b6bc034a845e4f52f5feffd4324b11564f968c3bedaa",
+      "modifiedAtLocal": "2026-01-06T16:14:17",
+      "sha256": "671d6770b1e33559ec44b29202ad18f6f2c0729bc8cb5882e34aa16907566451",
       "lineCount": 1
     },
     {
       "name": "MagicCompRules.ultra_flat.json.gz",
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.ultra_flat.json.gz",
-      "sizeBytes": 231981,
+      "sizeBytes": 231982,
       "sizeMB": 0.2212,
-      "modifiedAtLocal": "2025-12-30T20:57:39",
-      "sha256": "e054f2a23a41edae4177cb3396d42d078568ecb81bedb4d9c54fd8c2a0709e85",
+      "modifiedAtLocal": "2026-01-06T16:14:17",
+      "sha256": "174da43a08b2fd1a15bc877ce07c52468694486ab6cbd947c299de880a7c6b6f",
       "lineCount": 1
     }
   ],
