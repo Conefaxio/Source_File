@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-01-07T21:54:56Z",
+    "generatedAt": "2026-01-07T22:06:17Z",
     "script": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\rules_to_json.py",
     "cwd": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant"
   },
@@ -11,19 +11,46 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules 20251114.txt",
       "sizeBytes": 962951,
       "sizeMB": 0.9183,
-      "modifiedAtLocal": "2026-01-07T18:54:56",
+      "modifiedAtLocal": "2026-01-07T19:09:29",
       "sha256": "d3a35d82e84890e170e3952c4a1466322e889853e6c9c1bb7ea958c53fff5e85",
       "lineCount": 9250
     }
   },
   "outputs": [
     {
+      "name": "AllPrintings_MTGA_EN_ULTRA.json",
+      "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\AllPrintings_MTGA_EN_ULTRA.json",
+      "sizeBytes": 5063520,
+      "sizeMB": 4.8289,
+      "modifiedAtLocal": "2026-01-07T19:09:28",
+      "sha256": "52b14200a479b5f300a87a50898f89522cc6739f1fade8943847b663fd0ab0b3",
+      "lineCount": 1
+    },
+    {
+      "name": "AllPrintings_MTGA_EN_ULTRA.json.gz",
+      "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\AllPrintings_MTGA_EN_ULTRA.json.gz",
+      "sizeBytes": 810424,
+      "sizeMB": 0.7729,
+      "modifiedAtLocal": "2026-01-07T19:09:28",
+      "sha256": "4245b1400fcc38aa4df59276e6b0cacf9ae0c544c0df9638afc6b543e15812ce",
+      "lineCount": 1
+    },
+    {
+      "name": "AllPrintings_MTGA_EN_MIN.json",
+      "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\AllPrintings_MTGA_EN_MIN.json",
+      "sizeBytes": 6543508,
+      "sizeMB": 6.2404,
+      "modifiedAtLocal": "2026-01-07T19:09:27",
+      "sha256": "f761314785e06702d4f02d78dcb0a3e97cba2514743abdd80e19f69b1daa4265",
+      "lineCount": 1
+    },
+    {
       "name": "MagicCompRules.parsed.json",
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.parsed.json",
       "sizeBytes": 2031037,
       "sizeMB": 1.9369,
-      "modifiedAtLocal": "2026-01-07T18:54:57",
-      "sha256": "fd0b30989b380989783ee0edad981dc98183127a77a21ed9d17af6d8d0c08922",
+      "modifiedAtLocal": "2026-01-07T19:09:29",
+      "sha256": "4908d8d0a596b2167d3b562fac665591dd3c9bea96eed81fa2c723b5c98b8aa8",
       "lineCount": 43536
     },
     {
@@ -31,8 +58,8 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.ultra_flat.json",
       "sizeBytes": 945268,
       "sizeMB": 0.9015,
-      "modifiedAtLocal": "2026-01-07T18:54:57",
-      "sha256": "0b50ab2d98d481c7f0fe36c6dd82a96b295f98933b0409ed4a22b0766b17d330",
+      "modifiedAtLocal": "2026-01-07T19:09:29",
+      "sha256": "214307ca972911f5cbcbc9ff3341a399776b23e66bbfdee9a4a50500eb52a766",
       "lineCount": 1
     },
     {
@@ -40,8 +67,8 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.ultra_flat.json.gz",
       "sizeBytes": 231982,
       "sizeMB": 0.2212,
-      "modifiedAtLocal": "2026-01-07T18:54:57",
-      "sha256": "913b5cea217516b4c09b5a303e3002a90b9c02ad2b3b3d9a17ddfc2779d94926",
+      "modifiedAtLocal": "2026-01-07T19:09:29",
+      "sha256": "92b3a54b6cceb5a9cb425e922b046ec867cc60eff204bcecbaaa59ee05da79a5",
       "lineCount": 1
     }
   ],
