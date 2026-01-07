@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-01-06T19:14:15Z",
+    "generatedAt": "2026-01-07T21:49:24Z",
     "script": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\rules_to_json.py",
     "cwd": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant"
   },
@@ -11,7 +11,7 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules 20251114.txt",
       "sizeBytes": 962951,
       "sizeMB": 0.9183,
-      "modifiedAtLocal": "2026-01-06T16:14:16",
+      "modifiedAtLocal": "2026-01-07T18:49:25",
       "sha256": "d3a35d82e84890e170e3952c4a1466322e889853e6c9c1bb7ea958c53fff5e85",
       "lineCount": 9250
     }
@@ -22,8 +22,8 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.parsed.json",
       "sizeBytes": 2031037,
       "sizeMB": 1.9369,
-      "modifiedAtLocal": "2026-01-06T16:14:17",
-      "sha256": "a4d82e4fb4aeaef06b25282d41a832c36639231b4659b3377865db6b091effde",
+      "modifiedAtLocal": "2026-01-07T18:49:25",
+      "sha256": "9c8faa1b2f6e99ec341948f3796df047b5e49c66e264d5ab9f674a9700475758",
       "lineCount": 43536
     },
     {
@@ -31,8 +31,8 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.ultra_flat.json",
       "sizeBytes": 945268,
       "sizeMB": 0.9015,
-      "modifiedAtLocal": "2026-01-06T16:14:17",
-      "sha256": "671d6770b1e33559ec44b29202ad18f6f2c0729bc8cb5882e34aa16907566451",
+      "modifiedAtLocal": "2026-01-07T18:49:25",
+      "sha256": "e652dc0dda735b19ffae201056e684be06b8c3347bc1b142b045eee14ebe899d",
       "lineCount": 1
     },
     {
@@ -40,8 +40,8 @@
       "path": "C:\\Users\\ccarr\\PycharmProjects\\mtgassistant\\MagicCompRules.ultra_flat.json.gz",
       "sizeBytes": 231982,
       "sizeMB": 0.2212,
-      "modifiedAtLocal": "2026-01-06T16:14:17",
-      "sha256": "174da43a08b2fd1a15bc877ce07c52468694486ab6cbd947c299de880a7c6b6f",
+      "modifiedAtLocal": "2026-01-07T18:49:25",
+      "sha256": "44e3c21c6660ba096e0a139b3d95ece6272785b71ae972727ae84d6d0c2d38c6",
       "lineCount": 1
     }
   ],
