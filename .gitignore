@@ -1,0 +1,4 @@
+cache_scryfall/
+AllPrintings.json
+*.part
+__pycache__/
