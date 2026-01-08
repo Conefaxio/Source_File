@@ -2,10 +2,15 @@ name: Daily refresh (AllPrintings + Rules + Brains)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
+    paths:
+      - "New_brains/**"
+      - "daily_refresh.py"
+      - ".github/workflows/daily-refresh.yml"
   schedule:
     - cron: "25 03 * * 1"
   workflow_dispatch: {}
+
 
 
 permissions:
