@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-01-09T16:38:17Z",
+    "generatedAt": "2026-01-09T19:44:29Z",
     "script": "/home/runner/work/Source_File/Source_File/daily_refresh.py",
     "cwd": "/home/runner/work/Source_File/Source_File"
   },
@@ -11,7 +11,7 @@
       "path": "/home/runner/work/Source_File/Source_File/MagicCompRules 20251114.txt",
       "sizeBytes": 962951,
       "sizeMB": 0.9183,
-      "modifiedAtLocal": "2026-01-09T16:38:17",
+      "modifiedAtLocal": "2026-01-09T19:44:28",
       "sha256": "d3a35d82e84890e170e3952c4a1466322e889853e6c9c1bb7ea958c53fff5e85",
       "lineCount": 9250
     }
@@ -22,7 +22,7 @@
       "path": "/home/runner/work/Source_File/Source_File/AllPrintings_MTGA_EN_MIN.json",
       "sizeBytes": 6543508,
       "sizeMB": 6.2404,
-      "modifiedAtLocal": "2026-01-09T16:38:11",
+      "modifiedAtLocal": "2026-01-09T19:44:22",
       "sha256": "f761314785e06702d4f02d78dcb0a3e97cba2514743abdd80e19f69b1daa4265",
       "lineCount": 1
     },
@@ -31,8 +31,8 @@
       "path": "/home/runner/work/Source_File/Source_File/AllPrintings_MTGA_EN_ULTRA.json",
       "sizeBytes": 5063520,
       "sizeMB": 4.8289,
-      "modifiedAtLocal": "2026-01-09T16:38:16",
-      "sha256": "82092556796d41df657566f5f65047500cc0364fcfd1cfdce792d8522ec557f9",
+      "modifiedAtLocal": "2026-01-09T19:44:28",
+      "sha256": "1f0c736c72b7f5a1cfe588a2c1472287491d7f5636e880ab686443d9669ec9ce",
       "lineCount": 1
     },
     {
@@ -40,8 +40,8 @@
       "path": "/home/runner/work/Source_File/Source_File/AllPrintings_MTGA_EN_ULTRA.json.gz",
       "sizeBytes": 810424,
       "sizeMB": 0.7729,
-      "modifiedAtLocal": "2026-01-09T16:38:17",
-      "sha256": "c68126de290a9324f8cfc601721a9f7167c652b6601004487fc2401bc97e06ec",
+      "modifiedAtLocal": "2026-01-09T19:44:28",
+      "sha256": "1b8477aab1f6b8d792162152d01d08069c2cb4507ac3f95edf9ae8aff60c0326",
       "lineCount": 1
     },
     {
@@ -49,8 +49,8 @@
       "path": "/home/runner/work/Source_File/Source_File/MagicCompRules.parsed.json",
       "sizeBytes": 1987495,
       "sizeMB": 1.8954,
-      "modifiedAtLocal": "2026-01-09T16:38:17",
-      "sha256": "59f1cce6255830aae664f1832441f88566d8457d38612cfc72dc9784ce269d72",
+      "modifiedAtLocal": "2026-01-09T19:44:29",
+      "sha256": "e13168ac6eb590157c00e762b5060f912a38ef9fb0d22774bb0d90206d4a2cbc",
       "lineCount": 43536
     },
     {
@@ -58,8 +58,8 @@
       "path": "/home/runner/work/Source_File/Source_File/MagicCompRules.ultra_flat.json",
       "sizeBytes": 945261,
       "sizeMB": 0.9015,
-      "modifiedAtLocal": "2026-01-09T16:38:17",
-      "sha256": "115aafeea4b1fa3ff0eb922c3ee8263c5eb72eba7edd6d7e56bc73f52bec7d99",
+      "modifiedAtLocal": "2026-01-09T19:44:29",
+      "sha256": "d1e3a01772fc02cc1ff8d7fd12c879c02b798e0811a651ccf75a1ad931d6f4a2",
       "lineCount": 1
     },
     {
@@ -67,8 +67,8 @@
       "path": "/home/runner/work/Source_File/Source_File/MagicCompRules.ultra_flat.json.gz",
       "sizeBytes": 231962,
       "sizeMB": 0.2212,
-      "modifiedAtLocal": "2026-01-09T16:38:17",
-      "sha256": "51edde907cc4184b49e5b8563dd2330c73c9d69a21b0be7325a95f5a5d7d6145",
+      "modifiedAtLocal": "2026-01-09T19:44:29",
+      "sha256": "ca8d906dc8ffa7470518d0b0cd45f3f0d03efcf8626d1f693622f2d0cae52da2",
       "lineCount": 1
     }
   ],
