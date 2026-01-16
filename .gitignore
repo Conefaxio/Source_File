@@ -2,3 +2,14 @@ cache_scryfall/
 AllPrintings.json
 *.part
 __pycache__/
+
+# Bulk Scryfall descargado por daily_refresh
+scryfall-default-cards.json
+
+# Dumps por formato (no son fuente, solo diagnóstico)
+arena_standard.json
+arena_alchemy.json
+arena_explorer.json
+arena_historic.json
+arena_timeless.json
+arena_brawl.json
