@@ -1,6 +1,7 @@
 # ============================================================
 # VER        DATE            DETAIL
 # 1.0        16-01-2026      SE AGREGA mtgaLegalSetsByFormat PARA MANEJO DE SETS POR FORMATO
+# 1.1        16-01-2026      FIX - mtgaLegalSetsByFormat PARA MANEJO DE SETS POR FORMATO
 # ============================================================
 
 from __future__ import annotations
@@ -360,11 +361,23 @@ def generate_min_if_missing() -> None:
 
     legend = build_legality_legend(statuses)
 
+    # ✂️ NUEVO: Determinar qué sets son relevantes para ALGÚN formato que mantenemos
+    relevant_sets = set()
+    for fmt in KEEP_FORMATS:
+        if fmt in MTGA_LEGAL_SETS_BY_FORMAT:
+            relevant_sets.update(MTGA_LEGAL_SETS_BY_FORMAT[fmt])
+
+    print(f"✅ Sets relevantes para {KEEP_FORMATS}: {len(relevant_sets)} sets")
+
     out_data: dict[str, list[dict]] = {}
     kept_cards = 0
     kept_sets = 0
 
     for set_code, set_obj in payload["data"].items():
+        # ✂️ SOLO procesar sets que están en al menos un formato relevante
+        if set_code not in relevant_sets:
+            continue
+
         new_cards = []
         for card in set_obj.get("cards", []):
             if card.get("language") != "English":
@@ -444,7 +457,6 @@ def build_ultra_from_min(min_obj: dict) -> dict:
         "fm": FORMATS_ORDER,
         "d": out_d,
         "f": {"createdAt": utc_now_z(), "sets": sets, "cards": cards},
-        # NUEVA INFO ESTÁTICA DE FORMATOS
         "mtgaLegalSetsByFormat": MTGA_LEGAL_SETS_BY_FORMAT,
     }
 
