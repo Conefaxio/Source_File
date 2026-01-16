@@ -3,6 +3,8 @@
 # 1.0        16-01-2026      SE AGREGA mtgaLegalSetsByFormat PARA MANEJO DE SETS POR FORMATO
 # 1.1        16-01-2026      FIX - mtgaLegalSetsByFormat PARA MANEJO DE SETS POR FORMATO
 # 1.2        16-01-2026      FIX - agrega SET en AllPrintings_MTGA_EN_ULTRA.json
+# 1.3        16-01-2026      REFACTOR - ULTRA directo desde AllPrintings + Scryfall (IDs),
+#                            refuerzo solo Standard/Historic/Brawl y regeneración si m.date > 31 días
 # ============================================================
 
 from __future__ import annotations
@@ -16,20 +18,14 @@ import sys
 import os
 import hashlib
 from pathlib import Path
-from datetime import datetime, UTC
+from datetime import datetime, UTC, timedelta
+from collections import defaultdict, Counter
+from typing import Dict, Any, List, Set
 
 import requests
 
 # ============================================================
 # CI-FIRST SCRIPT (GitHub Actions friendly)
-# - No menú, no tokens, no GitHub Contents API.
-# - Genera AllPrintings (MTGJSON + Scryfall) y Comprehensive Rules.
-# - Consume brains desde New_brains/:
-#     * mueve a raíz
-#     * archiva brain anterior en raíz con fecha
-#     * deja marker vacío en New_brains: *.brain.json_ddmmyy_processed
-# - El "push" lo hace el workflow vía git commit/push usando GITHUB_TOKEN.
-#   (Requiere permissions: contents: write en el workflow)
 # ============================================================
 
 # ---------------- CONFIG ----------------
@@ -37,45 +33,24 @@ import requests
 MTGJSON_URL = "https://mtgjson.com/api/v5/AllPrintings.json"
 SCRYFALL_BULK_API = "https://api.scryfall.com/bulk-data"
 SCRYFALL_DEFAULT_TYPE = "default_cards"
-
-MIN_PATH = Path("AllPrintings_MTGA_EN_MIN.json")
-AP_OUT_JSON = Path("AllPrintings_MTGA_EN_ULTRA.json")
-AP_OUT_GZ = Path("AllPrintings_MTGA_EN_ULTRA.json.gz")
-AP_WRITE_GZ = True
+SCRYFALL_SEARCH_URL = "https://api.scryfall.com/cards/search"
 
 MTGJSON_PATH = Path("AllPrintings.json")
 SCRY_CACHE_DIR = Path("cache_scryfall")
 SCRY_DEFAULT_PATH = SCRY_CACHE_DIR / "default_cards.json"
 
-# En CI, ideal: KEEP_DOWNLOADED=True + actions/cache para reusar descargas.
-# Si no cacheas, puedes dejarlo en False para no dejar basura.
+AP_OUT_JSON = Path("AllPrintings_MTGA_EN_ULTRA.json")
+AP_OUT_GZ = Path("AllPrintings_MTGA_EN_ULTRA.json.gz")
+AP_WRITE_GZ = True
+
+# En CI, ideal: KEEP_DOWNLOADED=True + actions/cache
 KEEP_DOWNLOADED = True
 
-KEEP_FORMATS = {"standard", "alchemy", "explorer", "historic", "timeless", "brawl"}
-FORMATS_ORDER = ["standard", "alchemy", "explorer", "historic", "timeless", "brawl"]
+# Formatos foco / orden de la cadena de legalidades
+KEEP_FORMATS = ["standard", "alchemy", "explorer", "historic", "timeless", "brawl"]
 
-# MAPA ESTÁTICO DE SETS LEGALES POR FORMATO (ENERO 2026)
-MTGA_LEGAL_SETS_BY_FORMAT = {
-    "standard": ["MKM", "OTJ", "LCI", "MOM", "ONE", "VOC", "BLB", "DFT", "AED"],
-    "explorer": [
-        "ZNR", "KHM", "STX", "AFR", "MID", "VOW", "NEO", "SNC",
-        "DMU", "BRO", "ONE", "MOM", "LCI", "MKM", "OTJ", "VOC", "BLB", "DFT", "AED",
-    ],
-    "historic": [
-        "XLN", "RIX", "DOM", "M19", "GRN", "RNA", "WAR", "ELD",
-        "THB", "IKO", "M21", "ZNR", "KHM", "STX", "AFR", "MID",
-        "VOW", "NEO", "SNC", "DMU", "BRO", "ONE", "MOM", "LCI",
-        "MKM", "OTJ", "VOC", "BLB", "DFT", "AED",
-    ],
-    "timeless": [
-        "XLN", "RIX", "DOM", "M19", "GRN", "RNA", "WAR", "ELD",
-        "THB", "IKO", "M21", "ZNR", "KHM", "STX", "AFR", "MID",
-        "VOW", "NEO", "SNC", "DMU", "BRO", "ONE", "MOM", "LCI",
-        "MKM", "OTJ", "VOC", "BLB", "DFT", "AED",
-    ],
-    "alchemy": [],
-    "brawl": [],
-}
+# Formatos para los que se hace refuerzo Scryfall (diff por ID)
+FORMATS_TO_REINFORCE = ["standard", "historic", "brawl"]
 
 # 2) COMPREHENSIVE RULES
 COMP_RULES_TXT_URL = "https://media.wizards.com/2025/downloads/MagicCompRules%2020251114.txt"
@@ -102,19 +77,19 @@ NEW_BRAINS_DIR = Path("New_brains")
 def utc_now_z() -> str:
     return datetime.now(UTC).isoformat(timespec="seconds").replace("+00:00", "Z")
 
-def load_json(path: Path) -> dict:
+def load_json(path: Path) -> Any:
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def dump_pretty_json(path: Path, obj: dict) -> None:
+def dump_pretty_json(path: Path, obj: Any) -> None:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
 
-def dump_minified_json(path: Path, obj: dict) -> None:
+def dump_minified_json(path: Path, obj: Any) -> None:
     with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, separators=(",", ":"))
 
-def dump_minified_gzip_json(path: Path, obj: dict, compresslevel: int = 9) -> None:
+def dump_minified_gzip_json(path: Path, obj: Any, compresslevel: int = 9) -> None:
     with gzip.open(path, "wt", encoding="utf-8", compresslevel=compresslevel) as f:
         json.dump(obj, f, ensure_ascii=False, separators=(",", ":"))
 
@@ -183,7 +158,7 @@ def download_to(path: Path, url: str, timeout: int = 1800, label: str = "Descarg
                         f.write(chunk)
     tmp.replace(path)
 
-# ---------------- BRAINS: consume from New_brains ----------------
+# ---------------- BRAINS ----------------
 def _unique_path(p: Path) -> Path:
     if not p.exists():
         return p
@@ -202,13 +177,6 @@ def _date_tag_short() -> str:
     return datetime.now(UTC).strftime("%d%m%y")
 
 def consume_new_brains(repo_root: Path) -> None:
-    """
-    Regla:
-    - Si existe New_brains/{gemini|grooq}.brain.json:
-        1) Si en raíz existe {file}, archivarlo con _ddmmyyyy (y _2, _3 si colisiona)
-        2) Mover New_brains/{file} -> raíz/{file}
-        3) Crear marker vacío en New_brains: {file}_ddmmyy_processed (y _2, _3 si colisiona)
-    """
     new_dir = repo_root / NEW_BRAINS_DIR
     if not new_dir.exists():
         print("ℹ️ New_brains/ no existe. No hay brains para consumir.")
@@ -225,18 +193,15 @@ def consume_new_brains(repo_root: Path) -> None:
 
         dst = repo_root / fname
 
-        # 1) Archivar brain existente en raíz (si existe)
         if dst.exists():
             archived = _unique_path(repo_root / f"{fname}_{date_full}")
             dst.rename(archived)
             print(f"🗄️ Archivado root: {dst.name} -> {archived.name}")
 
-        # 2) Mover nuevo brain a raíz
         src.rename(dst)
         print(f"📦 Movido: {src} -> {dst}")
         moved_any = True
 
-        # 3) Crear marker vacío en New_brains
         marker = _unique_path(new_dir / f"{fname}_{date_short}_processed")
         marker.write_text("", encoding="utf-8")
         print(f"🏷️ Marker vacío: {marker}")
@@ -244,7 +209,7 @@ def consume_new_brains(repo_root: Path) -> None:
     if not moved_any:
         print("ℹ️ No se encontraron brains nuevos para mover.")
 
-# ---------------- ALLPRINTINGS: DOWNLOAD + MIN + ULTRA ----------------
+# ---------------- ALLPRINTINGS: MTGJSON + SCRYFALL ----------------
 def ensure_mtgjson_allprintings(path: Path = MTGJSON_PATH) -> tuple[Path, bool]:
     if path.exists() and path.stat().st_size > 0:
         print(f"✅ Usando MTGJSON local: {path} ({path.stat().st_size/1024/1024:.1f} MB)")
@@ -270,151 +235,243 @@ def build_arena_scryfall_ids(scry_default_path: Path) -> set[str]:
     arena_ids: set[str] = set()
     for c in cards:
         games = c.get("games") or []
-        if "arena" in games:
+        lang = c.get("lang")
+        if "arena" in games and lang == "en":
             sid = c.get("id")
             if sid:
                 arena_ids.add(sid)
-    print(f"✅ Printings con Arena en Scryfall: {len(arena_ids)}")
+    print(f"✅ Printings con game:arena & lang=en en Scryfall: {len(arena_ids)}")
     return arena_ids
 
-SEED_CODES = {"Legal": "L", "Banned": "B", "Restricted": "R", "Not Legal": "NL"}
+def build_legend() -> Dict[str, str]:
+    return {
+        "Legal": "L",
+        "Banned": "B",
+        "Restricted": "R",
+        "Not Legal": "NL",
+    }
 
-def _abbr_candidates(status: str) -> list[str]:
-    words = [w for w in status.replace("-", " ").split() if w]
-    initials = "".join(w[0].upper() for w in words) if words else status[:1].upper()
-    compact = "".join(ch for ch in status.upper() if ch.isalnum())
-
-    cands = []
-    if initials:
-        cands.append(initials)
-        for i in range(1, len(initials) + 1):
-            cands.append(initials[:i])
-    for i in range(1, min(len(compact), 6) + 1):
-        cands.append(compact[:i])
-
-    out, seen = [], set()
-    for c in cands:
-        if c and c not in seen:
-            seen.add(c)
-            out.append(c)
-    return out
-
-def build_legality_legend(all_statuses: set[str]) -> dict[str, str]:
-    code_to_status = {code: status for status, code in SEED_CODES.items()}
-    status_to_code = dict(SEED_CODES)
-
-    for status in sorted(all_statuses):
-        if status in status_to_code:
-            continue
-        for cand in _abbr_candidates(status):
-            if cand not in code_to_status:
-                status_to_code[status] = cand
-                code_to_status[cand] = status
-                break
-        else:
-            base = _abbr_candidates(status)[0] if status else "U"
-            n = 2
-            while f"{base}{n}" in code_to_status:
-                n += 1
-            code = f"{base}{n}"
-            status_to_code[status] = code
-            code_to_status[code] = status
-    return status_to_code
-
-def compact_legalities_dict(legalities: dict | None, legend: dict[str, str]) -> dict:
-    if not isinstance(legalities, dict):
+def compact_legalities_dict(legalities: Dict[str, str] | None, legend: Dict[str, str]) -> Dict[str, str]:
+    if not legalities:
         return {}
-    out = {}
+    comp: Dict[str, str] = {}
     for fmt in KEEP_FORMATS:
-        v = legalities.get(fmt)
-        if v:
-            out[fmt] = legend.get(v, v)
-    return out
+        st = legalities.get(fmt)
+        if not st:
+            continue
+        code = legend.get(st)
+        if not code:
+            continue
+        comp[fmt] = code
+    return comp
 
-def generate_min_if_missing() -> None:
-    if MIN_PATH.exists() and MIN_PATH.stat().st_size > 0:
-        print(f"✅ MIN existe: {MIN_PATH} ({MIN_PATH.stat().st_size/1024/1024:.2f} MB)")
+def encode_legalities_as_string(comp_legs: Dict[str, str]) -> str:
+    if not comp_legs:
+        return ",".join("." for _ in KEEP_FORMATS)
+    return ",".join(comp_legs.get(fmt, ".") for fmt in KEEP_FORMATS)
+
+def build_ultra_from_allprintings(mtg_path: Path, arena_ids: Set[str]) -> Dict[str, Any]:
+    print(f"[ULTRA] Cargando AllPrintings desde {mtg_path}...")
+    payload = load_json(mtg_path)
+    meta = payload.get("meta", {})
+    sets = payload.get("data", {})
+
+    legend = build_legend()
+    ultra_sets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    count_cards = 0
+
+    for set_code, set_obj in sets.items():
+        cards = set_obj.get("cards", [])
+        for card in cards:
+            if card.get("language") != "English":
+                continue
+
+            identifiers = card.get("identifiers") or {}
+            scry_id = identifiers.get("scryfallId")
+            if not scry_id:
+                continue
+
+            if scry_id not in arena_ids:
+                continue
+
+            comp_legs = compact_legalities_dict(card.get("legalities"), legend)
+            code = encode_legalities_as_string(comp_legs)
+
+            if all(ch == "." for ch in code.split(",")):
+                continue
+
+            text = card.get("text") or ""
+            ultra_card = {
+                "id": scry_id,
+                "n": card.get("name"),
+                "s": set_code,
+                "l": code,
+                "t": text,
+            }
+            ultra_sets[set_code].append(ultra_card)
+            count_cards += 1
+
+    ultra = {
+        "m": {
+            "date": meta.get("date"),
+            "version": meta.get("version"),
+        },
+        "fm": KEEP_FORMATS,
+        "ll": legend,
+        "d": ultra_sets,
+        "f": {"createdAt": utc_now_z(), "sets": len(ultra_sets), "cards": count_cards},
+    }
+
+    print(f"[ULTRA] sets: {len(ultra_sets)}, cartas: {count_cards}")
+    return ultra
+
+# ---------------- FRESCURA DE ULTRA ----------------
+def ultra_is_fresh(path: Path, max_age_days: int = 31) -> bool:
+    if not path.exists() or path.stat().st_size == 0:
+        return False
+
+    try:
+        obj = load_json(path)
+    except Exception:
+        return False
+
+    meta = obj.get("m", {})
+    date_str = meta.get("date")
+    if not date_str:
+        return False
+
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=UTC)
+    except ValueError:
+        return False
+
+    age = datetime.now(UTC) - dt
+    return age <= timedelta(days=max_age_days)
+
+# ---------------- SCRYFALL POR FORMATO ----------------
+def fetch_format_from_scryfall(fmt: str) -> List[Dict[str, Any]]:
+    all_cards: List[Dict[str, Any]] = []
+    q = f"format:{fmt} game:arena lang:en"
+    params = {
+        "q": q,
+        "unique": "prints",
+        "order": "set",
+        "dir": "asc",
+        "include_extras": "false",
+        "include_multilingual": "false",
+    }
+
+    url = SCRYFALL_SEARCH_URL
+    print(f"[{fmt}] Consultando Scryfall: {q}")
+    while url:
+        print(f"[{fmt}] GET {url}")
+        resp = requests.get(url, params=params if url == SCRYFALL_SEARCH_URL else None, timeout=60)
+        resp.raise_for_status()
+        data = resp.json()
+        cards = data.get("data", [])
+        all_cards.extend(cards)
+        print(f"  + {len(cards)} cartas (acumulado {len(all_cards)})")
+
+        if data.get("has_more"):
+            url = data.get("next_page")
+            params = None
+            time.sleep(0.2)
+        else:
+            url = None
+
+    print(f"[{fmt}] Total {fmt}+Arena+en: {len(all_cards)}")
+    return all_cards
+
+def inject_missing_for_format(fmt: str, fmt_index: int, ultra: Dict[str, Any], fmt_cards: List[Dict[str, Any]]) -> None:
+    legend = ultra["ll"]
+    ultra_sets: Dict[str, List[Dict[str, Any]]] = ultra["d"]
+
+    ultra_ids_fmt: Set[str] = set()
+    for set_code, cards in ultra_sets.items():
+        for c in cards:
+            cid = c.get("id")
+            if not cid:
+                continue
+            l_str = c.get("l") or ""
+            parts = l_str.split(",") if l_str else []
+            if len(parts) > fmt_index and parts[fmt_index] in ("L", "R"):
+                ultra_ids_fmt.add(cid)
+
+    scry_ids_fmt: Set[str] = set()
+    by_id: Dict[str, Dict[str, Any]] = {}
+    for card in fmt_cards:
+        cid = card.get("id")
+        if not cid:
+            continue
+        scry_ids_fmt.add(cid)
+        by_id[cid] = card
+
+    missing_ids = scry_ids_fmt - ultra_ids_fmt
+    print(f"[Diff:{fmt}] Scryfall IDs : {len(scry_ids_fmt)}")
+    print(f"[Diff:{fmt}] ULTRA IDs    : {len(ultra_ids_fmt)}")
+    print(f"[Diff:{fmt}] Faltantes    : {len(missing_ids)}")
+
+    added_per_set = Counter()
+    for cid in missing_ids:
+        card = by_id[cid]
+        set_code = (card.get("set") or "").upper()
+        if not set_code:
+            continue
+
+        comp_legs = compact_legalities_dict(card.get("legalities"), legend)
+        code = encode_legalities_as_string(comp_legs)
+        if all(ch == "." for ch in code.split(",")):
+            continue
+
+        text = card.get("oracle_text") or ""
+        ultra_card = {
+            "id": cid,
+            "n": card.get("name"),
+            "s": set_code,
+            "l": code,
+            "t": text,
+        }
+        ultra_sets[set_code].append(ultra_card)
+        added_per_set[set_code] += 1
+
+    if missing_ids:
+        print(f"[Inject:{fmt}] Cartas agregadas a ULTRA por set:")
+        for set_code, n in added_per_set.most_common():
+            print(f"  {set_code}: {n}")
+    else:
+        print(f"[Inject:{fmt}] No había faltantes que inyectar.")
+
+def generate_allprintings_ultra() -> None:
+    # Si ULTRA existe y es más reciente que 31 días, no lo regeneramos
+    if ultra_is_fresh(AP_OUT_JSON, max_age_days=31):
+        print(f"✅ AllPrintings ULTRA está fresco (<31 días). Se omite regeneración.")
         return
 
-    print(f"⚠️ MIN no existe ({MIN_PATH}). Se generará desde MTGJSON + Scryfall.")
     mtg_path, mtg_downloaded = ensure_mtgjson_allprintings()
     scry_path, scry_downloaded = ensure_scryfall_default()
     arena_ids = build_arena_scryfall_ids(scry_path)
-    payload = load_json(mtg_path)
 
-    statuses: set[str] = set(SEED_CODES.keys())
-    scanned = 0
-    for set_obj in payload["data"].values():
-        for card in set_obj.get("cards", []):
-            scanned += 1
-            if card.get("language") != "English":
-                continue
-            identifiers = card.get("identifiers") or {}
-            scry_id = identifiers.get("scryfallId")
-            if not scry_id or scry_id not in arena_ids:
-                continue
-            legalities = card.get("legalities")
-            if isinstance(legalities, dict):
-                for fmt in KEEP_FORMATS:
-                    v = legalities.get(fmt)
-                    if v:
-                        statuses.add(v)
+    ultra = build_ultra_from_allprintings(mtg_path, arena_ids)
+    dump_minified_json(AP_OUT_JSON, ultra)
+    print(f"💾 AllPrintings ULTRA base: {AP_OUT_JSON} ({AP_OUT_JSON.stat().st_size/1024/1024:.2f} MB)")
 
-    legend = build_legality_legend(statuses)
-
-    # Determinar qué sets son relevantes para ALGÚN formato que mantenemos
-    relevant_sets = set()
-    for fmt in KEEP_FORMATS:
-        if fmt in MTGA_LEGAL_SETS_BY_FORMAT:
-            relevant_sets.update(MTGA_LEGAL_SETS_BY_FORMAT[fmt])
-
-    print(f"✅ Sets relevantes para {KEEP_FORMATS}: {len(relevant_sets)} sets")
-
-    out_data: dict[str, list[dict]] = {}
-    kept_cards = 0
-    kept_sets = 0
-
-    for set_code, set_obj in payload["data"].items():
-        # SOLO procesar sets que están en al menos un formato relevante
-        if set_code not in relevant_sets:
+    # Refuerzo solo para algunos formatos (el resto se queda con MTGJSON/base)
+    for fmt in FORMATS_TO_REINFORCE:
+        if fmt not in KEEP_FORMATS:
             continue
+        fmt_index = KEEP_FORMATS.index(fmt)
+        fmt_cards = fetch_format_from_scryfall(fmt)
+        fmt_path = Path(f"arena_{fmt}.json")
+        dump_minified_json(fmt_path, fmt_cards)
+        print(f"[{fmt}] Guardado en {fmt_path}")
+        inject_missing_for_format(fmt, fmt_index, ultra, fmt_cards)
 
-        new_cards = []
-        for card in set_obj.get("cards", []):
-            if card.get("language") != "English":
-                continue
-            identifiers = card.get("identifiers") or {}
-            scry_id = identifiers.get("scryfallId")
-            if not scry_id or scry_id not in arena_ids:
-                continue
-            new_cards.append({
-                "name": card.get("name"),
-                "set": card.get("setCode", set_code),
-                "legalities": compact_legalities_dict(card.get("legalities"), legend),
-                "text": card.get("text"),
-            })
-            kept_cards += 1
-        if new_cards:
-            out_data[set_code] = new_cards
-            kept_sets += 1
+    dump_minified_json(AP_OUT_JSON, ultra)
+    print(f"✅ AllPrintings ULTRA final: {AP_OUT_JSON} ({AP_OUT_JSON.stat().st_size/1024/1024:.2f} MB)")
 
-    out_payload = {
-        "meta": payload.get("meta", {}),
-        "legalityLegend": legend,
-        "data": out_data,
-        "filtered": {
-            "createdAt": utc_now_z(),
-            "scannedCards": scanned,
-            "keptCards": kept_cards,
-            "keptSets": kept_sets,
-            "keptFormats": sorted(KEEP_FORMATS),
-            "minified": True,
-        }
-    }
-
-    print(f"💾 Escribiendo MIN: {MIN_PATH}")
-    dump_minified_json(MIN_PATH, out_payload)
-    print(f"✅ MIN listo: {MIN_PATH} ({MIN_PATH.stat().st_size/1024/1024:.2f} MB)")
+    if AP_WRITE_GZ:
+        dump_minified_gzip_json(AP_OUT_GZ, ultra, compresslevel=9)
+        print(f"✅ AllPrintings ULTRA gzip: {AP_OUT_GZ} ({AP_OUT_GZ.stat().st_size/1024/1024:.2f} MB)")
 
     if not KEEP_DOWNLOADED:
         if mtg_downloaded:
@@ -424,59 +481,7 @@ def generate_min_if_missing() -> None:
             SCRY_DEFAULT_PATH.unlink(missing_ok=True)
             print(f"🧽 Eliminado descargado: {SCRY_DEFAULT_PATH}")
 
-def encode_legalities_as_string(leg_dict: dict | None) -> str:
-    if not isinstance(leg_dict, dict) or not leg_dict:
-        return ",".join(["."] * len(FORMATS_ORDER))
-    return ",".join([(leg_dict.get(fmt) or ".") for fmt in FORMATS_ORDER])
-
-def build_ultra_from_min(min_obj: dict) -> dict:
-    meta = min_obj.get("meta", {})
-    legend = min_obj.get("legalityLegend", {})
-    data = min_obj.get("data", {})
-
-    out_d = {}
-    cards = 0
-    sets = 0
-
-    for set_code, arr in data.items():
-        if not arr:
-            continue
-        new_arr = []
-        for c in arr:
-            new_arr.append({
-                "n": c.get("name"),
-                "s": c.get("set", set_code),  # CONSERVAR set_code REAL
-                "l": encode_legalities_as_string(c.get("legalities")),
-                "t": c.get("text"),
-            })
-            cards += 1
-        out_d[set_code] = new_arr
-        sets += 1
-
-    return {
-        "m": meta,
-        "ll": legend,
-        "fm": FORMATS_ORDER,
-        "d": out_d,
-        "f": {"createdAt": utc_now_z(), "sets": sets, "cards": cards},
-        "mtgaLegalSetsByFormat": MTGA_LEGAL_SETS_BY_FORMAT,
-    }
-
-def generate_allprintings_ultra() -> None:
-    generate_min_if_missing()
-    min_obj = load_json(MIN_PATH)
-    ultra = build_ultra_from_min(min_obj)
-
-    print(f"💾 Escribiendo AllPrintings ULTRA: {AP_OUT_JSON}")
-    dump_minified_json(AP_OUT_JSON, ultra)
-    print(f"✅ AllPrintings ULTRA listo: {AP_OUT_JSON} ({AP_OUT_JSON.stat().st_size/1024/1024:.2f} MB)")
-
-    if AP_WRITE_GZ:
-        print(f"💾 Escribiendo AllPrintings ULTRA gzip: {AP_OUT_GZ}")
-        dump_minified_gzip_json(AP_OUT_GZ, ultra, compresslevel=9)
-        print(f"✅ AllPrintings ULTRA gzip listo: {AP_OUT_GZ} ({AP_OUT_GZ.stat().st_size/1024/1024:.2f} MB)")
-
-# ---------------- COMPREHENSIVE RULES: DOWNLOAD + PARSE ----------------
+# ---------------- COMPREHENSIVE RULES ----------------
 def download_magiccomprules_txt(url: str, dest_folder: Path) -> Path:
     dest_folder.mkdir(parents=True, exist_ok=True)
     clean_url = url.split("?", 1)[0]
@@ -575,15 +580,12 @@ def main():
     print(f"__file__      : {script_path}")
     print(f"generatedAt   : {utc_now_z()}")
 
-    # 0) Consume brains desde New_brains (si existen)
     print("\n=== STEP 0: Consume New_brains ===")
     consume_new_brains(repo_root)
 
-    # A) AllPrintings primero
     print("\n=== STEP A: AllPrintings (MTGJSON + Scryfall) ===")
     generate_allprintings_ultra()
 
-    # B) Comprehensive Rules
     print("\n=== STEP B: Comprehensive Rules ===")
     input_path = download_magiccomprules_txt(COMP_RULES_TXT_URL, repo_root)
     print(f"📄 Fuente: {input_path.name}")
@@ -621,7 +623,6 @@ def main():
     print(f"✅ Ultra-flat: {OUT_ULTRA_FLAT_JSON} ({OUT_ULTRA_FLAT_JSON.stat().st_size/1024/1024:.2f} MB)")
 
     outputs = [
-        MIN_PATH,
         AP_OUT_JSON,
         *( [AP_OUT_GZ] if AP_WRITE_GZ else [] ),
         OUT_NORMAL_JSON,
@@ -649,6 +650,7 @@ def main():
             print(f"- {p} ({p.stat().st_size/1024/1024:.2f} MB)")
         else:
             print(f"- {p} (NO EXISTE)")
+
 
 if __name__ == "__main__":
     main()
