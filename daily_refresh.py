@@ -4,7 +4,7 @@
 # 1.1        16-01-2026      FIX - mtgaLegalSetsByFormat PARA MANEJO DE SETS POR FORMATO
 # 1.2        16-01-2026      FIX - agrega SET en AllPrintings_MTGA_EN_ULTRA.json
 # 1.3        16-01-2026      REFACTOR - ULTRA directo desde AllPrintings + Scryfall (IDs),
-#                            refuerzo solo Standard/Historic/Brawl y regeneración si m.date > 31 días
+#                             refuerzo solo Standard/Historic/Brawl y regeneración si m.date > 31 días
 # ============================================================
 
 from __future__ import annotations
