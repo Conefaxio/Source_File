@@ -2,6 +2,7 @@
 # VER        DATE            DETAIL
 # 1.0        16-01-2026      SE AGREGA mtgaLegalSetsByFormat PARA MANEJO DE SETS POR FORMATO
 # 1.1        16-01-2026      FIX - mtgaLegalSetsByFormat PARA MANEJO DE SETS POR FORMATO
+# 1.2        16-01-2026      FIX - agrega SET en AllPrintings_MTGA_EN_ULTRA.json
 # ============================================================
 
 from __future__ import annotations
@@ -361,7 +362,7 @@ def generate_min_if_missing() -> None:
 
     legend = build_legality_legend(statuses)
 
-    # ✂️ NUEVO: Determinar qué sets son relevantes para ALGÚN formato que mantenemos
+    # Determinar qué sets son relevantes para ALGÚN formato que mantenemos
     relevant_sets = set()
     for fmt in KEEP_FORMATS:
         if fmt in MTGA_LEGAL_SETS_BY_FORMAT:
@@ -374,7 +375,7 @@ def generate_min_if_missing() -> None:
     kept_sets = 0
 
     for set_code, set_obj in payload["data"].items():
-        # ✂️ SOLO procesar sets que están en al menos un formato relevante
+        # SOLO procesar sets que están en al menos un formato relevante
         if set_code not in relevant_sets:
             continue
 
@@ -444,6 +445,7 @@ def build_ultra_from_min(min_obj: dict) -> dict:
         for c in arr:
             new_arr.append({
                 "n": c.get("name"),
+                "s": c.get("set", set_code),  # CONSERVAR set_code REAL
                 "l": encode_legalities_as_string(c.get("legalities")),
                 "t": c.get("text"),
             })
