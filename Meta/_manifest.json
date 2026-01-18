@@ -1,32 +1,32 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "date": "18-JAN-2026",
-  "updatedAt": "2026-01-18T17:16:52+00:00",
+  "updatedAt": "2026-01-18T18:01:17+00:00",
   "sources": {
-    "standard": "aetherhub",
-    "historic": "aetherhub",
-    "brawl": "aetherhub"
+    "aetherhub_formats": [
+      "Standard BO1",
+      "Alchemy BO1",
+      "Historic BO1"
+    ]
   },
   "limits": {
     "standard": 60,
     "historic": 60,
-    "brawl": 100
+    "brawl": 0,
+    "alchemy": 20
   },
   "outputs": {
     "standard": {
       "decks": 0,
-      "uniqueCards": 0,
-      "uniqueCommanders": 0
+      "uniqueCards": 0
     },
     "historic": {
       "decks": 0,
-      "uniqueCards": 0,
-      "uniqueCommanders": 0
+      "uniqueCards": 0
     },
-    "brawl": {
+    "alchemy": {
       "decks": 0,
-      "uniqueCards": 0,
-      "uniqueCommanders": 0
+      "uniqueCards": 0
     }
   }
 }
