@@ -32,6 +32,12 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add Meta
+
+          # Añadir solo los cambios bajo Source_File/Meta
+          git add Source_File/Meta
+
+          # Si hay cambios staged, commitear
           git diff --cached --quiet || git commit -m "chore(meta): weekly refresh"
+
+          # Pushear a la rama actual
           git push
