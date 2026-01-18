@@ -26,7 +26,7 @@ jobs:
 
       - name: Refresh meta
         run: |
-          python scripts/meta_weekly_refresh.py
+          python meta_weekly_refresh.py
 
       - name: Commit and push
         run: |
