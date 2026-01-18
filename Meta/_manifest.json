@@ -1,0 +1,32 @@
+{
+  "version": "1.0.2",
+  "date": "18-JAN-2026",
+  "updatedAt": "2026-01-18T17:16:52+00:00",
+  "sources": {
+    "standard": "aetherhub",
+    "historic": "aetherhub",
+    "brawl": "aetherhub"
+  },
+  "limits": {
+    "standard": 60,
+    "historic": 60,
+    "brawl": 100
+  },
+  "outputs": {
+    "standard": {
+      "decks": 0,
+      "uniqueCards": 0,
+      "uniqueCommanders": 0
+    },
+    "historic": {
+      "decks": 0,
+      "uniqueCards": 0,
+      "uniqueCommanders": 0
+    },
+    "brawl": {
+      "decks": 0,
+      "uniqueCards": 0,
+      "uniqueCommanders": 0
+    }
+  }
+}
