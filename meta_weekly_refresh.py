@@ -8,13 +8,12 @@ Genera archivos Meta/<format>/decks.json e Meta/<format>/index.json
 para los formatos: Standard, Alchemy, Explorer, Historic, Timeless.
 
 Estructura:
-  Source_File/
-    Meta/
-      standard/decks.json, index.json
-      alchemy/decks.json, index.json
-      historic/decks.json, index.json
-      brawl/ (no se toca)
-      timeless/decks.json, index.json
+  Meta/
+    standard/decks.json, index.json
+    alchemy/decks.json, index.json
+    historic/decks.json, index.json
+    explorer/decks.json, index.json
+    timeless/decks.json, index.json
 """
 
 import json
@@ -129,7 +128,7 @@ def main():
     print("MTG Arena Multi-Format Meta Refresh")
     print("=" * 50)
 
-    base_meta_dir = os.path.join("Source_File", "Meta")
+    base_meta_dir = "Meta"
     ensure_dir(base_meta_dir)
 
     for format_name, cfg in FORMATS.items():
