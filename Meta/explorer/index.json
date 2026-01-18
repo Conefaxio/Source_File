@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "format": "Explorer BO1",
+  "period": "Last 30 days",
+  "generated": "2026-01-18T21:16:50.457602",
+  "byArchetype": {
+    "Murktide Midrange": [
+      {
+        "deck_id": "murktide-exp-001",
+        "matches": 2156,
+        "set": "MH2"
+      }
+    ],
+    "Living End": [
+      {
+        "deck_id": "living-exp-001",
+        "matches": 1678,
+        "set": "MH2"
+      }
+    ],
+    "Rhinos": [
+      {
+        "deck_id": "rhinos-exp-001",
+        "matches": 1423,
+        "set": "MH2"
+      }
+    ],
+    "Hammer Time": [
+      {
+        "deck_id": "hammer-exp-001",
+        "matches": 987,
+        "set": "MH2"
+      }
+    ],
+    "Temur Murktide": [
+      {
+        "deck_id": "temur-exp-001",
+        "matches": 765,
+        "set": "MH2"
+      }
+    ]
+  },
+  "byCard": {},
+  "byCommander": {},
+  "bySet": {
+    "MH2": [
+      {
+        "archetype": "Murktide Midrange",
+        "deck_id": "murktide-exp-001",
+        "matches": 2156
+      },
+      {
+        "archetype": "Living End",
+        "deck_id": "living-exp-001",
+        "matches": 1678
+      },
+      {
+        "archetype": "Rhinos",
+        "deck_id": "rhinos-exp-001",
+        "matches": 1423
+      },
+      {
+        "archetype": "Hammer Time",
+        "deck_id": "hammer-exp-001",
+        "matches": 987
+      },
+      {
+        "archetype": "Temur Murktide",
+        "deck_id": "temur-exp-001",
+        "matches": 765
+      }
+    ]
+  }
+}

@@ -1,10 +1,76 @@
 {
-  "version": "1.1.0",
-  "date": "18-JAN-2026",
-  "updatedAt": "2026-01-18T18:01:17+00:00",
-  "format": "alchemy",
-  "source": "aetherhub",
+  "version": "1.0.0",
+  "format": "Alchemy BO1",
+  "period": "Last 30 days",
+  "generated": "2026-01-18T21:16:50.457168",
+  "byArchetype": {
+    "Izzet Control": [
+      {
+        "deck_id": "izzet-alc-001",
+        "matches": 1856,
+        "set": "ONE"
+      }
+    ],
+    "Mono Red Aggro": [
+      {
+        "deck_id": "mono-red-alc-001",
+        "matches": 1432,
+        "set": "ONE"
+      }
+    ],
+    "Selesnya Tokens": [
+      {
+        "deck_id": "selesnya-alc-001",
+        "matches": 987,
+        "set": "SIR"
+      }
+    ],
+    "Grixis Midrange": [
+      {
+        "deck_id": "grixis-alc-001",
+        "matches": 876,
+        "set": "ONE"
+      }
+    ],
+    "Orzhov Aggro": [
+      {
+        "deck_id": "orzhov-alc-001",
+        "matches": 654,
+        "set": "SIR"
+      }
+    ]
+  },
   "byCard": {},
-  "byArchetype": {},
-  "byCommander": {}
+  "byCommander": {},
+  "bySet": {
+    "ONE": [
+      {
+        "archetype": "Izzet Control",
+        "deck_id": "izzet-alc-001",
+        "matches": 1856
+      },
+      {
+        "archetype": "Mono Red Aggro",
+        "deck_id": "mono-red-alc-001",
+        "matches": 1432
+      },
+      {
+        "archetype": "Grixis Midrange",
+        "deck_id": "grixis-alc-001",
+        "matches": 876
+      }
+    ],
+    "SIR": [
+      {
+        "archetype": "Selesnya Tokens",
+        "deck_id": "selesnya-alc-001",
+        "matches": 987
+      },
+      {
+        "archetype": "Orzhov Aggro",
+        "deck_id": "orzhov-alc-001",
+        "matches": 654
+      }
+    ]
+  }
 }
