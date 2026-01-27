@@ -1,0 +1,14 @@
+{
+  "version": "1.3.0",
+  "date": "18-JAN-2026",
+  "updatedAt": "2026-01-18T19:25:15+00:00",
+  "formats": [
+    "standard"
+  ],
+  "outputs": {
+    "standard": {
+      "decks": 0,
+      "uniqueCards": 0
+    }
+  }
+}
