@@ -2,8 +2,8 @@
   "version": "1.0",
   "format": "Alchemy BO1",
   "period": "Last 30 days",
-  "generated": "2026-01-27T17:01:05.342542",
-  "total_decks": 22,
+  "generated": "2026-02-01T18:43:14.205586",
+  "total_decks": 21,
   "decks": [
     {
       "archetype": "Orzhov",
@@ -98,6 +98,89 @@
         {
           "name": "Temple of Silence",
           "quantity": 1,
+          "set": "FDN"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mono Black",
+      "deck_id": "mono-black-1385674",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-black-1385674",
+      "main": [
+        {
+          "name": "Song of Point Prime",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Monoist Gravliner",
+          "quantity": 2,
+          "set": "YEOE"
+        },
+        {
+          "name": "Tragic Trajectory",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Strategic Betrayal",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Cantor of the Refrain",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Timeline Culler",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Susurian Voidborn",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Gatekeeper of Malakir",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Cynical Loner",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Gas Guzzler",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Bloodghast",
+          "quantity": 3,
+          "set": "DFT"
+        },
+        {
+          "name": "Voidcalled Devotee",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 16,
+          "set": "DFT"
+        },
+        {
+          "name": "Susur Secundi, Void Altar",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Demolition Field",
+          "quantity": 2,
           "set": "FDN"
         }
       ],
@@ -226,89 +309,6 @@
           "set": "BLB"
         }
       ]
-    },
-    {
-      "archetype": "Mono Black",
-      "deck_id": "mono-black-1385674",
-      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-black-1385674",
-      "main": [
-        {
-          "name": "Song of Point Prime",
-          "quantity": 4,
-          "set": "YEOE"
-        },
-        {
-          "name": "Monoist Gravliner",
-          "quantity": 2,
-          "set": "YEOE"
-        },
-        {
-          "name": "Tragic Trajectory",
-          "quantity": 2,
-          "set": "EOE"
-        },
-        {
-          "name": "Strategic Betrayal",
-          "quantity": 3,
-          "set": "TDM"
-        },
-        {
-          "name": "Cantor of the Refrain",
-          "quantity": 4,
-          "set": "YEOE"
-        },
-        {
-          "name": "Timeline Culler",
-          "quantity": 4,
-          "set": "EOE"
-        },
-        {
-          "name": "Susurian Voidborn",
-          "quantity": 4,
-          "set": "EOE"
-        },
-        {
-          "name": "Gatekeeper of Malakir",
-          "quantity": 4,
-          "set": "FDN"
-        },
-        {
-          "name": "Cynical Loner",
-          "quantity": 4,
-          "set": "DSK"
-        },
-        {
-          "name": "Gas Guzzler",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Bloodghast",
-          "quantity": 3,
-          "set": "DFT"
-        },
-        {
-          "name": "Voidcalled Devotee",
-          "quantity": 4,
-          "set": "YEOE"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 16,
-          "set": "DFT"
-        },
-        {
-          "name": "Susur Secundi, Void Altar",
-          "quantity": 2,
-          "set": "EOE"
-        },
-        {
-          "name": "Demolition Field",
-          "quantity": 2,
-          "set": "FDN"
-        }
-      ],
-      "sideboard": []
     },
     {
       "archetype": "Boros",
@@ -2180,134 +2180,6 @@
           "name": "Desert Cenote",
           "quantity": 4,
           "set": "YTDM"
-        }
-      ],
-      "sideboard": []
-    },
-    {
-      "archetype": "Golgari",
-      "deck_id": "golgari-1374915",
-      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/golgari-1374915",
-      "main": [
-        {
-          "name": "Jecht, Reluctant Guardian // Braska's Final Aeon",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Fountainport Charmer",
-          "quantity": 4,
-          "set": "YBLB"
-        },
-        {
-          "name": "Starscape Cleric",
-          "quantity": 4,
-          "set": "BLB"
-        },
-        {
-          "name": "Bloodthirsty Conqueror",
-          "quantity": 4,
-          "set": "FDN"
-        },
-        {
-          "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
-          "quantity": 2,
-          "set": "FIN"
-        },
-        {
-          "name": "Disruptive Stormbrood",
-          "quantity": 4,
-          "set": "TDM"
-        },
-        {
-          "name": "Overlord of the Balemurk",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Scavenger Regent",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Speedbrood Stalker",
-          "quantity": 4,
-          "set": "YDFT"
-        },
-        {
-          "name": "Duress",
-          "quantity": 2,
-          "set": "FDN"
-        },
-        {
-          "name": "Replicating Terror",
-          "quantity": 2,
-          "set": "YDSK"
-        },
-        {
-          "name": "Spectacle of Destruction",
-          "quantity": 1,
-          "set": "YDFT"
-        },
-        {
-          "name": "Stab",
-          "quantity": 3,
-          "set": "FDN"
-        },
-        {
-          "name": "Hero's Downfall",
-          "quantity": 2,
-          "set": "FDN"
-        },
-        {
-          "name": "Draconic Fealty",
-          "quantity": 1,
-          "set": "YTDM"
-        },
-        {
-          "name": "Maelstrom Pulse",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Clash of the Eikons",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 5,
-          "set": "DFT"
-        },
-        {
-          "name": "Wastewood Verge",
-          "quantity": 3,
-          "set": "DFT"
-        },
-        {
-          "name": "Jungle Hollow",
-          "quantity": 4,
-          "set": "DFT"
-        },
-        {
-          "name": "Temple of Malady",
-          "quantity": 3,
-          "set": "FDN"
-        },
-        {
-          "name": "Midgar, City of Mako",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Woodland Cemetery",
-          "quantity": 3,
-          "set": "DOM"
-        },
-        {
-          "name": "Forest",
-          "quantity": 5,
-          "set": "DFT"
         }
       ],
       "sideboard": []
