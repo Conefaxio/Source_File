@@ -2,9 +2,122 @@
   "version": "1.0",
   "format": "Timeless BO1",
   "period": "Last 30 days",
-  "generated": "2026-01-27T17:06:32.595501",
-  "total_decks": 10,
+  "generated": "2026-02-01T18:49:06.112988",
+  "total_decks": 9,
   "decks": [
+    {
+      "archetype": "Four Color",
+      "deck_id": "four-color-1387083",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/four-color-1387083",
+      "main": [
+        {
+          "name": "Agadeem's Awakening",
+          "quantity": 2,
+          "set": "ZNR"
+        },
+        {
+          "name": "Assemble the Team",
+          "quantity": 4,
+          "set": "YBRO"
+        },
+        {
+          "name": "Fell the Profane",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Bridgeworks Battle",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Goblin Charbelcher",
+          "quantity": 4,
+          "set": "BRR"
+        },
+        {
+          "name": "Turntimber Symbiosis",
+          "quantity": 1,
+          "set": "ZNR"
+        },
+        {
+          "name": "Revitalizing Repast",
+          "quantity": 1,
+          "set": "MH3"
+        },
+        {
+          "name": "Mishra's Bauble",
+          "quantity": 4,
+          "set": "BRR"
+        },
+        {
+          "name": "Chromatic Sphere",
+          "quantity": 3,
+          "set": "JMP"
+        },
+        {
+          "name": "Chromatic Star",
+          "quantity": 3,
+          "set": "BRR"
+        },
+        {
+          "name": "Wizard's Rockets",
+          "quantity": 4,
+          "set": "LTR"
+        },
+        {
+          "name": "Dark Ritual",
+          "quantity": 4,
+          "set": "STA"
+        },
+        {
+          "name": "Beseech the Mirror",
+          "quantity": 4,
+          "set": "WOE"
+        },
+        {
+          "name": "Channel",
+          "quantity": 1,
+          "set": "STA"
+        },
+        {
+          "name": "Irencrag Feat",
+          "quantity": 1,
+          "set": "ELD"
+        },
+        {
+          "name": "Demonic Tutor",
+          "quantity": 1,
+          "set": "STA"
+        },
+        {
+          "name": "Chrome Mox",
+          "quantity": 4,
+          "set": "SPG"
+        },
+        {
+          "name": "Leyline of Sanctity",
+          "quantity": 3,
+          "set": "WOT"
+        },
+        {
+          "name": "Pact of Negation",
+          "quantity": 1,
+          "set": "AKR"
+        },
+        {
+          "name": "Boggart Trawler",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Disciple of Freyalise",
+          "quantity": 4,
+          "set": "MH3"
+        }
+      ],
+      "sideboard": []
+    },
     {
       "archetype": "Grixis",
       "deck_id": "grixis-1386117",
@@ -1127,228 +1240,6 @@
           "set": "M21"
         }
       ]
-    },
-    {
-      "archetype": "Colorless",
-      "deck_id": "colorless-1375796",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/colorless-1375796",
-      "main": [
-        {
-          "name": "Chalice of the Void",
-          "quantity": 4,
-          "set": "MRD"
-        },
-        {
-          "name": "Mind Stone",
-          "quantity": 4,
-          "set": "WTH"
-        },
-        {
-          "name": "The One Ring",
-          "quantity": 3,
-          "set": "LTR"
-        },
-        {
-          "name": "Kozilek's Command",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Warping Wail",
-          "quantity": 4,
-          "set": "SPG"
-        },
-        {
-          "name": "Guardian Idol",
-          "quantity": 3,
-          "set": "J25"
-        },
-        {
-          "name": "The Irencrag",
-          "quantity": 1,
-          "set": "WOE"
-        },
-        {
-          "name": "Extinguisher Battleship",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Karn, the Great Creator",
-          "quantity": 4,
-          "set": "BLC"
-        },
-        {
-          "name": "Ugin, the Spirit Dragon",
-          "quantity": 2,
-          "set": "M21"
-        },
-        {
-          "name": "Ugin, Eye of the Storms",
-          "quantity": 2,
-          "set": "TDM"
-        },
-        {
-          "name": "Devourer of Destiny",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Ugin's Labyrinth",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Strip Mine",
-          "quantity": 4,
-          "set": "EOS"
-        },
-        {
-          "name": "Ancient Tomb",
-          "quantity": 4,
-          "set": "EOS"
-        },
-        {
-          "name": "Fomori Vault",
-          "quantity": 1,
-          "set": "BIG"
-        },
-        {
-          "name": "Eldrazi Temple",
-          "quantity": 4,
-          "set": "EOS"
-        },
-        {
-          "name": "Blast Zone",
-          "quantity": 2,
-          "set": "BRO"
-        },
-        {
-          "name": "Inventors' Fair",
-          "quantity": 1,
-          "set": "KLR"
-        },
-        {
-          "name": "The Grey Havens",
-          "quantity": 1,
-          "set": "LTR"
-        },
-        {
-          "name": "Crystal Grotto",
-          "quantity": 3,
-          "set": "WOE"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "The One Ring",
-          "quantity": 1,
-          "set": "LTR"
-        },
-        {
-          "name": "Tormod's Crypt",
-          "quantity": 1,
-          "set": "M21"
-        },
-        {
-          "name": "Forsaken Monument",
-          "quantity": 1,
-          "set": "ZNR"
-        },
-        {
-          "name": "Disruptor Flute",
-          "quantity": 1,
-          "set": "MH3"
-        },
-        {
-          "name": "Crucible of Worlds",
-          "quantity": 1,
-          "set": "M19"
-        },
-        {
-          "name": "Extinguisher Battleship",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Liquimetal Coating",
-          "quantity": 1,
-          "set": "BRR"
-        }
-      ]
-    },
-    {
-      "archetype": "Mono Green",
-      "deck_id": "mono-green-1375104",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-green-1375104",
-      "main": [
-        {
-          "name": "Llanowar Elves",
-          "quantity": 4,
-          "set": "J25"
-        },
-        {
-          "name": "Elvish Warmaster",
-          "quantity": 4,
-          "set": "KHM"
-        },
-        {
-          "name": "Elvish Clancaller",
-          "quantity": 4,
-          "set": "M19"
-        },
-        {
-          "name": "Imperious Perfect",
-          "quantity": 4,
-          "set": "LRW"
-        },
-        {
-          "name": "Woodland Champion",
-          "quantity": 3,
-          "set": "J25"
-        },
-        {
-          "name": "Elvish Archdruid",
-          "quantity": 4,
-          "set": "J25"
-        },
-        {
-          "name": "Leaf-Crowned Visionary",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Silverback Elder",
-          "quantity": 3,
-          "set": "DMU"
-        },
-        {
-          "name": "Llanowar Loamspeaker",
-          "quantity": 2,
-          "set": "DMU"
-        },
-        {
-          "name": "Rabid Bite",
-          "quantity": 3,
-          "set": "BLB"
-        },
-        {
-          "name": "Collected Company",
-          "quantity": 3,
-          "set": "SPG"
-        },
-        {
-          "name": "Tribute to the World Tree",
-          "quantity": 3,
-          "set": "MOM"
-        },
-        {
-          "name": "Forest",
-          "quantity": 24,
-          "set": "DFT"
-        }
-      ],
-      "sideboard": []
     }
   ]
 }
