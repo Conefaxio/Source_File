@@ -1,8 +1,163 @@
 {
   "version": "1.0",
-  "generated": "2026-01-27T17:06:32.596501",
-  "total_cards": 211,
+  "generated": "2026-02-01T18:49:06.115524",
+  "total_cards": 193,
   "cards": {
+    "Agadeem's Awakening": {
+      "set": "ZNR",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Assemble the Team": {
+      "set": "YBRO",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Fell the Profane": {
+      "set": "MH3",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Bridgeworks Battle": {
+      "set": "MH3",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Goblin Charbelcher": {
+      "set": "BRR",
+      "main": [
+        "four-color-1387083",
+        "mono-blue-1381931"
+      ],
+      "sideboard": []
+    },
+    "Turntimber Symbiosis": {
+      "set": "ZNR",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Revitalizing Repast": {
+      "set": "MH3",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Mishra's Bauble": {
+      "set": "BRR",
+      "main": [
+        "four-color-1387083",
+        "grixis-1386117"
+      ],
+      "sideboard": []
+    },
+    "Chromatic Sphere": {
+      "set": "JMP",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Chromatic Star": {
+      "set": "BRR",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Wizard's Rockets": {
+      "set": "LTR",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Dark Ritual": {
+      "set": "STA",
+      "main": [
+        "four-color-1387083",
+        "mono-black-1381169"
+      ],
+      "sideboard": []
+    },
+    "Beseech the Mirror": {
+      "set": "WOE",
+      "main": [
+        "four-color-1387083",
+        "mono-black-1381169"
+      ],
+      "sideboard": []
+    },
+    "Channel": {
+      "set": "STA",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Irencrag Feat": {
+      "set": "ELD",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Demonic Tutor": {
+      "set": "STA",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Chrome Mox": {
+      "set": "SPG",
+      "main": [
+        "four-color-1387083",
+        "mono-blue-1381931"
+      ],
+      "sideboard": []
+    },
+    "Leyline of Sanctity": {
+      "set": "WOT",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": [
+        "mono-blue-1381931"
+      ]
+    },
+    "Pact of Negation": {
+      "set": "AKR",
+      "main": [
+        "four-color-1387083",
+        "four-color-1382357"
+      ],
+      "sideboard": []
+    },
+    "Boggart Trawler": {
+      "set": "MH3",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Disciple of Freyalise": {
+      "set": "MH3",
+      "main": [
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
     "Death's Shadow": {
       "set": "HA4",
       "main": [
@@ -23,13 +178,6 @@
         "grixis-1386117",
         "rakdos-1384966",
         "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Mishra's Bauble": {
-      "set": "BRR",
-      "main": [
-        "grixis-1386117"
       ],
       "sideboard": []
     },
@@ -271,8 +419,7 @@
     "Strip Mine": {
       "set": "EOS",
       "main": [
-        "rakdos-1384966",
-        "colorless-1375796"
+        "rakdos-1384966"
       ],
       "sideboard": []
     },
@@ -679,8 +826,7 @@
       "set": "DFT",
       "main": [
         "five-color-1383036",
-        "four-color-1382357",
-        "mono-green-1375104"
+        "four-color-1382357"
       ],
       "sideboard": []
     },
@@ -756,13 +902,6 @@
     },
     "Ossification": {
       "set": "ONE",
-      "main": [
-        "four-color-1382357"
-      ],
-      "sideboard": []
-    },
-    "Pact of Negation": {
-      "set": "AKR",
       "main": [
         "four-color-1382357"
       ],
@@ -984,13 +1123,6 @@
         "four-color-1382357"
       ]
     },
-    "Chrome Mox": {
-      "set": "SPG",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
     "Stock Up": {
       "set": "DFT",
       "main": [
@@ -1007,13 +1139,6 @@
     },
     "Flare of Denial": {
       "set": "MH3",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Goblin Charbelcher": {
-      "set": "BRR",
       "main": [
         "mono-blue-1381931"
       ],
@@ -1050,12 +1175,10 @@
     "The One Ring": {
       "set": "LTR",
       "main": [
-        "mono-blue-1381931",
-        "colorless-1375796"
+        "mono-blue-1381931"
       ],
       "sideboard": [
-        "mono-black-1381169",
-        "colorless-1375796"
+        "mono-black-1381169"
       ]
     },
     "Waterlogged Teachings": {
@@ -1097,19 +1220,11 @@
       "set": "MH3",
       "main": [],
       "sideboard": [
-        "mono-blue-1381931",
-        "colorless-1375796"
+        "mono-blue-1381931"
       ]
     },
     "Flusterstorm": {
       "set": "MB2",
-      "main": [],
-      "sideboard": [
-        "mono-blue-1381931"
-      ]
-    },
-    "Leyline of Sanctity": {
-      "set": "WOT",
       "main": [],
       "sideboard": [
         "mono-blue-1381931"
@@ -1139,8 +1254,7 @@
     "Karn, the Great Creator": {
       "set": "BLC",
       "main": [
-        "mono-black-1381169",
-        "colorless-1375796"
+        "mono-black-1381169"
       ],
       "sideboard": []
     },
@@ -1153,20 +1267,6 @@
     },
     "Collective Brutality": {
       "set": "SIR",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Dark Ritual": {
-      "set": "STA",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Beseech the Mirror": {
-      "set": "WOE",
       "main": [
         "mono-black-1381169"
       ],
@@ -1288,243 +1388,15 @@
       "set": "BRR",
       "main": [],
       "sideboard": [
-        "mono-black-1381169",
-        "colorless-1375796"
+        "mono-black-1381169"
       ]
     },
     "Tormod's Crypt": {
       "set": "M21",
       "main": [],
       "sideboard": [
-        "mono-black-1381169",
-        "colorless-1375796"
+        "mono-black-1381169"
       ]
-    },
-    "Chalice of the Void": {
-      "set": "MRD",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Mind Stone": {
-      "set": "WTH",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Kozilek's Command": {
-      "set": "MH3",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Warping Wail": {
-      "set": "SPG",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Guardian Idol": {
-      "set": "J25",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "The Irencrag": {
-      "set": "WOE",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Extinguisher Battleship": {
-      "set": "EOE",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": [
-        "colorless-1375796"
-      ]
-    },
-    "Ugin, the Spirit Dragon": {
-      "set": "M21",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Ugin, Eye of the Storms": {
-      "set": "TDM",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Devourer of Destiny": {
-      "set": "MH3",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Ugin's Labyrinth": {
-      "set": "MH3",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Ancient Tomb": {
-      "set": "EOS",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Fomori Vault": {
-      "set": "BIG",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Eldrazi Temple": {
-      "set": "EOS",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Blast Zone": {
-      "set": "BRO",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Inventors' Fair": {
-      "set": "KLR",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "The Grey Havens": {
-      "set": "LTR",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Crystal Grotto": {
-      "set": "WOE",
-      "main": [
-        "colorless-1375796"
-      ],
-      "sideboard": []
-    },
-    "Forsaken Monument": {
-      "set": "ZNR",
-      "main": [],
-      "sideboard": [
-        "colorless-1375796"
-      ]
-    },
-    "Crucible of Worlds": {
-      "set": "M19",
-      "main": [],
-      "sideboard": [
-        "colorless-1375796"
-      ]
-    },
-    "Llanowar Elves": {
-      "set": "J25",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Elvish Warmaster": {
-      "set": "KHM",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Elvish Clancaller": {
-      "set": "M19",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Imperious Perfect": {
-      "set": "LRW",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Woodland Champion": {
-      "set": "J25",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Elvish Archdruid": {
-      "set": "J25",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Leaf-Crowned Visionary": {
-      "set": "J25",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Silverback Elder": {
-      "set": "DMU",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Llanowar Loamspeaker": {
-      "set": "DMU",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Rabid Bite": {
-      "set": "BLB",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Collected Company": {
-      "set": "SPG",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
-    },
-    "Tribute to the World Tree": {
-      "set": "MOM",
-      "main": [
-        "mono-green-1375104"
-      ],
-      "sideboard": []
     }
   }
 }
