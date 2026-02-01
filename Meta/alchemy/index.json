@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-01-27T17:01:05.346071",
-  "total_cards": 344,
+  "generated": "2026-02-01T18:43:14.211524",
+  "total_cards": 334,
   "cards": {
     "Unstoppable Slasher": {
       "set": "DSK",
@@ -38,8 +38,7 @@
       "main": [
         "orzhov-1383266",
         "orzhov-1380440",
-        "orzhov-1380141",
-        "golgari-1374915"
+        "orzhov-1380141"
       ],
       "sideboard": []
     },
@@ -56,8 +55,7 @@
       "main": [
         "orzhov-1383266",
         "orzhov-1380440",
-        "orzhov-1380141",
-        "golgari-1374915"
+        "orzhov-1380141"
       ],
       "sideboard": []
     },
@@ -141,7 +139,6 @@
         "sultai-1380326",
         "orzhov-1380141",
         "dimir-1379850",
-        "golgari-1374915",
         "four-color-1377221",
         "mardu-1376807"
       ],
@@ -173,6 +170,106 @@
       "main": [
         "orzhov-1383266",
         "orzhov-1380141"
+      ],
+      "sideboard": []
+    },
+    "Song of Point Prime": {
+      "set": "YEOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Monoist Gravliner": {
+      "set": "YEOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Tragic Trajectory": {
+      "set": "EOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Strategic Betrayal": {
+      "set": "TDM",
+      "main": [
+        "mono-black-1385674",
+        "four-color-1377221"
+      ],
+      "sideboard": []
+    },
+    "Cantor of the Refrain": {
+      "set": "YEOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Timeline Culler": {
+      "set": "EOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Susurian Voidborn": {
+      "set": "EOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Gatekeeper of Malakir": {
+      "set": "FDN",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Cynical Loner": {
+      "set": "DSK",
+      "main": [
+        "mono-black-1385674",
+        "orzhov-1384221"
+      ],
+      "sideboard": []
+    },
+    "Gas Guzzler": {
+      "set": "DFT",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Bloodghast": {
+      "set": "DFT",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Voidcalled Devotee": {
+      "set": "YEOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Susur Secundi, Void Altar": {
+      "set": "EOE",
+      "main": [
+        "mono-black-1385674"
+      ],
+      "sideboard": []
+    },
+    "Demolition Field": {
+      "set": "FDN",
+      "main": [
+        "mono-black-1385674"
       ],
       "sideboard": []
     },
@@ -366,106 +463,6 @@
       "sideboard": [
         "izzet-1376964"
       ]
-    },
-    "Song of Point Prime": {
-      "set": "YEOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Monoist Gravliner": {
-      "set": "YEOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Tragic Trajectory": {
-      "set": "EOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Strategic Betrayal": {
-      "set": "TDM",
-      "main": [
-        "mono-black-1385674",
-        "four-color-1377221"
-      ],
-      "sideboard": []
-    },
-    "Cantor of the Refrain": {
-      "set": "YEOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Timeline Culler": {
-      "set": "EOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Susurian Voidborn": {
-      "set": "EOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Gatekeeper of Malakir": {
-      "set": "FDN",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Cynical Loner": {
-      "set": "DSK",
-      "main": [
-        "mono-black-1385674",
-        "orzhov-1384221"
-      ],
-      "sideboard": []
-    },
-    "Gas Guzzler": {
-      "set": "DFT",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Bloodghast": {
-      "set": "DFT",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Voidcalled Devotee": {
-      "set": "YEOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Susur Secundi, Void Altar": {
-      "set": "EOE",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
-    },
-    "Demolition Field": {
-      "set": "FDN",
-      "main": [
-        "mono-black-1385674"
-      ],
-      "sideboard": []
     },
     "Haste Magic": {
       "set": "FIN",
@@ -799,7 +796,6 @@
         "four-color-1382199",
         "mono-green-1384053",
         "sultai-1380326",
-        "golgari-1374915",
         "mono-green-1378144",
         "four-color-1377221",
         "four-color-1376351"
@@ -1012,8 +1008,7 @@
     "Draconic Fealty": {
       "set": "YTDM",
       "main": [
-        "four-color-1382199",
-        "golgari-1374915"
+        "four-color-1382199"
       ],
       "sideboard": []
     },
@@ -1761,7 +1756,6 @@
       "set": "DSK",
       "main": [
         "esper-1378747",
-        "golgari-1374915",
         "four-color-1377221"
       ],
       "sideboard": []
@@ -1865,8 +1859,7 @@
       "set": "FDN",
       "main": [
         "esper-1378747",
-        "dimir-1379850",
-        "golgari-1374915"
+        "dimir-1379850"
       ],
       "sideboard": []
     },
@@ -1968,8 +1961,7 @@
     "Scavenger Regent": {
       "set": "TDM",
       "main": [
-        "sultai-1380326",
-        "golgari-1374915"
+        "sultai-1380326"
       ],
       "sideboard": []
     },
@@ -2103,7 +2095,6 @@
       "set": "DFT",
       "main": [
         "sultai-1380326",
-        "golgari-1374915",
         "four-color-1377221"
       ],
       "sideboard": []
@@ -2132,7 +2123,6 @@
     "Maelstrom Pulse": {
       "set": "FDN",
       "main": [
-        "golgari-1374915",
         "four-color-1377221"
       ],
       "sideboard": [
@@ -2163,8 +2153,7 @@
     "Duress": {
       "set": "FDN",
       "main": [
-        "orzhov-1380141",
-        "golgari-1374915"
+        "orzhov-1380141"
       ],
       "sideboard": []
     },
@@ -2263,100 +2252,6 @@
       "set": "XLN",
       "main": [
         "dimir-1379850"
-      ],
-      "sideboard": []
-    },
-    "Jecht, Reluctant Guardian // Braska's Final Aeon": {
-      "set": "FIN",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Fountainport Charmer": {
-      "set": "YBLB",
-      "main": [
-        "golgari-1374915",
-        "four-color-1376351"
-      ],
-      "sideboard": []
-    },
-    "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel": {
-      "set": "FIN",
-      "main": [
-        "golgari-1374915",
-        "mardu-1376807"
-      ],
-      "sideboard": []
-    },
-    "Disruptive Stormbrood": {
-      "set": "TDM",
-      "main": [
-        "golgari-1374915",
-        "four-color-1376351"
-      ],
-      "sideboard": []
-    },
-    "Speedbrood Stalker": {
-      "set": "YDFT",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Replicating Terror": {
-      "set": "YDSK",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Spectacle of Destruction": {
-      "set": "YDFT",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Stab": {
-      "set": "FDN",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Clash of the Eikons": {
-      "set": "FIN",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Jungle Hollow": {
-      "set": "DFT",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Temple of Malady": {
-      "set": "FDN",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Midgar, City of Mako": {
-      "set": "FIN",
-      "main": [
-        "golgari-1374915"
-      ],
-      "sideboard": []
-    },
-    "Woodland Cemetery": {
-      "set": "DOM",
-      "main": [
-        "golgari-1374915"
       ],
       "sideboard": []
     },
@@ -2529,6 +2424,13 @@
       ],
       "sideboard": []
     },
+    "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel": {
+      "set": "FIN",
+      "main": [
+        "mardu-1376807"
+      ],
+      "sideboard": []
+    },
     "Darkstar Banisher": {
       "set": "YBLB",
       "main": [
@@ -2554,6 +2456,20 @@
       "set": "GRN",
       "main": [
         "mardu-1376807"
+      ],
+      "sideboard": []
+    },
+    "Fountainport Charmer": {
+      "set": "YBLB",
+      "main": [
+        "four-color-1376351"
+      ],
+      "sideboard": []
+    },
+    "Disruptive Stormbrood": {
+      "set": "TDM",
+      "main": [
+        "four-color-1376351"
       ],
       "sideboard": []
     },
