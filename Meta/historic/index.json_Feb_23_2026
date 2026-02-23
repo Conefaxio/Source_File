@@ -1,0 +1,6815 @@
+{
+  "version": "1.0",
+  "generated": "2026-02-01T18:48:29.980342",
+  "total_cards": 905,
+  "cards": {
+    "Llanowar Elves": {
+      "set": "J25",
+      "main": [
+        "mono-green-1385162",
+        "mono-green-1384645",
+        "mono-green-1384577",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Elvish Mystic": {
+      "set": "M14",
+      "main": [
+        "mono-green-1385162",
+        "sultai-1382965",
+        "mono-green-1384577",
+        "temur-1386197",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Allosaurus Shepherd": {
+      "set": "JMP",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Elvish Clancaller": {
+      "set": "M19",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Elvish Warmaster": {
+      "set": "KHM",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Elvish Archdruid": {
+      "set": "J25",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Priest of Titania": {
+      "set": "MH3",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Craterhoof Behemoth": {
+      "set": "JMP",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Leaf-Crowned Visionary": {
+      "set": "J25",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Reclamation Sage": {
+      "set": "FDN",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Collected Company": {
+      "set": "SPG",
+      "main": [
+        "mono-green-1385162",
+        "naya-1384431",
+        "selesnya-1381864"
+      ],
+      "sideboard": []
+    },
+    "Heroic Intervention": {
+      "set": "KLR",
+      "main": [
+        "mono-green-1385162",
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": [
+        "mono-green-1385162"
+      ]
+    },
+    "Forest": {
+      "set": "DFT",
+      "main": [
+        "mono-green-1385162",
+        "naya-1384431",
+        "five-color-1378960",
+        "selesnya-1381864",
+        "four-color-yorion-1387066",
+        "mono-green-1384645",
+        "five-color-1379818",
+        "sultai-1382965",
+        "deck-1384034",
+        "five-color-1380928",
+        "five-color-1384958",
+        "mono-green-1384577",
+        "temur-1386197",
+        "deck-1376915",
+        "selesnya-1386095",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Castle Garenbrig": {
+      "set": "ELD",
+      "main": [
+        "mono-green-1385162"
+      ],
+      "sideboard": []
+    },
+    "Shifting Ceratops": {
+      "set": "M20",
+      "main": [],
+      "sideboard": [
+        "mono-green-1385162",
+        "selesnya-1386095"
+      ]
+    },
+    "Scavenging Ooze": {
+      "set": "FDN",
+      "main": [],
+      "sideboard": [
+        "mono-green-1385162",
+        "selesnya-1386095"
+      ]
+    },
+    "Esper Sentinel": {
+      "set": "MH2",
+      "main": [
+        "boros-lurrus-1379487",
+        "mono-white-1375563",
+        "boros-lurrus-1375553",
+        "mono-white-1379701",
+        "mardu-1380513",
+        "boros-1385889",
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Amped Raptor": {
+      "set": "MH3",
+      "main": [
+        "boros-lurrus-1379487",
+        "boros-lurrus-1375553",
+        "mardu-1380513",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Kor Spiritdancer": {
+      "set": "JMP",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "Light-Paws, Emperor's Voice": {
+      "set": "NEO",
+      "main": [
+        "boros-lurrus-1379487",
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Giver of Runes": {
+      "set": "HA7",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "Ethereal Armor": {
+      "set": "DSK",
+      "main": [
+        "boros-lurrus-1379487",
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Gryff's Boon": {
+      "set": "SIR",
+      "main": [
+        "boros-lurrus-1379487",
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Sentinel's Eyes": {
+      "set": "THB",
+      "main": [
+        "boros-lurrus-1379487",
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Shardmage's Rescue": {
+      "set": "DSK",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "All That Glitters": {
+      "set": "ELD",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "Demonic Ruckus": {
+      "set": "OTJ",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "Sheltered by Ghosts": {
+      "set": "DSK",
+      "main": [
+        "boros-lurrus-1379487",
+        "mono-white-1375563",
+        "boros-1385889",
+        "mono-white-1386669",
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "War Squeak": {
+      "set": "BLB",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "Cartouche of Zeal": {
+      "set": "J25",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "Plains": {
+      "set": "DFT",
+      "main": [
+        "boros-lurrus-1379487",
+        "mono-white-1375563",
+        "five-color-1387059",
+        "naya-1384431",
+        "boros-lurrus-1375553",
+        "mono-white-1379701",
+        "selesnya-1381864",
+        "four-color-yorion-1387066",
+        "mardu-1380513",
+        "boros-1385889",
+        "orzhov-1382966",
+        "mono-white-1376237",
+        "azorius-1380265",
+        "jeskai-1387409",
+        "boros-1386980",
+        "orzhov-1386700",
+        "mono-white-1386669",
+        "orzhov-1386668",
+        "five-color-1380928",
+        "five-color-1384958",
+        "mardu-1386209",
+        "boros-1386119",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Battlefield Forge": {
+      "set": "BRO",
+      "main": [
+        "boros-lurrus-1379487",
+        "mardu-1380513"
+      ],
+      "sideboard": []
+    },
+    "Sacred Foundry": {
+      "set": "GRN",
+      "main": [
+        "boros-lurrus-1379487",
+        "naya-1384431",
+        "boros-lurrus-1375553",
+        "selesnya-1381864",
+        "jeskai-1387409",
+        "boros-1387005",
+        "boros-1386980",
+        "mardu-1386209",
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Inspiring Vantage": {
+      "set": "OTJ",
+      "main": [
+        "boros-lurrus-1379487",
+        "boros-lurrus-1375553",
+        "mardu-1380513",
+        "boros-1385889",
+        "boros-1387005",
+        "boros-1386980",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Sundown Pass": {
+      "set": "VOW",
+      "main": [
+        "boros-lurrus-1379487"
+      ],
+      "sideboard": []
+    },
+    "Needleverge Pathway": {
+      "set": "ZNR",
+      "main": [
+        "boros-lurrus-1379487",
+        "five-color-1387059",
+        "boros-lurrus-1375553",
+        "selesnya-1381864",
+        "boros-1385889",
+        "jeskai-1387409",
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Sunbillow Verge": {
+      "set": "DFT",
+      "main": [
+        "boros-lurrus-1379487",
+        "boros-1386980",
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Lurrus of the Dream-Den": {
+      "set": "MUL",
+      "main": [
+        "four-color-yorion-1387066",
+        "mardu-1386209"
+      ],
+      "sideboard": [
+        "boros-lurrus-1379487",
+        "boros-lurrus-1375553"
+      ]
+    },
+    "A-The One Ring": {
+      "set": "LTR",
+      "main": [
+        "mono-white-1375563",
+        "colorless-1383833",
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Ossification": {
+      "set": "ONE",
+      "main": [
+        "mono-white-1375563"
+      ],
+      "sideboard": []
+    },
+    "Leyline of Hope": {
+      "set": "DSK",
+      "main": [
+        "mono-white-1375563",
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Cleric Class": {
+      "set": "AFR",
+      "main": [
+        "mono-white-1375563",
+        "mono-white-1379701"
+      ],
+      "sideboard": []
+    },
+    "Ajani's Welcome": {
+      "set": "M19",
+      "main": [
+        "mono-white-1375563"
+      ],
+      "sideboard": []
+    },
+    "Authority of the Consuls": {
+      "set": "FDN",
+      "main": [
+        "mono-white-1375563",
+        "boros-lurrus-1375553",
+        "mono-white-1379701",
+        "mono-white-1376237"
+      ],
+      "sideboard": [
+        "mono-white-1379701"
+      ]
+    },
+    "Banishing Light": {
+      "set": "J25",
+      "main": [
+        "mono-white-1375563",
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Ajani, Strength of the Pride": {
+      "set": "M20",
+      "main": [
+        "mono-white-1375563",
+        "mono-white-1379701"
+      ],
+      "sideboard": []
+    },
+    "Heliod, Sun-Crowned": {
+      "set": "THB",
+      "main": [
+        "mono-white-1375563",
+        "mono-white-1379701",
+        "selesnya-1381864",
+        "four-color-yorion-1387066",
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Righteous Valkyrie": {
+      "set": "J25",
+      "main": [
+        "mono-white-1375563",
+        "orzhov-1382966",
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "A-Guide of Souls": {
+      "set": "MH3",
+      "main": [
+        "mono-white-1375563",
+        "naya-1384431",
+        "boros-lurrus-1375553",
+        "mono-white-1379701",
+        "selesnya-1381864",
+        "mardu-1380513",
+        "orzhov-1382966",
+        "mono-white-1376237",
+        "orzhov-1386700",
+        "mono-white-1386669",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Soul Warden": {
+      "set": "SPG",
+      "main": [
+        "mono-white-1375563",
+        "naya-1384431",
+        "mono-white-1379701",
+        "selesnya-1381864",
+        "orzhov-1382966",
+        "mono-white-1376237",
+        "mono-white-1386669",
+        "orzhov-1386668"
+      ],
+      "sideboard": [
+        "mono-white-1376237"
+      ]
+    },
+    "A-Ocelot Pride": {
+      "set": "MH3",
+      "main": [
+        "mono-white-1375563",
+        "boros-lurrus-1375553",
+        "mono-white-1379701",
+        "selesnya-1381864",
+        "orzhov-1382966",
+        "orzhov-1386700",
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Voice of the Blessed": {
+      "set": "VOW",
+      "main": [
+        "mono-white-1375563",
+        "mono-white-1379701",
+        "selesnya-1381864",
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Resplendent Angel": {
+      "set": "LCI",
+      "main": [
+        "mono-white-1375563",
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Nykthos, Shrine to Nyx": {
+      "set": "THS",
+      "main": [
+        "mono-white-1375563",
+        "mono-black-1385465",
+        "mono-black-1379579",
+        "sultai-1382965",
+        "jeskai-1387409",
+        "mono-white-1386669",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Dregscape Sliver": {
+      "set": "MH1",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Sentinel Sliver": {
+      "set": "J21",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Sliver Weftwinder": {
+      "set": "YEOE",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Bonescythe Sliver": {
+      "set": "J21",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "The First Sliver": {
+      "set": "MH1",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Cloudshredder Sliver": {
+      "set": "MH1",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Predatory Sliver": {
+      "set": "J21",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Cleaving Sliver": {
+      "set": "MH1",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Manaweft Sliver": {
+      "set": "J21",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Striking Sliver": {
+      "set": "J21",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Sliver Hivelord": {
+      "set": "M15",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Spiteful Sliver": {
+      "set": "MH1",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Vanquisher's Banner": {
+      "set": "XLN",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Herald's Horn": {
+      "set": "JMP",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Thrumming Hivepool": {
+      "set": "EOE",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Cragcrown Pathway": {
+      "set": "ZNR",
+      "main": [
+        "five-color-1387059",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Branchloft Pathway": {
+      "set": "ZNR",
+      "main": [
+        "five-color-1387059",
+        "selesnya-1381864",
+        "four-color-yorion-1387066",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Unclaimed Territory": {
+      "set": "XLN",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Sliver Hive": {
+      "set": "J21",
+      "main": [
+        "five-color-1387059"
+      ],
+      "sideboard": []
+    },
+    "Mountain": {
+      "set": "DFT",
+      "main": [
+        "five-color-1387059",
+        "mono-red-1383239",
+        "boros-lurrus-1375553",
+        "five-color-1378960",
+        "mono-red-1382581",
+        "four-color-yorion-1387066",
+        "mardu-1380513",
+        "boros-1385889",
+        "five-color-1379818",
+        "grixis-1387834",
+        "grixis-1387833",
+        "jeskai-1387409",
+        "boros-1386980",
+        "rakdos-1386714",
+        "izzet-1386682",
+        "five-color-1380928",
+        "five-color-1384958",
+        "temur-1386197",
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Swamp": {
+      "set": "DFT",
+      "main": [
+        "five-color-1387059",
+        "dimir-1379533",
+        "mono-black-1387089",
+        "four-color-yorion-1387066",
+        "mono-black-1385465",
+        "mono-black-1379579",
+        "dimir-1377857",
+        "grixis-1387834",
+        "grixis-1387833",
+        "sultai-1382965",
+        "rakdos-1386714",
+        "orzhov-1386700",
+        "orzhov-1386668",
+        "five-color-1380928",
+        "five-color-1384958",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Bring the Ending": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Distorted Curiosity": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Experimental Augury": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Prologue to Phyresis": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Serum Snare": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Anoint with Affliction": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533",
+        "mono-black-1387089"
+      ],
+      "sideboard": []
+    },
+    "Drown in Ichor": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Infectious Inquiry": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Vraska's Fall": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Whisper of the Dross": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": []
+    },
+    "Bilious Skulldweller": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533",
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Island": {
+      "set": "DFT",
+      "main": [
+        "dimir-1379533",
+        "four-color-yorion-1387066",
+        "azorius-1380265",
+        "dimir-1377857",
+        "grixis-1387834",
+        "grixis-1387833",
+        "sultai-1382965",
+        "mono-blue-1387757",
+        "jeskai-1387409",
+        "izzet-1387370",
+        "deck-1384034",
+        "mono-blue-1386701",
+        "five-color-1380928",
+        "five-color-1384958",
+        "temur-1386197",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Underground River": {
+      "set": "BRO",
+      "main": [
+        "dimir-1379533",
+        "dimir-1377857",
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Darkslick Shores": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533",
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Mirrex": {
+      "set": "ONE",
+      "main": [
+        "dimir-1379533"
+      ],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Undercity Sewers": {
+      "set": "MKM",
+      "main": [
+        "dimir-1379533",
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Monastery Swiftspear": {
+      "set": "PIO",
+      "main": [
+        "mono-red-1383239",
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Phoenix Chick": {
+      "set": "DMU",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Kessig Flamebreather": {
+      "set": "VOW",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Feldon, Ronom Excavator": {
+      "set": "BRO",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Play with Fire": {
+      "set": "J25",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Lightning Strike": {
+      "set": "DFT",
+      "main": [
+        "mono-red-1383239",
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "End the Festivities": {
+      "set": "VOW",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Reckless Impulse": {
+      "set": "J25",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Obliterating Bolt": {
+      "set": "FDN",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Kumano Faces Kakkazan // Etching of Kumano": {
+      "set": "NEO",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Mechanized Warfare": {
+      "set": "BRO",
+      "main": [
+        "mono-red-1383239"
+      ],
+      "sideboard": []
+    },
+    "Sokenzan, Crucible of Defiance": {
+      "set": "NEO",
+      "main": [
+        "mono-red-1383239",
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Trelasarra, Moon Dancer": {
+      "set": "HBG",
+      "main": [
+        "naya-1384431",
+        "selesnya-1381864"
+      ],
+      "sideboard": []
+    },
+    "Val, Marooned Surveyor": {
+      "set": "YEOE",
+      "main": [
+        "naya-1384431"
+      ],
+      "sideboard": []
+    },
+    "Birds of Paradise": {
+      "set": "BLC",
+      "main": [
+        "naya-1384431",
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Prosperous Innkeeper": {
+      "set": "HBG",
+      "main": [
+        "naya-1384431"
+      ],
+      "sideboard": []
+    },
+    "A-Haywire Mite": {
+      "set": "BRO",
+      "main": [
+        "naya-1384431",
+        "five-color-1378960",
+        "four-color-yorion-1387066",
+        "five-color-1379818"
+      ],
+      "sideboard": [
+        "deck-1376915",
+        "selesnya-1386095"
+      ]
+    },
+    "Leonin Vanguard": {
+      "set": "J25",
+      "main": [
+        "naya-1384431"
+      ],
+      "sideboard": []
+    },
+    "Green Sun's Zenith": {
+      "set": "SPG",
+      "main": [
+        "naya-1384431"
+      ],
+      "sideboard": []
+    },
+    "Chord of Calling": {
+      "set": "EA3",
+      "main": [
+        "naya-1384431"
+      ],
+      "sideboard": []
+    },
+    "Noxious Revival": {
+      "set": "SPG",
+      "main": [
+        "naya-1384431"
+      ],
+      "sideboard": []
+    },
+    "Stomping Ground": {
+      "set": "RNA",
+      "main": [
+        "naya-1384431",
+        "five-color-1378960",
+        "five-color-1379818",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Temple Garden": {
+      "set": "GRN",
+      "main": [
+        "naya-1384431",
+        "selesnya-1381864",
+        "four-color-yorion-1387066",
+        "five-color-1384958",
+        "selesnya-1386095",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Mana Confluence": {
+      "set": "JOU",
+      "main": [
+        "naya-1384431",
+        "mardu-1380513",
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Starting Town": {
+      "set": "FIN",
+      "main": [
+        "naya-1384431"
+      ],
+      "sideboard": []
+    },
+    "Cavern of Souls": {
+      "set": "LCI",
+      "main": [
+        "naya-1384431",
+        "mono-red-1382581",
+        "boros-1387005",
+        "boros-1386980",
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": [
+        "mono-black-1387089",
+        "deck-1384034"
+      ]
+    },
+    "Goblin Bombardment": {
+      "set": "WOT",
+      "main": [
+        "boros-lurrus-1375553",
+        "mardu-1380513",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Fragment Reality": {
+      "set": "Y22",
+      "main": [
+        "boros-lurrus-1375553",
+        "mardu-1380513",
+        "jeskai-1387409",
+        "boros-1386980"
+      ],
+      "sideboard": [
+        "boros-lurrus-1375553",
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Jolted Awake": {
+      "set": "MH3",
+      "main": [
+        "boros-lurrus-1375553"
+      ],
+      "sideboard": []
+    },
+    "Static Prison": {
+      "set": "MH3",
+      "main": [
+        "boros-lurrus-1375553"
+      ],
+      "sideboard": [
+        "boros-lurrus-1375553",
+        "mardu-1386209"
+      ]
+    },
+    "A-Galvanic Discharge": {
+      "set": "MH3",
+      "main": [
+        "boros-lurrus-1375553",
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Unstable Amulet": {
+      "set": "MH3",
+      "main": [
+        "boros-lurrus-1375553"
+      ],
+      "sideboard": []
+    },
+    "Sacred Cat": {
+      "set": "AKR",
+      "main": [
+        "boros-lurrus-1375553"
+      ],
+      "sideboard": []
+    },
+    "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger": {
+      "set": "MH3",
+      "main": [
+        "boros-lurrus-1375553",
+        "selesnya-1381864",
+        "mardu-1380513",
+        "orzhov-1386700",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Phyrexian Tower": {
+      "set": "MH3",
+      "main": [
+        "boros-lurrus-1375553",
+        "mono-black-1379579",
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Prismatic Vista": {
+      "set": "SPG",
+      "main": [
+        "boros-lurrus-1375553",
+        "five-color-1378960",
+        "five-color-1379818",
+        "deck-1384034",
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Sunbaked Canyon": {
+      "set": "HA7",
+      "main": [
+        "boros-lurrus-1375553",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Suncleanser": {
+      "set": "M19",
+      "main": [],
+      "sideboard": [
+        "boros-lurrus-1375553"
+      ]
+    },
+    "Mana Tithe": {
+      "set": "STA",
+      "main": [
+        "mono-white-1379701"
+      ],
+      "sideboard": [
+        "boros-lurrus-1375553"
+      ]
+    },
+    "Rending Volley": {
+      "set": "DTK",
+      "main": [],
+      "sideboard": [
+        "boros-lurrus-1375553",
+        "boros-1386980"
+      ]
+    },
+    "Unlicensed Hearse": {
+      "set": "OTP",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": [
+        "boros-lurrus-1375553"
+      ]
+    },
+    "Invasion of Gobakhan": {
+      "set": "MOM",
+      "main": [],
+      "sideboard": [
+        "boros-lurrus-1375553"
+      ]
+    },
+    "Omniscience": {
+      "set": "FDN",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818",
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Malevolent Rumble": {
+      "set": "MH3",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818",
+        "deck-1384034"
+      ],
+      "sideboard": []
+    },
+    "Traverse the Ulvenwald": {
+      "set": "SIR",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Faithless Looting": {
+      "set": "SIS",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Cathartic Pyre": {
+      "set": "MID",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Vampires' Vengeance": {
+      "set": "VOW",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "God-Pharaoh's Gift": {
+      "set": "AKR",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Cache Grab": {
+      "set": "BLB",
+      "main": [
+        "five-color-1378960"
+      ],
+      "sideboard": []
+    },
+    "Satyr Wayfinder": {
+      "set": "BNG",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Ulamog, the Ceaseless Hunger": {
+      "set": "BFZ",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Ulamog, the Defiler": {
+      "set": "MH3",
+      "main": [
+        "five-color-1378960",
+        "colorless-1383833",
+        "five-color-1379818",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Atraxa, Grand Unifier": {
+      "set": "ONE",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Elesh Norn, Grand Cenobite": {
+      "set": "MUL",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Charming Scoundrel": {
+      "set": "WOE",
+      "main": [
+        "five-color-1378960"
+      ],
+      "sideboard": []
+    },
+    "Shifting Woodland": {
+      "set": "MH3",
+      "main": [
+        "five-color-1378960",
+        "five-color-1379818",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Boseiju, Who Endures": {
+      "set": "NEO",
+      "main": [
+        "five-color-1378960",
+        "selesnya-1381864",
+        "five-color-1379818",
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Karplusan Forest": {
+      "set": "DMU",
+      "main": [
+        "five-color-1378960"
+      ],
+      "sideboard": []
+    },
+    "Ghost Quarter": {
+      "set": "DIS",
+      "main": [
+        "five-color-1378960",
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Krenko, Tin Street Kingpin": {
+      "set": "J25",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Goblin Ringleader": {
+      "set": "M20",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Skirk Prospector": {
+      "set": "DOM",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Goblin Instigator": {
+      "set": "JMP",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Rundvelt Hordemaster": {
+      "set": "DMU",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Wily Goblin": {
+      "set": "XLN",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Goblin Chieftain": {
+      "set": "JMP",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Goblin Matron": {
+      "set": "MH1",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Goblin Warchief": {
+      "set": "DOM",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Krenko, Mob Boss": {
+      "set": "FDN",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Muxus, Goblin Grandee": {
+      "set": "JMP",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Den of the Bugbear": {
+      "set": "AFR",
+      "main": [
+        "mono-red-1382581",
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Three Tree City": {
+      "set": "BLB",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Castle Embereth": {
+      "set": "ELD",
+      "main": [
+        "mono-red-1382581"
+      ],
+      "sideboard": []
+    },
+    "Alseid of Life's Bounty": {
+      "set": "THB",
+      "main": [
+        "mono-white-1379701",
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Abiding Grace": {
+      "set": "MH2",
+      "main": [
+        "mono-white-1379701",
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": [
+        "mono-white-1379701"
+      ]
+    },
+    "Castle Ardenvale": {
+      "set": "ELD",
+      "main": [
+        "mono-white-1379701",
+        "four-color-yorion-1387066",
+        "boros-1386980",
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Eiganjo, Seat of the Empire": {
+      "set": "NEO",
+      "main": [
+        "mono-white-1379701",
+        "jeskai-1387409",
+        "boros-1387005",
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Thalia, Guardian of Thraben": {
+      "set": "MUL",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": [
+        "mono-white-1379701"
+      ]
+    },
+    "Rest in Peace": {
+      "set": "BIG",
+      "main": [],
+      "sideboard": [
+        "mono-white-1379701",
+        "boros-1386980"
+      ]
+    },
+    "Portable Hole": {
+      "set": "HBG",
+      "main": [],
+      "sideboard": [
+        "mono-white-1379701"
+      ]
+    },
+    "Cut Down": {
+      "set": "DMU",
+      "main": [
+        "mono-black-1387089",
+        "mono-black-1385465",
+        "mono-black-1379579",
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Go for the Throat": {
+      "set": "J25",
+      "main": [
+        "mono-black-1387089",
+        "mono-black-1385465"
+      ],
+      "sideboard": []
+    },
+    "Nowhere to Run": {
+      "set": "DSK",
+      "main": [
+        "mono-black-1387089"
+      ],
+      "sideboard": []
+    },
+    "Unholy Annex // Ritual Chamber": {
+      "set": "DSK",
+      "main": [
+        "mono-black-1387089",
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Duress": {
+      "set": "FDN",
+      "main": [
+        "mono-black-1387089",
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Sheoldred's Edict": {
+      "set": "ONE",
+      "main": [
+        "mono-black-1387089",
+        "mono-black-1385465",
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Bloodletter of Aclazotz": {
+      "set": "LCI",
+      "main": [
+        "mono-black-1387089"
+      ],
+      "sideboard": []
+    },
+    "Unstoppable Slasher": {
+      "set": "DSK",
+      "main": [
+        "mono-black-1387089"
+      ],
+      "sideboard": []
+    },
+    "Deep-Cavern Bat": {
+      "set": "LCI",
+      "main": [
+        "mono-black-1387089",
+        "mono-black-1385465",
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Archfiend of the Dross": {
+      "set": "ONE",
+      "main": [
+        "mono-black-1387089"
+      ],
+      "sideboard": []
+    },
+    "Liliana of the Veil": {
+      "set": "DMU",
+      "main": [
+        "mono-black-1387089",
+        "mono-black-1385465",
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Soulstone Sanctuary": {
+      "set": "FDN",
+      "main": [
+        "mono-black-1387089"
+      ],
+      "sideboard": []
+    },
+    "Sheoldred, the Apocalypse": {
+      "set": "DMU",
+      "main": [
+        "mono-black-1385465"
+      ],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Shoot the Sheriff": {
+      "set": "OTJ",
+      "main": [],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Mazemind Tome": {
+      "set": "FDN",
+      "main": [],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Demolition Field": {
+      "set": "FDN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Blast Zone": {
+      "set": "BRO",
+      "main": [
+        "deck-1384034"
+      ],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Mishra's Foundry": {
+      "set": "BRO",
+      "main": [],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Fountainport": {
+      "set": "BLB",
+      "main": [],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Sunken Citadel": {
+      "set": "LCI",
+      "main": [],
+      "sideboard": [
+        "mono-black-1387089"
+      ]
+    },
+    "Skyclave Apparition": {
+      "set": "ZNR",
+      "main": [
+        "selesnya-1381864"
+      ],
+      "sideboard": []
+    },
+    "Archangel of Thune": {
+      "set": "PIO",
+      "main": [
+        "selesnya-1381864",
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Enduring Innocence": {
+      "set": "DSK",
+      "main": [
+        "selesnya-1381864",
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Lunarch Veteran // Luminous Phantom": {
+      "set": "MID",
+      "main": [
+        "selesnya-1381864",
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Kodama of the West Tree": {
+      "set": "J25",
+      "main": [
+        "selesnya-1381864"
+      ],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Razorverge Thicket": {
+      "set": "ONE",
+      "main": [
+        "selesnya-1381864"
+      ],
+      "sideboard": []
+    },
+    "Abandoned Air Temple": {
+      "set": "TLA",
+      "main": [
+        "selesnya-1381864"
+      ],
+      "sideboard": []
+    },
+    "Jenova, Ancient Calamity": {
+      "set": "FIN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Bishop of Wings": {
+      "set": "M20",
+      "main": [
+        "four-color-yorion-1387066",
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Giada, Font of Hope": {
+      "set": "J25",
+      "main": [
+        "four-color-yorion-1387066",
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Lion Sash": {
+      "set": "NEO",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Esika, God of the Tree": {
+      "set": "KHM",
+      "main": [
+        "four-color-yorion-1387066",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Liesa, Forgotten Archangel": {
+      "set": "MID",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Captain Sisay": {
+      "set": "INV",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Trostani Discordant": {
+      "set": "GRN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Enduring Vitality": {
+      "set": "DSK",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Gwenna, Eyes of Gaea": {
+      "set": "BRO",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Selvala, Heart of the Wilds": {
+      "set": "JMP",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Nylea, Keen-Eyed": {
+      "set": "THB",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Venat, Heart of Hydaelyn // Hydaelyn, the Mothercrystal": {
+      "set": "FIN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Halvar, God of Battle": {
+      "set": "KHM",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Oketra the True": {
+      "set": "AKR",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "God-Eternal Oketra": {
+      "set": "WAR",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Glissa Sunslayer": {
+      "set": "ONE",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Ketramose, the New Dawn": {
+      "set": "DFT",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Primeval Titan": {
+      "set": "HA7",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Klothys, God of Destiny": {
+      "set": "THB",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Athreos, God of Passage": {
+      "set": "PIO",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Purphoros, God of the Forge": {
+      "set": "PIO",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Cloud, Midgar Mercenary": {
+      "set": "FIN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Purphoros, Bronze-Blooded": {
+      "set": "THB",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Fynn, the Fangbearer": {
+      "set": "FDN",
+      "main": [
+        "four-color-yorion-1387066",
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Rhonas the Indomitable": {
+      "set": "AKR",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Mythweaver Poq": {
+      "set": "YLCI",
+      "main": [
+        "four-color-yorion-1387066",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Arvad, Weatherlight Smuggler": {
+      "set": "Y23",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Alesha, Who Laughs at Fate": {
+      "set": "FDN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Dragon Sniper": {
+      "set": "TDM",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Delighted Halfling": {
+      "set": "LTR",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Champions of the Perfect": {
+      "set": "ECL",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Radha, Heart of Keld": {
+      "set": "M21",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Dryad of the Ilysian Grove": {
+      "set": "THB",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Barrow-Blade": {
+      "set": "LTR",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Basilisk Collar": {
+      "set": "FDN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Shadowspear": {
+      "set": "THB",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Soulstealer Axe": {
+      "set": "Y22",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Maskwood Nexus": {
+      "set": "KHM",
+      "main": [
+        "four-color-yorion-1387066",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Gaea's Blessing": {
+      "set": "DOM",
+      "main": [
+        "four-color-yorion-1387066",
+        "five-color-1380928",
+        "five-color-1384958",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Divine Visitation": {
+      "set": "GRN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Urza's Ruinous Blast": {
+      "set": "DOM",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Worldweave": {
+      "set": "YEOE",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "The Great Henge": {
+      "set": "ELD",
+      "main": [
+        "four-color-yorion-1387066",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Baleful Mastery": {
+      "set": "STX",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Tribute to the World Tree": {
+      "set": "MOM",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Vraska Joins Up": {
+      "set": "OTJ",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Path to Exile": {
+      "set": "OTP",
+      "main": [
+        "four-color-yorion-1387066",
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Vivien, Monsters' Advocate": {
+      "set": "IKO",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Ugin, Eye of the Storms": {
+      "set": "TDM",
+      "main": [
+        "four-color-yorion-1387066",
+        "colorless-1383833",
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Sorin, Vengeful Bloodlord": {
+      "set": "WAR",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Hushwood Verge": {
+      "set": "DSK",
+      "main": [
+        "four-color-yorion-1387066",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Jetmir's Garden": {
+      "set": "SNC",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Ziatora's Proving Ground": {
+      "set": "SNC",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Tyrite Sanctum": {
+      "set": "KHM",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Reliquary Tower": {
+      "set": "M19",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "The World Tree": {
+      "set": "KHM",
+      "main": [
+        "four-color-yorion-1387066",
+        "five-color-1380928",
+        "five-color-1384958",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Lush Portico": {
+      "set": "MKM",
+      "main": [
+        "four-color-yorion-1387066",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Overgrown Farmland": {
+      "set": "MID",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Minas Tirith": {
+      "set": "LTR",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Mistveil Plains": {
+      "set": "UMA",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Monumental Henge": {
+      "set": "MH3",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Susur Secundi, Void Altar": {
+      "set": "EOE",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Evendo, Waking Haven": {
+      "set": "EOE",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Sunpetal Grove": {
+      "set": "XLN",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Indatha Triome": {
+      "set": "IKO",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Crystal Quarry": {
+      "set": "EOS",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Deathcap Glade": {
+      "set": "VOW",
+      "main": [
+        "four-color-yorion-1387066",
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Wastewood Verge": {
+      "set": "DFT",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Lair of the Hydra": {
+      "set": "AFR",
+      "main": [
+        "four-color-yorion-1387066",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Overgrown Tomb": {
+      "set": "GRN",
+      "main": [
+        "four-color-yorion-1387066",
+        "sultai-1382965",
+        "five-color-1384958",
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Underground Mortuary": {
+      "set": "MKM",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Spara's Headquarters": {
+      "set": "SNC",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Commercial District": {
+      "set": "MKM",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Savai Triome": {
+      "set": "IKO",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Rockfall Vale": {
+      "set": "MID",
+      "main": [
+        "four-color-yorion-1387066"
+      ],
+      "sideboard": []
+    },
+    "Dreamroot Cascade": {
+      "set": "VOW",
+      "main": [
+        "four-color-yorion-1387066",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Yorion, Sky Nomad": {
+      "set": "MUL",
+      "main": [],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Lyra Dawnbringer": {
+      "set": "DOM",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Evolution Witness": {
+      "set": "MH3",
+      "main": [],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Azusa, Lost but Seeking": {
+      "set": "M21",
+      "main": [],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Hajar, Loyal Bodyguard": {
+      "set": "BRO",
+      "main": [],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Trostani, Three Whispers": {
+      "set": "MKM",
+      "main": [],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Druid of the Anima": {
+      "set": "J25",
+      "main": [],
+      "sideboard": [
+        "four-color-yorion-1387066"
+      ]
+    },
+    "Helm of the Host": {
+      "set": "BRR",
+      "main": [],
+      "sideboard": [
+        "four-color-yorion-1387066",
+        "sultai-1382965"
+      ]
+    },
+    "Voice of Victory": {
+      "set": "TDM",
+      "main": [
+        "mardu-1380513"
+      ],
+      "sideboard": []
+    },
+    "Stadium Headliner": {
+      "set": "TDM",
+      "main": [
+        "mardu-1380513"
+      ],
+      "sideboard": []
+    },
+    "Mardu Thunderkite": {
+      "set": "YTDM",
+      "main": [
+        "mardu-1380513"
+      ],
+      "sideboard": []
+    },
+    "Marionette Apprentice": {
+      "set": "MH3",
+      "main": [
+        "mardu-1380513"
+      ],
+      "sideboard": []
+    },
+    "Haliya, Guided by Light": {
+      "set": "EOE",
+      "main": [
+        "mardu-1380513",
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Fatal Push": {
+      "set": "KLR",
+      "main": [
+        "mardu-1380513",
+        "grixis-1387833",
+        "rakdos-1386714"
+      ],
+      "sideboard": [
+        "mardu-1386209"
+      ]
+    },
+    "Concealed Courtyard": {
+      "set": "OTJ",
+      "main": [
+        "mardu-1380513",
+        "orzhov-1386668",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Caves of Koilos": {
+      "set": "DMU",
+      "main": [
+        "mardu-1380513",
+        "orzhov-1386700",
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Godless Shrine": {
+      "set": "RNA",
+      "main": [
+        "mardu-1380513",
+        "orzhov-1386700",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Sulfurous Springs": {
+      "set": "DMU",
+      "main": [
+        "mardu-1380513"
+      ],
+      "sideboard": []
+    },
+    "Valduk, Keeper of the Flame": {
+      "set": "MUL",
+      "main": [
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Fencing Ace": {
+      "set": "J25",
+      "main": [
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Optimistic Scavenger": {
+      "set": "DSK",
+      "main": [
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Akki War Paint": {
+      "set": "NEO",
+      "main": [
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Sticky Fingers": {
+      "set": "SNC",
+      "main": [
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Abraded Bluffs": {
+      "set": "OTJ",
+      "main": [
+        "boros-1385889"
+      ],
+      "sideboard": []
+    },
+    "Hopeless Nightmare": {
+      "set": "WOE",
+      "main": [
+        "mono-black-1385465",
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Bandit's Talent": {
+      "set": "BLB",
+      "main": [
+        "mono-black-1385465",
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Waste Not": {
+      "set": "WOT",
+      "main": [
+        "mono-black-1385465",
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Bone Shards": {
+      "set": "MH2",
+      "main": [
+        "mono-black-1385465"
+      ],
+      "sideboard": []
+    },
+    "Marauding Blight-Priest": {
+      "set": "FDN",
+      "main": [
+        "mono-black-1385465"
+      ],
+      "sideboard": []
+    },
+    "Greedy Freebooter": {
+      "set": "LCI",
+      "main": [
+        "mono-black-1385465"
+      ],
+      "sideboard": []
+    },
+    "Bloodthirsty Conqueror": {
+      "set": "FDN",
+      "main": [
+        "mono-black-1385465"
+      ],
+      "sideboard": []
+    },
+    "Sheoldred": {
+      "set": "MOM",
+      "main": [],
+      "sideboard": [
+        "mono-black-1385465"
+      ]
+    },
+    "Ruthless Negotiation": {
+      "set": "BLB",
+      "main": [],
+      "sideboard": [
+        "mono-black-1385465"
+      ]
+    },
+    "Guardian Idol": {
+      "set": "J25",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Mind Stone": {
+      "set": "WTH",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Worn Powerstone": {
+      "set": "MH3",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Hedron Archive": {
+      "set": "JMP",
+      "main": [
+        "colorless-1383833",
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Forsaken Monument": {
+      "set": "ZNR",
+      "main": [
+        "colorless-1383833",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Thran Temporal Gateway": {
+      "set": "DOM",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Semblance Anvil": {
+      "set": "BRR",
+      "main": [
+        "colorless-1383833",
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Cloud Key": {
+      "set": "BRR",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Planetarium of Wan Shi Tong": {
+      "set": "TLA",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Paradox Engine": {
+      "set": "KLR",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Platinum Angel": {
+      "set": "BRR",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Crystalline Giant": {
+      "set": "IKO",
+      "main": [
+        "colorless-1383833",
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Ugin, the Spirit Dragon": {
+      "set": "M21",
+      "main": [
+        "colorless-1383833",
+        "five-color-1384958",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Wastes": {
+      "set": "OGW",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Fomori Vault": {
+      "set": "BIG",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Inventors' Fair": {
+      "set": "KLR",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Ugin's Labyrinth": {
+      "set": "MH3",
+      "main": [
+        "colorless-1383833",
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Zhalfirin Void": {
+      "set": "DOM",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Phyrexian Scrapyard": {
+      "set": "YONE",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Scavenger Grounds": {
+      "set": "AKR",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Darksteel Citadel": {
+      "set": "M15",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Crawling Barrens": {
+      "set": "FDN",
+      "main": [
+        "colorless-1383833"
+      ],
+      "sideboard": []
+    },
+    "Sazh's Chocobo": {
+      "set": "FIN",
+      "main": [
+        "mono-green-1384645"
+      ],
+      "sideboard": []
+    },
+    "Tifa Lockhart": {
+      "set": "FIN",
+      "main": [
+        "mono-green-1384645"
+      ],
+      "sideboard": []
+    },
+    "Bristly Bill, Spine Sower": {
+      "set": "OTJ",
+      "main": [
+        "mono-green-1384645"
+      ],
+      "sideboard": []
+    },
+    "Badgermole Cub": {
+      "set": "TLA",
+      "main": [
+        "mono-green-1384645"
+      ],
+      "sideboard": []
+    },
+    "Traveling Chocobo": {
+      "set": "FIN",
+      "main": [
+        "mono-green-1384645",
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Mossborn Hydra": {
+      "set": "FDN",
+      "main": [
+        "mono-green-1384645",
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Icetill Explorer": {
+      "set": "EOE",
+      "main": [
+        "mono-green-1384645"
+      ],
+      "sideboard": []
+    },
+    "Earthbender Ascension": {
+      "set": "TLA",
+      "main": [
+        "mono-green-1384645"
+      ],
+      "sideboard": []
+    },
+    "Escape Tunnel": {
+      "set": "MKM",
+      "main": [
+        "mono-green-1384645"
+      ],
+      "sideboard": []
+    },
+    "Fabled Passage": {
+      "set": "BLB",
+      "main": [
+        "mono-green-1384645",
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Amalia Benavides Aguirre": {
+      "set": "LCI",
+      "main": [
+        "orzhov-1382966",
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Hinterland Sanctifier": {
+      "set": "J25",
+      "main": [
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Starscape Cleric": {
+      "set": "BLB",
+      "main": [
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Vito, Thorn of the Dusk Rose": {
+      "set": "J25",
+      "main": [
+        "orzhov-1382966",
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Sorin of House Markov // Sorin, Ravenous Neonate": {
+      "set": "MH3",
+      "main": [
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Delney, Streetwise Lookout": {
+      "set": "MKM",
+      "main": [
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Brightclimb Pathway": {
+      "set": "ZNR",
+      "main": [
+        "orzhov-1382966",
+        "orzhov-1386700",
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Isolated Chapel": {
+      "set": "DOM",
+      "main": [
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Bleachbone Verge": {
+      "set": "DFT",
+      "main": [
+        "orzhov-1382966"
+      ],
+      "sideboard": []
+    },
+    "Surgical Extraction": {
+      "set": "OTP",
+      "main": [
+        "five-color-1379818",
+        "dimir-1377857",
+        "grixis-1387833",
+        "jeskai-1387409"
+      ],
+      "sideboard": [
+        "deck-1384034"
+      ]
+    },
+    "Copperline Gorge": {
+      "set": "ONE",
+      "main": [
+        "five-color-1379818"
+      ],
+      "sideboard": []
+    },
+    "Youthful Valkyrie": {
+      "set": "J25",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Starnheim Aspirant": {
+      "set": "KHM",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Angel of Destiny": {
+      "set": "ZNR",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Inspiring Overseer": {
+      "set": "J25",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Exemplar of Light": {
+      "set": "FDN",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Valkyrie Harbinger": {
+      "set": "J25",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Phyrexian Vindicator": {
+      "set": "ONE",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Elspeth Resplendent": {
+      "set": "SNC",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Farewell": {
+      "set": "NEO",
+      "main": [
+        "mono-white-1376237"
+      ],
+      "sideboard": []
+    },
+    "Speaker of the Heavens": {
+      "set": "J25",
+      "main": [
+        "orzhov-1386668"
+      ],
+      "sideboard": [
+        "mono-white-1376237"
+      ]
+    },
+    "Teferi, Hero of Dominaria": {
+      "set": "DOM",
+      "main": [
+        "azorius-1380265",
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Narset, Parter of Veils": {
+      "set": "BLC",
+      "main": [
+        "azorius-1380265",
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Jace, Unraveler of Secrets": {
+      "set": "SIR",
+      "main": [
+        "azorius-1380265",
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Dovin Baan": {
+      "set": "KLR",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Search for Azcanta // Azcanta, the Sunken Ruin": {
+      "set": "XLN",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Sanctify": {
+      "set": "VOW",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Nine Lives": {
+      "set": "M21",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Day of Judgment": {
+      "set": "FDN",
+      "main": [
+        "azorius-1380265",
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Approach of the Second Sun": {
+      "set": "STA",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Solemnity": {
+      "set": "AKR",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Fateful Absence": {
+      "set": "MID",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Counterspell": {
+      "set": "STA",
+      "main": [
+        "azorius-1380265",
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Fading Hope": {
+      "set": "J25",
+      "main": [
+        "azorius-1380265",
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Condemn": {
+      "set": "SPG",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Wrath of God": {
+      "set": "AKR",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Temple of Enlightenment": {
+      "set": "FDN",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "University Campus": {
+      "set": "SPM",
+      "main": [
+        "azorius-1380265"
+      ],
+      "sideboard": []
+    },
+    "Hallowed Fountain": {
+      "set": "RNA",
+      "main": [
+        "azorius-1380265",
+        "jeskai-1387409",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Undercity Plunder": {
+      "set": "Y22",
+      "main": [
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Dreams of Steel and Oil": {
+      "set": "BRO",
+      "main": [
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Momentum Breaker": {
+      "set": "DFT",
+      "main": [
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Strategic Betrayal": {
+      "set": "TDM",
+      "main": [
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Tergrid, God of Fright": {
+      "set": "KHM",
+      "main": [
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Braids, Arisen Nightmare": {
+      "set": "DMU",
+      "main": [
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Cabal Stronghold": {
+      "set": "DOM",
+      "main": [
+        "mono-black-1379579"
+      ],
+      "sideboard": []
+    },
+    "Ruin Crab": {
+      "set": "ZNR",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Glimpse the Unthinkable": {
+      "set": "RAV",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Founding the Third Path": {
+      "set": "DMU",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Tasha's Hideous Laughter": {
+      "set": "AFR",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Tome Scour": {
+      "set": "PIO",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Drown in the Loch": {
+      "set": "SPG",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Maddening Cacophony": {
+      "set": "ZNR",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Mesmeric Orb": {
+      "set": "BRR",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Ashiok, Dream Render": {
+      "set": "WAR",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Jace, the Perfected Mind": {
+      "set": "ONE",
+      "main": [
+        "dimir-1377857",
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Clearwater Pathway": {
+      "set": "ZNR",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Temple of Deceit": {
+      "set": "FDN",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Shipwreck Marsh": {
+      "set": "MID",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Sunken Hollow": {
+      "set": "EA3",
+      "main": [
+        "dimir-1377857"
+      ],
+      "sideboard": []
+    },
+    "Watery Grave": {
+      "set": "GRN",
+      "main": [
+        "dimir-1377857",
+        "grixis-1387833",
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Valki, God of Lies": {
+      "set": "KHM",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Nicol Bolas, the Ravager // Nicol Bolas, the Arisen": {
+      "set": "M19",
+      "main": [
+        "grixis-1387834",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Dirge Bat": {
+      "set": "IKO",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Murderous Rider": {
+      "set": "CELD",
+      "main": [
+        "grixis-1387834",
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Barrin, Tolarian Archmage": {
+      "set": "M21",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Tibalt, Wicked Tormentor": {
+      "set": "Y22",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Tibalt, Rakish Instigator": {
+      "set": "WAR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Nicol Bolas, Dragon-God": {
+      "set": "WAR",
+      "main": [
+        "grixis-1387834",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Nicol Bolas, God-Pharaoh": {
+      "set": "AKR",
+      "main": [
+        "grixis-1387834",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Bloodchief's Thirst": {
+      "set": "ZNR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Feed the Swarm": {
+      "set": "ZNR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Heartless Act": {
+      "set": "IKO",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Bontu's Last Reckoning": {
+      "set": "AKR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Power Word Kill": {
+      "set": "AFR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "The Elderspell": {
+      "set": "WAR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Smash to Dust": {
+      "set": "DMU",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Terminal Agony": {
+      "set": "OTP",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Pelakka Predation": {
+      "set": "PIO",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Song-Mad Treachery": {
+      "set": "ZNR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "A-Lantern of Revealing": {
+      "set": "HBG",
+      "main": [
+        "grixis-1387834",
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Chromatic Lantern": {
+      "set": "J25",
+      "main": [
+        "grixis-1387834",
+        "five-color-1380928",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Kaya's Ghostform": {
+      "set": "WAR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Aid the Fallen": {
+      "set": "WAR",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Annul": {
+      "set": "KHM",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "An Offer You Can't Refuse": {
+      "set": "FDN",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Minor Misstep": {
+      "set": "ONE",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Thriving Bluff": {
+      "set": "J25",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Thriving Isle": {
+      "set": "J25",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Thriving Moor": {
+      "set": "J25",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Hive of the Eye Tyrant": {
+      "set": "AFR",
+      "main": [
+        "grixis-1387834",
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Takenuma, Abandoned Mire": {
+      "set": "NEO",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Restless Reef": {
+      "set": "LCI",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Mistvault Bridge": {
+      "set": "MH2",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Frostboil Snarl": {
+      "set": "STX",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Eroded Canyon": {
+      "set": "OTJ",
+      "main": [
+        "grixis-1387834",
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Baron, Airship Kingdom": {
+      "set": "FIN",
+      "main": [
+        "grixis-1387834"
+      ],
+      "sideboard": []
+    },
+    "Steam Vents": {
+      "set": "GRN",
+      "main": [
+        "grixis-1387834",
+        "grixis-1387833",
+        "jeskai-1387409",
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Hymn to the Ages": {
+      "set": "YLCI",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Mycelic Ballad": {
+      "set": "YLCI",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Archmage's Charm": {
+      "set": "OTP",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Ribald Shanty": {
+      "set": "YLCI",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Day's Undoing": {
+      "set": "PIO",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Thoughtseize": {
+      "set": "OTP",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Inquisition of Kozilek": {
+      "set": "STA",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Oracle of the Alpha": {
+      "set": "YDMU",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Chandra, Awakened Inferno": {
+      "set": "M20",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Drowned Catacomb": {
+      "set": "XLN",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Restless Spire": {
+      "set": "WOE",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Sulfur Falls": {
+      "set": "DOM",
+      "main": [
+        "grixis-1387833",
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Blood Crypt": {
+      "set": "RNA",
+      "main": [
+        "grixis-1387833",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Dragonskull Summit": {
+      "set": "XLN",
+      "main": [
+        "grixis-1387833"
+      ],
+      "sideboard": []
+    },
+    "Castle Vantress": {
+      "set": "ELD",
+      "main": [
+        "grixis-1387833",
+        "jeskai-1387409",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Doppelgang": {
+      "set": "MKM",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Leyline of the Guildpact": {
+      "set": "MKM",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Nyx Lotus": {
+      "set": "THB",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Outrageous Robbery": {
+      "set": "MKM",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Storm the Festival": {
+      "set": "MID",
+      "main": [
+        "sultai-1382965",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Torment of Hailfire": {
+      "set": "AKR",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Utopia Sprawl": {
+      "set": "WOT",
+      "main": [
+        "sultai-1382965",
+        "deck-1384034"
+      ],
+      "sideboard": []
+    },
+    "Villainous Wealth": {
+      "set": "OTP",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Ornate Imitations": {
+      "set": "YDFT",
+      "main": [
+        "sultai-1382965",
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Hydroid Krasis": {
+      "set": "RNA",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Llanowar Tribe": {
+      "set": "MH1",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Polukranos Reborn // Polukranos, Engine of Ruin": {
+      "set": "MOM",
+      "main": [
+        "sultai-1382965",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Setessan Petitioner": {
+      "set": "THB",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Karn, the Great Creator": {
+      "set": "BLC",
+      "main": [
+        "sultai-1382965",
+        "selesnya-1386095"
+      ],
+      "sideboard": [
+        "deck-1376915"
+      ]
+    },
+    "Kiora, Behemoth Beckoner": {
+      "set": "WAR",
+      "main": [
+        "sultai-1382965",
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Breeding Pool": {
+      "set": "RNA",
+      "main": [
+        "sultai-1382965",
+        "deck-1384034",
+        "five-color-1384958",
+        "deck-1376915",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Zagoth Triome": {
+      "set": "IKO",
+      "main": [
+        "sultai-1382965"
+      ],
+      "sideboard": []
+    },
+    "Cityscape Leveler": {
+      "set": "BRO",
+      "main": [],
+      "sideboard": [
+        "sultai-1382965",
+        "selesnya-1386095"
+      ]
+    },
+    "Portal to Phyrexia": {
+      "set": "BRO",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": [
+        "sultai-1382965",
+        "selesnya-1386095"
+      ]
+    },
+    "Chromatic Orrery": {
+      "set": "M21",
+      "main": [],
+      "sideboard": [
+        "sultai-1382965"
+      ]
+    },
+    "Akroma's Memorial": {
+      "set": "SPG",
+      "main": [],
+      "sideboard": [
+        "sultai-1382965"
+      ]
+    },
+    "God-Pharaoh's Statue": {
+      "set": "WAR",
+      "main": [],
+      "sideboard": [
+        "sultai-1382965",
+        "selesnya-1386095"
+      ]
+    },
+    "Tormod's Crypt": {
+      "set": "M21",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": [
+        "sultai-1382965",
+        "jeskai-1387409",
+        "deck-1376915",
+        "selesnya-1386095"
+      ]
+    },
+    "Simulacrum Synthesizer": {
+      "set": "BIG",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Mysterious Tome // Chilling Chronicle": {
+      "set": "MID",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Dispel": {
+      "set": "BFZ",
+      "main": [
+        "mono-blue-1387757",
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jeskai Banner": {
+      "set": "KTK",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Howling Mine": {
+      "set": "BRR",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Zagoth Crystal": {
+      "set": "IKO",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Haunted Screen": {
+      "set": "DSK",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Thoughtcast": {
+      "set": "SPG",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Spell Pierce": {
+      "set": "DFT",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Miscast": {
+      "set": "M21",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Three Steps Ahead": {
+      "set": "OTJ",
+      "main": [
+        "mono-blue-1387757",
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Tezzeret's Gambit": {
+      "set": "STA",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Flow of Knowledge": {
+      "set": "BRO",
+      "main": [
+        "mono-blue-1387757",
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Guidelight Optimizer": {
+      "set": "DFT",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Thought Monitor": {
+      "set": "J25",
+      "main": [
+        "mono-blue-1387757",
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Burnished Hart": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Urza's Construction Drone": {
+      "set": "YBRO",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Tanglepool Bridge": {
+      "set": "MH2",
+      "main": [
+        "mono-blue-1387757"
+      ],
+      "sideboard": []
+    },
+    "Seat of the Synod": {
+      "set": "J25",
+      "main": [
+        "mono-blue-1387757",
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Phlage, Titan of Fire's Fury": {
+      "set": "MH3",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Tajic, Legion's Valor": {
+      "set": "YMKM",
+      "main": [
+        "jeskai-1387409",
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Narset of the Ancient Way": {
+      "set": "IKO",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "March of Otherworldly Light": {
+      "set": "NEO",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Tune the Narrative": {
+      "set": "MH3",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "No More Lies": {
+      "set": "MKM",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Invert Polarity": {
+      "set": "MH3",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Memory Deluge": {
+      "set": "MID",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Wrath of the Skies": {
+      "set": "MH3",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Expressive Iteration": {
+      "set": "SPG",
+      "main": [
+        "jeskai-1387409",
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Supreme Verdict": {
+      "set": "RTR",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Whirlwind of Thought": {
+      "set": "IKO",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Perilous Landscape": {
+      "set": "MH3",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Mystic Monastery": {
+      "set": "KTK",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Raugrin Triome": {
+      "set": "IKO",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Riverglide Pathway": {
+      "set": "ZNR",
+      "main": [
+        "jeskai-1387409"
+      ],
+      "sideboard": []
+    },
+    "Hengegate Pathway": {
+      "set": "KHM",
+      "main": [
+        "jeskai-1387409",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Pithing Needle": {
+      "set": "MID",
+      "main": [],
+      "sideboard": [
+        "jeskai-1387409",
+        "deck-1376915",
+        "selesnya-1386095"
+      ]
+    },
+    "Liquimetal Coating": {
+      "set": "BRR",
+      "main": [],
+      "sideboard": [
+        "jeskai-1387409",
+        "deck-1376915",
+        "selesnya-1386095"
+      ]
+    },
+    "Karn's Sylex": {
+      "set": "DMU",
+      "main": [],
+      "sideboard": [
+        "jeskai-1387409"
+      ]
+    },
+    "Aether Spellbomb": {
+      "set": "JMP",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Drix Interlacer": {
+      "set": "YEOE",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Lavaspur Boots": {
+      "set": "OTJ",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Metallic Rebuke": {
+      "set": "KLR",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Mox Amber": {
+      "set": "BRR",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Sink into Stupor": {
+      "set": "MH3",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Springleaf Drum": {
+      "set": "BRR",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Emry, Lurker of the Loch": {
+      "set": "MUL",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Kappa Cannoneer": {
+      "set": "MH3",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Ornithopter": {
+      "set": "BRR",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Pinnacle Emissary": {
+      "set": "EOE",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar": {
+      "set": "MH3",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Tezzeret, Cruel Captain": {
+      "set": "EOE",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Otawara, Soaring City": {
+      "set": "NEO",
+      "main": [
+        "izzet-1387370",
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Silverbluff Bridge": {
+      "set": "MH2",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Spirebluff Canal": {
+      "set": "OTJ",
+      "main": [
+        "izzet-1387370"
+      ],
+      "sideboard": []
+    },
+    "Favored Hoplite": {
+      "set": "J25",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Illuminator Virtuoso": {
+      "set": "SNC",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Tenth District Legionnaire": {
+      "set": "PIO",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Agrus Kos, Spirit of Justice": {
+      "set": "MKM",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Sami, Wildcat Captain": {
+      "set": "EOE",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Aurelia, the Warleader": {
+      "set": "FDN",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Nahiri, Forged in Fury": {
+      "set": "MAT",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Ojer Axonil, Deepest Might // Temple of Power": {
+      "set": "LCI",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Ancestral Anger": {
+      "set": "J25",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Monstrous Rage": {
+      "set": "WOE",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Loran's Escape": {
+      "set": "BRO",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Homestead Courage": {
+      "set": "MID",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Spikefield Hazard": {
+      "set": "ZNR",
+      "main": [
+        "boros-1387005",
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Reckless Rage": {
+      "set": "RIX",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Gods Willing": {
+      "set": "STA",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Sejiri Shelter": {
+      "set": "PIO",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Shatterskull Smashing": {
+      "set": "ZNR",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Protean War Engine": {
+      "set": "Y23",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Tarnation Vista": {
+      "set": "BIG",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Adagia, Windswept Bastion": {
+      "set": "EOE",
+      "main": [
+        "boros-1387005"
+      ],
+      "sideboard": []
+    },
+    "Aven Interrupter": {
+      "set": "OTJ",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Drannith Magistrate": {
+      "set": "IKO",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Elite Spellbinder": {
+      "set": "STX",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Containment Priest": {
+      "set": "M21",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Witch Enchanter": {
+      "set": "MH3",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Archon of Emeria": {
+      "set": "ZNR",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Soul Partition": {
+      "set": "BRO",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Divine Purge": {
+      "set": "Y22",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Stone of Erech": {
+      "set": "LTR",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Invasion of Gobakhan // Lightshield Array": {
+      "set": "MOM",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Elegant Parlor": {
+      "set": "MKM",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "Reflecting Pool": {
+      "set": "EOS",
+      "main": [
+        "boros-1386980"
+      ],
+      "sideboard": []
+    },
+    "White Orchid Phantom": {
+      "set": "MH3",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Urabrask, Heretic Praetor": {
+      "set": "SNC",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Relic of Progenitus": {
+      "set": "HA5",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Brotherhood's End": {
+      "set": "BRO",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Boros Charm": {
+      "set": "FDN",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Wear": {
+      "set": "PIO",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Pyroclasm": {
+      "set": "DSK",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Roiling Vortex": {
+      "set": "ZNR",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Blessed Alliance": {
+      "set": "SIR",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "The Wandering Emperor": {
+      "set": "NEO",
+      "main": [],
+      "sideboard": [
+        "boros-1386980"
+      ]
+    },
+    "Sowing Mycospawn": {
+      "set": "MH3",
+      "main": [
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Thought-Knot Seer": {
+      "set": "SPG",
+      "main": [
+        "deck-1384034"
+      ],
+      "sideboard": []
+    },
+    "Devourer of Destiny": {
+      "set": "MH3",
+      "main": [
+        "deck-1384034"
+      ],
+      "sideboard": []
+    },
+    "Nulldrifter": {
+      "set": "MH3",
+      "main": [
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Sire of Seven Deaths": {
+      "set": "FDN",
+      "main": [
+        "deck-1384034"
+      ],
+      "sideboard": []
+    },
+    "Emrakul, the Promised End": {
+      "set": "SIR",
+      "main": [
+        "deck-1384034"
+      ],
+      "sideboard": []
+    },
+    "Talisman of Curiosity": {
+      "set": "DRC",
+      "main": [
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Kozilek's Command": {
+      "set": "MH3",
+      "main": [
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Ugin's Binding": {
+      "set": "MH3",
+      "main": [
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Eldrazi Temple": {
+      "set": "EOS",
+      "main": [
+        "deck-1384034",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Sanctum of Ugin": {
+      "set": "BFZ",
+      "main": [
+        "deck-1384034"
+      ],
+      "sideboard": []
+    },
+    "Chalice of the Void": {
+      "set": "MRD",
+      "main": [],
+      "sideboard": [
+        "deck-1384034"
+      ]
+    },
+    "Consign to Memory": {
+      "set": "MH3",
+      "main": [],
+      "sideboard": [
+        "deck-1384034"
+      ]
+    },
+    "Torpor Orb": {
+      "set": "BIG",
+      "main": [],
+      "sideboard": [
+        "deck-1384034",
+        "deck-1376915"
+      ]
+    },
+    "Dismember": {
+      "set": "SPG",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": [
+        "deck-1384034"
+      ]
+    },
+    "Perforating Artist": {
+      "set": "FDN",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Kitesail Freebooter": {
+      "set": "M21",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Knight of Dusk's Shadow": {
+      "set": "DMU",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Tonberry": {
+      "set": "FIN",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Thought-Stalker Warlock": {
+      "set": "BLB",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Glistening Deluge": {
+      "set": "MOM",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Bitter Triumph": {
+      "set": "LCI",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Foreboding Ruins": {
+      "set": "SIR",
+      "main": [
+        "rakdos-1386714"
+      ],
+      "sideboard": []
+    },
+    "Vampire Nighthawk": {
+      "set": "J25",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Clandestine Meddler": {
+      "set": "MKM",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Gutless Plunderer": {
+      "set": "FDN",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Hackrobat": {
+      "set": "RNA",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Cindering Cutthroat": {
+      "set": "BLB",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Rune-Brand Juggler": {
+      "set": "MKM",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Aetherblade Agent": {
+      "set": "MOM",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Furnace Punisher": {
+      "set": "ONE",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Grimdancer": {
+      "set": "IKO",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Ramunap Ruins": {
+      "set": "AKR",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Davriel, Rogue Shadowmage": {
+      "set": "WAR",
+      "main": [],
+      "sideboard": [
+        "rakdos-1386714"
+      ]
+    },
+    "Agent of Raffine": {
+      "set": "YSNC",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Sphinx of Magosi": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Faerie Seer": {
+      "set": "J25",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Hypnotic Grifter": {
+      "set": "SNC",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Spyglass Siren": {
+      "set": "LCI",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Wall of Runes": {
+      "set": "ANB",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Academy Loremaster": {
+      "set": "DMU",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Mischievous Catgeist // Catlike Curiosity": {
+      "set": "VOW",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Artisan of Forms": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Razzle-Dazzler": {
+      "set": "OTJ",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": [
+        "izzet-1386682"
+      ]
+    },
+    "Drake Hatcher": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Duelist of the Mind": {
+      "set": "OTJ",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Fallaji Archaeologist": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Fog Bank": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Guild Thief": {
+      "set": "HBG",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jace, Vryn's Prodigy // Jace, Telepath Unbound": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Protean Thaumaturge": {
+      "set": "THB",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Thrummingbird": {
+      "set": "ONE",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Triskaidekaphile": {
+      "set": "MID",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Aether Channeler": {
+      "set": "J25",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Academy Wall": {
+      "set": "DMU",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Coveted Falcon": {
+      "set": "MKM",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Erudite Wizard": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Flux Channeler": {
+      "set": "WAR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jhessian Thief": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Moonfolk Puzzlemaker": {
+      "set": "NEO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Mocking Sprite": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Mistral Singer": {
+      "set": "M21",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Soulknife Spy": {
+      "set": "HBG",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Lat-Nam Adept": {
+      "set": "J25",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Mirrorhall Mimic // Ghastly Mimicry": {
+      "set": "VOW",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Rangers of Ithilien": {
+      "set": "LTR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "A-Lier, Disciple of the Drowned": {
+      "set": "MID",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Fear of Falling": {
+      "set": "DSK",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Mind Flayer": {
+      "set": "AFR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Thieving Aven": {
+      "set": "YOTJ",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Trawler Drake": {
+      "set": "ONE",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Shackle Slinger": {
+      "set": "OTJ",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Cloudfin Raptor": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Mist-Cloaked Herald": {
+      "set": "M19",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Nimbus Naiad": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "A-Young Blue Dragon": {
+      "set": "HBG",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "A-Wizard Class": {
+      "set": "AFR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Birthday Escape": {
+      "set": "LTR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Consider": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701",
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Clutch of Currents": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Ichormoon Gauntlet": {
+      "set": "ONE",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Curiosity": {
+      "set": "WOT",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Curious Obsession": {
+      "set": "JMP",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Deceive the Messenger": {
+      "set": "LTR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Enter the Enigma": {
+      "set": "DSK",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Fleeting Distraction": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Opt": {
+      "set": "J25",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Piece It Together": {
+      "set": "YBRO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Otherworldly Gaze": {
+      "set": "MID",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "River's Favor": {
+      "set": "ANB",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Unable to Scream": {
+      "set": "DSK",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Unsummon": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Witness Protection": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "A-Goggles of Night": {
+      "set": "HBG",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Council's Deliberation": {
+      "set": "LTR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Freeze in Place": {
+      "set": "WOE",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Impede Momentum": {
+      "set": "DMU",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Hithlain Knots": {
+      "set": "LTR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Negate": {
+      "set": "MOM",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Radical Idea": {
+      "set": "GRN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Proft's Eidetic Memory": {
+      "set": "MKM",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Stasis Field": {
+      "set": "MOM",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Strategic Planning": {
+      "set": "STA",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Utter Insignificance": {
+      "set": "MH3",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "The Key to the Vault": {
+      "set": "OTJ",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "As Foretold": {
+      "set": "WOT",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Copy Enchantment": {
+      "set": "WOT",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Cryptic Coat": {
+      "set": "MKM",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Lunar Insight": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Glimmerburst": {
+      "set": "DSK",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Stop Cold": {
+      "set": "OTJ",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Bottomless Pool // Locker Room": {
+      "set": "DSK",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Thirst for Discovery": {
+      "set": "VOW",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Tamiyo's Logbook": {
+      "set": "ONE",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Succumb to the Cold": {
+      "set": "WOE",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Phyrexian Espionage": {
+      "set": "DMU",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Fraying Sanity": {
+      "set": "WOT",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Moment of Truth": {
+      "set": "MOM",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Aqueous Form": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Sapphire Medallion": {
+      "set": "MH3",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jwari Disruption": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Silundi Vision": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Aetherize": {
+      "set": "FDN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Combat Research": {
+      "set": "DMU",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Curious Inquiry": {
+      "set": "MKM",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Fly": {
+      "set": "AFR",
+      "main": [
+        "mono-blue-1386701",
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Slip Out the Back": {
+      "set": "SNC",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Meat Locker // Drowned Diner": {
+      "set": "DSK",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jace Reawakened": {
+      "set": "OTJ",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jace, Wielder of Mysteries": {
+      "set": "WAR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Kasmina, Enigmatic Mentor": {
+      "set": "WAR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jace, Memory Adept": {
+      "set": "PIO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Teferi, Temporal Pilgrim": {
+      "set": "BRO",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Jace, Ingenious Mind-Mage": {
+      "set": "XLN",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Gate to Seatower": {
+      "set": "HBG",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Loch Larent": {
+      "set": "YWOE",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Hidden Cataract": {
+      "set": "LCI",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Rivendell": {
+      "set": "LTR",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Archway of Innovation": {
+      "set": "MH3",
+      "main": [
+        "mono-blue-1386701"
+      ],
+      "sideboard": []
+    },
+    "Infestation Sage": {
+      "set": "FDN",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Snarling Gorehound": {
+      "set": "MKM",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "A-Blood Artist": {
+      "set": "JMP",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Emperor of Bones": {
+      "set": "MH3",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Gix, Yawgmoth Praetor": {
+      "set": "BRO",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Gurgling Anointer": {
+      "set": "BRO",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Midnight Reaper": {
+      "set": "FDN",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Vengeful Bloodwitch": {
+      "set": "FDN",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Dross Hopper": {
+      "set": "J25",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Nezumi Linkbreaker": {
+      "set": "OTJ",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Umbral Collar Zealot": {
+      "set": "EOE",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel": {
+      "set": "FIN",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Syr Vondam, Sunstar Exemplar": {
+      "set": "EOE",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Deadly Dispute": {
+      "set": "J25",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Open the Graves": {
+      "set": "M19",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Funeral Room // Awakening Hall": {
+      "set": "DSK",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Dewdrop Cure": {
+      "set": "BLB",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Unearth": {
+      "set": "HA7",
+      "main": [
+        "orzhov-1386700",
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Liliana, Dreadhorde General": {
+      "set": "FDN",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Forlorn Flats": {
+      "set": "OTJ",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "Shadowy Backstreet": {
+      "set": "MKM",
+      "main": [
+        "orzhov-1386700"
+      ],
+      "sideboard": []
+    },
+    "A-Symmetry Sage": {
+      "set": "STX",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Balmor, Battlemage Captain": {
+      "set": "FDN",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Delver of Secrets // Insectile Aberration": {
+      "set": "MID",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Accident-Prone Apprentice": {
+      "set": "YWOE",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Swiftspear's Teachings": {
+      "set": "YTDM",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Wizard's Lightning": {
+      "set": "DOM",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Reckless Charge": {
+      "set": "MH1",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Static Discharge": {
+      "set": "J21",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Melt Through": {
+      "set": "YBRO",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Rush of Inspiration": {
+      "set": "MH3",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Airship Engine Room": {
+      "set": "TLA",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Peculiar Lighthouse": {
+      "set": "DSK",
+      "main": [
+        "izzet-1386682"
+      ],
+      "sideboard": []
+    },
+    "Elementalist Adept": {
+      "set": "FDN",
+      "main": [],
+      "sideboard": [
+        "izzet-1386682"
+      ]
+    },
+    "Spellweaver Eternal": {
+      "set": "AKR",
+      "main": [],
+      "sideboard": [
+        "izzet-1386682"
+      ]
+    },
+    "Siren Stormtamer": {
+      "set": "XLN",
+      "main": [],
+      "sideboard": [
+        "izzet-1386682"
+      ]
+    },
+    "Triton Wavebreaker": {
+      "set": "MH3",
+      "main": [],
+      "sideboard": [
+        "izzet-1386682"
+      ]
+    },
+    "Ghitu Lavarunner": {
+      "set": "FDN",
+      "main": [],
+      "sideboard": [
+        "izzet-1386682"
+      ]
+    },
+    "A-Umara Mystic": {
+      "set": "ZNR",
+      "main": [],
+      "sideboard": [
+        "izzet-1386682"
+      ]
+    },
+    "Dollmaker's Shop // Porcelain Gallery": {
+      "set": "DSK",
+      "main": [
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Case of the Uneaten Feast": {
+      "set": "MKM",
+      "main": [
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Thunderbond Vanguard": {
+      "set": "YTDM",
+      "main": [
+        "mono-white-1386669"
+      ],
+      "sideboard": []
+    },
+    "Ajani's Pridemate": {
+      "set": "J25",
+      "main": [
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Healer's Hawk": {
+      "set": "FDN",
+      "main": [
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Angel of Vitality": {
+      "set": "J25",
+      "main": [
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Linden, the Steadfast Queen": {
+      "set": "FDN",
+      "main": [
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Shattered Sanctum": {
+      "set": "VOW",
+      "main": [
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Shineshadow Snarl": {
+      "set": "STX",
+      "main": [
+        "orzhov-1386668"
+      ],
+      "sideboard": []
+    },
+    "Cultivate": {
+      "set": "STA",
+      "main": [
+        "five-color-1380928",
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Cycle of Renewal": {
+      "set": "TLA",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "The Rise of Sozin // Fire Lord Sozin": {
+      "set": "TLA",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Vigorous Farming": {
+      "set": "YBLB",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Binding the Old Gods": {
+      "set": "KHM",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Genesis Ultimatum": {
+      "set": "IKO",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Sultai Charm": {
+      "set": "KTK",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Ruinous Ultimatum": {
+      "set": "IKO",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Toph, the First Metalbender": {
+      "set": "TLA",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "The Walls of Ba Sing Se": {
+      "set": "TLA",
+      "main": [
+        "five-color-1380928"
+      ],
+      "sideboard": []
+    },
+    "Explore": {
+      "set": "J25",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Vorinclex, Monstrous Raider": {
+      "set": "KHM",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Vorinclex, Voice of Hunger": {
+      "set": "MUL",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Zetalpa, Primal Dawn": {
+      "set": "FDN",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Jodah, the Unifier": {
+      "set": "DMU",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Sheoldred, Whispering One": {
+      "set": "MUL",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Sauron, the Dark Lord": {
+      "set": "LTR",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Ghalta, Stampede Tyrant": {
+      "set": "LCI",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Golos, Tireless Pilgrim": {
+      "set": "M20",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": [
+        "selesnya-1386095"
+      ]
+    },
+    "Avacyn, Angel of Hope": {
+      "set": "SIS",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Lord Xander, the Collector": {
+      "set": "SNC",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Toxrill, the Corrosive": {
+      "set": "VOW",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Urabrask the Hidden": {
+      "set": "MUL",
+      "main": [
+        "five-color-1384958"
+      ],
+      "sideboard": []
+    },
+    "Karn's Bastion": {
+      "set": "WAR",
+      "main": [
+        "five-color-1384958",
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Springbloom Druid": {
+      "set": "FDN",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Scythecat Cub": {
+      "set": "J25",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Eldritch Evolution": {
+      "set": "SIR",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Scapeshift": {
+      "set": "SPG",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Snakeskin Veil": {
+      "set": "J25",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Revitalizing Repast": {
+      "set": "MH3",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Splendid Reclamation": {
+      "set": "SIR",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Bountiful Landscape": {
+      "set": "MH3",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Riveteers Overlook": {
+      "set": "SNC",
+      "main": [
+        "mono-green-1384577"
+      ],
+      "sideboard": []
+    },
+    "Goblin Trapfinder": {
+      "set": "HBG",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Unlucky Witness": {
+      "set": "SNC",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Black Cat": {
+      "set": "JMP",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Kroxa, Titan of Death's Hunger": {
+      "set": "MUL",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Leonin Relic-Warder": {
+      "set": "MBS",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Corrupted Conviction": {
+      "set": "OTJ",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Village Rites": {
+      "set": "J25",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Blackcleave Cliffs": {
+      "set": "ONE",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Silent Clearing": {
+      "set": "HA7",
+      "main": [
+        "mardu-1386209"
+      ],
+      "sideboard": []
+    },
+    "Pollywog Symbiote": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Sea-Dasher Octopus": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Dreamtail Heron": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Pouncing Shoreshark": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Archipelagore": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Everquill Phoenix": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Porcuparrot": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Cloudpiercer": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Essence Symbiote": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Glowstone Recluse": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Gemrazer": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Migratory Greathorn": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Auspicious Starrix": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Sawtusk Demolisher": {
+      "set": "HA4",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Lore Drakkis": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Trumpeting Gnarr": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Parcelbeast": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Illuna, Apex of Wishes": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Mysterious Egg": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Sylvan Caryatid": {
+      "set": "PIO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Omnath, Locus of the Roil": {
+      "set": "M20",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Sprite Dragon": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Whirler Virtuoso": {
+      "set": "KLR",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Gladecover Scout": {
+      "set": "PIO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Mutable Pupa": {
+      "set": "YEOE",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Paradise Druid": {
+      "set": "J25",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Sleep-Cursed Faerie": {
+      "set": "WOE",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Embodiment of Spring": {
+      "set": "KTK",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Dragonfly Swarm": {
+      "set": "TLA",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Saiba Cryptomancer": {
+      "set": "MOM",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Hustle // Bustle": {
+      "set": "MKM",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Invert // Invent": {
+      "set": "GRN",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Giant's Amulet": {
+      "set": "KHM",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Invasion of Pyrulea // Gargantuan Slabhorn": {
+      "set": "MOM",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Ketria Triome": {
+      "set": "IKO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Evolving Wilds": {
+      "set": "PIO",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Aether Hub": {
+      "set": "KLR",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Oakhollow Village": {
+      "set": "BLB",
+      "main": [
+        "temur-1386197"
+      ],
+      "sideboard": []
+    },
+    "Burst Lightning": {
+      "set": "FDN",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Shock": {
+      "set": "J25",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Lightning Helix": {
+      "set": "MKM",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Turn Inside Out": {
+      "set": "DSK",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Dreadmaw's Ire": {
+      "set": "LCI",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Greasewrench Goblin": {
+      "set": "DFT",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Hired Claw": {
+      "set": "BLB",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Emberheart Challenger": {
+      "set": "BLB",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Slickshot Show-Off": {
+      "set": "OTJ",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Screaming Nemesis": {
+      "set": "DSK",
+      "main": [
+        "boros-1386119"
+      ],
+      "sideboard": []
+    },
+    "Multiversal Passage": {
+      "set": "SPM",
+      "main": [
+        "boros-1386119",
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Glaring Fleshraker": {
+      "set": "MH3",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Breaker of Creation": {
+      "set": "MH3",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "World Breaker": {
+      "set": "OGW",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Leyline of the Void": {
+      "set": "DSK",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Urza's Incubator": {
+      "set": "MH3",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Bojuka Bog": {
+      "set": "WWK",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Yavimaya Coast": {
+      "set": "DMU",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "Arid Archway": {
+      "set": "OTJ",
+      "main": [
+        "deck-1376915"
+      ],
+      "sideboard": []
+    },
+    "The Stone Brain": {
+      "set": "BRO",
+      "main": [],
+      "sideboard": [
+        "deck-1376915"
+      ]
+    },
+    "Cavalier of Thorns": {
+      "set": "M20",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Old-Growth Troll": {
+      "set": "KHM",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Elesh Norn, Mother of Machines": {
+      "set": "ONE",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Fanatic of Rhonas": {
+      "set": "MH3",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Scrapshooter": {
+      "set": "BLB",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Nissa, Who Shakes the World": {
+      "set": "BLC",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Leyline of Abundance": {
+      "set": "WOT",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Last March of the Ents": {
+      "set": "LTR",
+      "main": [
+        "selesnya-1386095"
+      ],
+      "sideboard": []
+    },
+    "Wurmcoil Engine": {
+      "set": "BRR",
+      "main": [],
+      "sideboard": [
+        "selesnya-1386095"
+      ]
+    },
+    "Vexing Bauble": {
+      "set": "MH3",
+      "main": [],
+      "sideboard": [
+        "selesnya-1386095"
+      ]
+    },
+    "Hama Pashar, Ruin Seeker": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Yuan-Ti Malison": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Nadaar, Selfless Paladin": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Varis, Silverymoon Ranger": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "A-Cloister Gargoyle": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Intrepid Outlander": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "A-Ellywick Tumblestrum": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "You Find a Cursed Idol": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Quandrix Command": {
+      "set": "STX",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Bar the Gate": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Hall of Storm Giants": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Cave of the Frost Dragon": {
+      "set": "AFR",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Barkchannel Pathway": {
+      "set": "KHM",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Glacial Fortress": {
+      "set": "XLN",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Hinterland Harbor": {
+      "set": "DOM",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Hedge Maze": {
+      "set": "MKM",
+      "main": [
+        "bant-1385937"
+      ],
+      "sideboard": []
+    },
+    "Narnam Renegade": {
+      "set": "KLR",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Venerated Rotpriest": {
+      "set": "ONE",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Phyresis Roach": {
+      "set": "YONE",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Vampire of the Dire Moon": {
+      "set": "J25",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Questing Beast": {
+      "set": "ELD",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Malakir Rebirth": {
+      "set": "ZNR",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Wild Shape": {
+      "set": "HBG",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Necrogen Communion": {
+      "set": "ONE",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Infectious Bite": {
+      "set": "ONE",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Call of the Death-Dweller": {
+      "set": "IKO",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Snow-Covered Swamp": {
+      "set": "SLD",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Snow-Covered Forest": {
+      "set": "SLD",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Darkbore Pathway": {
+      "set": "KHM",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Blooming Marsh": {
+      "set": "OTJ",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Necroblossom Snarl": {
+      "set": "STX",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Temple of Malady": {
+      "set": "FDN",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Llanowar Wastes": {
+      "set": "BRO",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    },
+    "Jungle Hollow": {
+      "set": "DFT",
+      "main": [
+        "golgari-1385907"
+      ],
+      "sideboard": []
+    }
+  }
+}
