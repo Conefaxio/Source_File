@@ -1,22 +1,22 @@
 {
   "version": "1.0",
-  "generated": "2026-02-01T18:49:44.960408",
-  "total_cards": 304,
+  "generated": "2026-02-23T11:08:49.764303",
+  "total_cards": 301,
   "cards": {
     "Hare Apparent": {
       "set": "FDN",
       "main": [
-        "elspeth-storm-slayer-1382671"
+        "elspeth-storm-slayer-1388354"
       ],
       "sideboard": []
     },
     "Plains": {
       "set": "DFT",
       "main": [
-        "elspeth-storm-slayer-1382671",
+        "elspeth-storm-slayer-1388354",
         "ketramose-the-new-dawn-1387619",
-        "hope-estheim-1367464",
         "momo-friendly-flier-1379732",
+        "hope-estheim-1367464",
         "arahbo-the-first-fang-1374933"
       ],
       "sideboard": []
@@ -27,7 +27,7 @@
         "momo-friendly-flier-1379732"
       ],
       "sideboard": [
-        "elspeth-storm-slayer-1382671"
+        "elspeth-storm-slayer-1388354"
       ]
     },
     "The Masamune": {
@@ -335,266 +335,6 @@
         "sephiroth-fabled-soldier-1383788"
       ]
     },
-    "Point the Way": {
-      "set": "DFT",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Tifa's Limit Break": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Chocobo Kick": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Bite Down": {
-      "set": "J25",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Sidequest: Raise a Chocobo // Black Chocobo": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Dance of the Tumbleweeds": {
-      "set": "OTJ",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Bioengineered Future": {
-      "set": "EOE",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Ride the Shoopuf": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Adventuring Gear": {
-      "set": "FDN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Prishe's Wanderings": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Primeval Bounty": {
-      "set": "J25",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Case of the Locked Hothouse": {
-      "set": "MKM",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Lumbering Worldwagon": {
-      "set": "DFT",
-      "main": [
-        "tifa-lockhart-1385387",
-        "kona-rescue-beastie-1383776"
-      ],
-      "sideboard": []
-    },
-    "Bushwhack": {
-      "set": "J25",
-      "main": [
-        "tifa-lockhart-1385387",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Heaped Harvest": {
-      "set": "BLB",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Lavaspur Boots": {
-      "set": "OTJ",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Commune with Beavers": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Smuggler's Surprise": {
-      "set": "OTJ",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Ultima, Origin of Oblivion": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Clifftop Lookout": {
-      "set": "BLB",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Summon: Fenrir": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387",
-        "kona-rescue-beastie-1383776",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Mightform Harmonizer": {
-      "set": "EOE",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Traveling Botanist": {
-      "set": "TDM",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Bristly Bill, Spine Sower": {
-      "set": "OTJ",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": [
-        "bristly-bill-spine-sower-1365295"
-      ]
-    },
-    "Mossborn Hydra": {
-      "set": "FDN",
-      "main": [
-        "tifa-lockhart-1385387",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Loot, Exuberant Explorer": {
-      "set": "FDN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Ainok Wayfarer": {
-      "set": "TDM",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Cactuar": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Ouroboroid": {
-      "set": "EOE",
-      "main": [
-        "tifa-lockhart-1385387",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Forest": {
-      "set": "DFT",
-      "main": [
-        "tifa-lockhart-1385387",
-        "kona-rescue-beastie-1383776",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Eden, Seat of the Sanctum": {
-      "set": "FIN",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Evolving Wilds": {
-      "set": "PIO",
-      "main": [
-        "tifa-lockhart-1385387",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Escape Tunnel": {
-      "set": "MKM",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Terramorphic Expanse": {
-      "set": "J25",
-      "main": [
-        "tifa-lockhart-1385387"
-      ],
-      "sideboard": []
-    },
-    "Tifa Lockhart": {
-      "set": "FIN",
-      "main": [
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": [
-        "tifa-lockhart-1385387"
-      ]
-    },
     "Get Lost": {
       "set": "LCI",
       "main": [
@@ -789,7 +529,7 @@
       "set": "TDM",
       "main": [
         "ketramose-the-new-dawn-1387619",
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
@@ -863,7 +603,8 @@
       "set": "BLB",
       "main": [
         "ketramose-the-new-dawn-1387619",
-        "kona-rescue-beastie-1383776",
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986",
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
@@ -917,272 +658,10 @@
         "ketramose-the-new-dawn-1387619"
       ]
     },
-    "Hinterland Sanctifier": {
-      "set": "J25",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Healer's Hawk": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464",
-        "momo-friendly-flier-1379732",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Leonin Vanguard": {
-      "set": "J25",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Aerith Gainsborough": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Dazzling Angel": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Ajani's Pridemate": {
-      "set": "J25",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Enduring Innocence": {
-      "set": "DSK",
-      "main": [
-        "hope-estheim-1367464",
-        "momo-friendly-flier-1379732",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Outlaw Medic": {
-      "set": "OTJ",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Haliya, Guided by Light": {
-      "set": "EOE",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Cloudblazer": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Regal Caracal": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Roaming Throne": {
-      "set": "LCI",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Cat Collector": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Inspiring Overseer": {
-      "set": "J25",
-      "main": [
-        "hope-estheim-1367464",
-        "momo-friendly-flier-1379732"
-      ],
-      "sideboard": []
-    },
-    "Herald of Faith": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Rosa, Resolute White Mage": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Resplendent Angel": {
-      "set": "LCI",
-      "main": [
-        "hope-estheim-1367464",
-        "momo-friendly-flier-1379732"
-      ],
-      "sideboard": []
-    },
-    "Basri, Tomorrow's Champion": {
-      "set": "DFT",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "The Wind Crystal": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "White Mage's Staff": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Patchwork Banner": {
-      "set": "BLB",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Focus Fire": {
-      "set": "EOE",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Case of the Uneaten Feast": {
-      "set": "MKM",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Joust Through": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Moment of Triumph": {
-      "set": "J25",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Deadly Riposte": {
-      "set": "J25",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Moogles' Valor": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Restoration Magic": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Authority of the Consuls": {
-      "set": "FDN",
-      "main": [
-        "hope-estheim-1367464",
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Makeshift Binding": {
-      "set": "MKM",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Jidoor, Aristocratic Capital": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Island": {
-      "set": "DFT",
-      "main": [
-        "hope-estheim-1367464",
-        "eluge-the-shoreless-sea-1386070"
-      ],
-      "sideboard": []
-    },
-    "Tranquil Cove": {
-      "set": "DFT",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Adventurer's Inn": {
-      "set": "FIN",
-      "main": [
-        "hope-estheim-1367464"
-      ],
-      "sideboard": []
-    },
-    "Hope Estheim": {
-      "set": "FIN",
-      "main": [],
-      "sideboard": [
-        "hope-estheim-1367464"
-      ]
-    },
     "Llanowar Elves": {
       "set": "J25",
       "main": [
-        "kona-rescue-beastie-1383776",
+        "kona-rescue-beastie-1380961",
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
@@ -1190,21 +669,30 @@
     "Gene Pollinator": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Druid of the Cowl": {
       "set": "FDN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
+      ],
+      "sideboard": []
+    },
+    "Summon: Fenrir": {
+      "set": "FIN",
+      "main": [
+        "kona-rescue-beastie-1380961",
+        "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
     },
     "Overlord of the Hauntwoods": {
       "set": "DSK",
       "main": [
-        "kona-rescue-beastie-1383776",
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986",
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
@@ -1212,21 +700,21 @@
     "Anticausal Vestige": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "District Mascot": {
       "set": "DFT",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Ornery Tumblewagg": {
       "set": "OTJ",
       "main": [
-        "kona-rescue-beastie-1383776",
+        "kona-rescue-beastie-1380961",
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
@@ -1234,119 +722,122 @@
     "Lumra, Bellow of the Woods": {
       "set": "BLB",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Ghalta, Stampede Tyrant": {
       "set": "LCI",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Ghalta, Primal Hunger": {
       "set": "J25",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
-    "Vizier of the Menagerie": {
-      "set": "FDN",
+    "Summon: Bahamut": {
+      "set": "FIN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Sire of Seven Deaths": {
       "set": "FDN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Meteor Golem": {
       "set": "FDN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Craterhoof Behemoth": {
       "set": "JMP",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986"
       ],
       "sideboard": []
     },
     "Famished Worldsire": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986"
       ],
       "sideboard": []
     },
     "Diamond Weapon": {
       "set": "FIN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
-    "Vaultborn Tyrant": {
-      "set": "BIG",
+    "The Walls of Ba Sing Se": {
+      "set": "TLA",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Glacier Godmaw": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986"
       ],
       "sideboard": []
     },
     "Spinewoods Armadillo": {
       "set": "OTJ",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Quilled Greatwurm": {
       "set": "FDN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Aggressive Mammoth": {
       "set": "FDN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Harmonious Grovestrider": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Hivespine Wolverine": {
       "set": "BLB",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Railway Brawler": {
       "set": "OTJ",
       "main": [
-        "kona-rescue-beastie-1383776",
+        "kona-rescue-beastie-1380961",
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
@@ -1354,7 +845,7 @@
     "Summon: Titan": {
       "set": "FIN",
       "main": [
-        "kona-rescue-beastie-1383776",
+        "kona-rescue-beastie-1380961",
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
@@ -1362,75 +853,319 @@
     "Coliseum Behemoth": {
       "set": "FIN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
+      ],
+      "sideboard": []
+    },
+    "Lumbering Worldwagon": {
+      "set": "DFT",
+      "main": [
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986"
       ],
       "sideboard": []
     },
     "Larval Scoutlander": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986"
       ],
       "sideboard": []
     },
-    "Dawnsire, Sunstar Dreadnought": {
-      "set": "EOE",
+    "The Regalia": {
+      "set": "FIN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Extinguisher Battleship": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Virtue of Strength": {
       "set": "WOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
     "Chimil, the Inner Sun": {
       "set": "LCI",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
     },
-    "The Legend of Kyoshi // Avatar Kyoshi": {
-      "set": "TLA",
+    "Vivien Reid": {
+      "set": "FDN",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Forest": {
+      "set": "DFT",
+      "main": [
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
     },
     "Evendo, Waking Haven": {
       "set": "EOE",
       "main": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961",
+        "tifa-lockhart-1379986"
       ],
       "sideboard": []
     },
     "Kona, Rescue Beastie": {
       "set": "DSK",
-      "main": [],
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
       "sideboard": [
-        "kona-rescue-beastie-1383776"
+        "kona-rescue-beastie-1380961"
       ]
     },
-    "Pawpatch Recruit": {
-      "set": "BLB",
+    "Sazh's Chocobo": {
+      "set": "FIN",
       "main": [
+        "tifa-lockhart-1379986",
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
     },
-    "Sazh's Chocobo": {
+    "Bristly Bill, Spine Sower": {
+      "set": "OTJ",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": [
+        "bristly-bill-spine-sower-1365295"
+      ]
+    },
+    "Mossborn Hydra": {
+      "set": "FDN",
+      "main": [
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Springbloom Druid": {
+      "set": "FDN",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Traveling Chocobo": {
       "set": "FIN",
+      "main": [
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Icetill Explorer": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Mightform Harmonizer": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Sagu Wildling": {
+      "set": "TDM",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Rampaging Baloths": {
+      "set": "FDN",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Summon: Fat Chocobo": {
+      "set": "FIN",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Traveling Botanist": {
+      "set": "TDM",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "House Cartographer": {
+      "set": "DSK",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Edge Rover": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Frenzied Baloth": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Ouroboroid": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Chocobo Kick": {
+      "set": "FIN",
+      "main": [
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Ride the Shoopuf": {
+      "set": "FIN",
+      "main": [
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Ordeal of Nylea": {
+      "set": "FDN",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Bioengineered Future": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Archdruid's Charm": {
+      "set": "MKM",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Eusocial Engineering": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Sledge-Class Seedship": {
+      "set": "EOE",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Defend the Rider": {
+      "set": "DFT",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Heaped Harvest": {
+      "set": "BLB",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Snakeskin Veil": {
+      "set": "J25",
+      "main": [
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Origin of Metalbending": {
+      "set": "TLA",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Escape Tunnel": {
+      "set": "MKM",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Demolition Field": {
+      "set": "FDN",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Evolving Wilds": {
+      "set": "PIO",
+      "main": [
+        "tifa-lockhart-1379986",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Terramorphic Expanse": {
+      "set": "J25",
+      "main": [
+        "tifa-lockhart-1379986"
+      ],
+      "sideboard": []
+    },
+    "Tifa Lockhart": {
+      "set": "FIN",
+      "main": [
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": [
+        "tifa-lockhart-1379986"
+      ]
+    },
+    "Pawpatch Recruit": {
+      "set": "BLB",
       "main": [
         "bristly-bill-spine-sower-1365295"
       ],
@@ -1471,13 +1206,6 @@
       ],
       "sideboard": []
     },
-    "Traveling Chocobo": {
-      "set": "FIN",
-      "main": [
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
     "Wildwood Scourge": {
       "set": "FDN",
       "main": [
@@ -1485,15 +1213,15 @@
       ],
       "sideboard": []
     },
-    "Snakeskin Veil": {
-      "set": "J25",
+    "Royal Treatment": {
+      "set": "WOE",
       "main": [
         "bristly-bill-spine-sower-1365295"
       ],
       "sideboard": []
     },
-    "Royal Treatment": {
-      "set": "WOE",
+    "Bushwhack": {
+      "set": "J25",
       "main": [
         "bristly-bill-spine-sower-1365295"
       ],
@@ -1640,6 +1368,15 @@
       ],
       "sideboard": []
     },
+    "Enduring Innocence": {
+      "set": "DSK",
+      "main": [
+        "momo-friendly-flier-1379732",
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
     "Exemplar of Light": {
       "set": "FDN",
       "main": [
@@ -1651,6 +1388,23 @@
       "set": "J25",
       "main": [
         "momo-friendly-flier-1379732"
+      ],
+      "sideboard": []
+    },
+    "Healer's Hawk": {
+      "set": "FDN",
+      "main": [
+        "momo-friendly-flier-1379732",
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Inspiring Overseer": {
+      "set": "J25",
+      "main": [
+        "momo-friendly-flier-1379732",
+        "hope-estheim-1367464"
       ],
       "sideboard": []
     },
@@ -1693,6 +1447,14 @@
       "set": "DSK",
       "main": [
         "momo-friendly-flier-1379732"
+      ],
+      "sideboard": []
+    },
+    "Resplendent Angel": {
+      "set": "LCI",
+      "main": [
+        "momo-friendly-flier-1379732",
+        "hope-estheim-1367464"
       ],
       "sideboard": []
     },
@@ -1799,6 +1561,234 @@
       "main": [],
       "sideboard": [
         "momo-friendly-flier-1379732"
+      ]
+    },
+    "Hinterland Sanctifier": {
+      "set": "J25",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Leonin Vanguard": {
+      "set": "J25",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Aerith Gainsborough": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Dazzling Angel": {
+      "set": "FDN",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Ajani's Pridemate": {
+      "set": "J25",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Outlaw Medic": {
+      "set": "OTJ",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Haliya, Guided by Light": {
+      "set": "EOE",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Cloudblazer": {
+      "set": "FDN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Regal Caracal": {
+      "set": "FDN",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Roaming Throne": {
+      "set": "LCI",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Cat Collector": {
+      "set": "FDN",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Herald of Faith": {
+      "set": "FDN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Rosa, Resolute White Mage": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Basri, Tomorrow's Champion": {
+      "set": "DFT",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "The Wind Crystal": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "White Mage's Staff": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Patchwork Banner": {
+      "set": "BLB",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Focus Fire": {
+      "set": "EOE",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Case of the Uneaten Feast": {
+      "set": "MKM",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Joust Through": {
+      "set": "FDN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Moment of Triumph": {
+      "set": "J25",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Deadly Riposte": {
+      "set": "J25",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Moogles' Valor": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Restoration Magic": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Authority of the Consuls": {
+      "set": "FDN",
+      "main": [
+        "hope-estheim-1367464",
+        "arahbo-the-first-fang-1374933"
+      ],
+      "sideboard": []
+    },
+    "Makeshift Binding": {
+      "set": "MKM",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Jidoor, Aristocratic Capital": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Island": {
+      "set": "DFT",
+      "main": [
+        "hope-estheim-1367464",
+        "eluge-the-shoreless-sea-1386070"
+      ],
+      "sideboard": []
+    },
+    "Tranquil Cove": {
+      "set": "DFT",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Adventurer's Inn": {
+      "set": "FIN",
+      "main": [
+        "hope-estheim-1367464"
+      ],
+      "sideboard": []
+    },
+    "Hope Estheim": {
+      "set": "FIN",
+      "main": [],
+      "sideboard": [
+        "hope-estheim-1367464"
       ]
     },
     "Into the Flood Maw": {
