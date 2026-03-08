@@ -2,8 +2,8 @@
   "version": "1.0",
   "format": "Timeless BO1",
   "period": "Last 30 days",
-  "generated": "2026-02-23T11:08:19.127789",
-  "total_decks": 17,
+  "generated": "2026-03-07T22:23:39.545360",
+  "total_decks": 18,
   "decks": [
     {
       "archetype": "Izzet",
@@ -132,6 +132,383 @@
         }
       ],
       "sideboard": []
+    },
+    {
+      "archetype": "Boros Jegantha",
+      "deck_id": "boros-jegantha-1394468",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/boros-jegantha-1394468",
+      "main": [
+        {
+          "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Guide of Souls",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Ragavan, Nimble Pilferer",
+          "quantity": 3,
+          "set": "MUL"
+        },
+        {
+          "name": "Ocelot Pride",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Amped Raptor",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Phlage, Titan of Fire's Fury",
+          "quantity": 3,
+          "set": "MH3"
+        },
+        {
+          "name": "Static Prison",
+          "quantity": 3,
+          "set": "MH3"
+        },
+        {
+          "name": "Galvanic Discharge",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "The One Ring",
+          "quantity": 3,
+          "set": "LTR"
+        },
+        {
+          "name": "Goblin Bombardment",
+          "quantity": 3,
+          "set": "WOT"
+        },
+        {
+          "name": "Lightning Bolt",
+          "quantity": 2,
+          "set": "STA"
+        },
+        {
+          "name": "Elegant Parlor",
+          "quantity": 2,
+          "set": "MKM"
+        },
+        {
+          "name": "Windswept Heath",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Arid Mesa",
+          "quantity": 2,
+          "set": "MH2"
+        },
+        {
+          "name": "Flooded Strand",
+          "quantity": 2,
+          "set": "MH3"
+        },
+        {
+          "name": "Arena of Glory",
+          "quantity": 2,
+          "set": "MH3"
+        },
+        {
+          "name": "Sunbaked Canyon",
+          "quantity": 1,
+          "set": "HA7"
+        },
+        {
+          "name": "Sacred Foundry",
+          "quantity": 4,
+          "set": "GRN"
+        },
+        {
+          "name": "Aether Hub",
+          "quantity": 3,
+          "set": "KLR"
+        },
+        {
+          "name": "Plains",
+          "quantity": 3,
+          "set": "DFT"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Suncleanser",
+          "quantity": 3,
+          "set": "M19"
+        },
+        {
+          "name": "Jegantha, the Wellspring",
+          "quantity": 1,
+          "set": "MUL"
+        },
+        {
+          "name": "High Noon",
+          "quantity": 4,
+          "set": "OTJ"
+        },
+        {
+          "name": "Blood Moon",
+          "quantity": 2,
+          "set": "WOT"
+        },
+        {
+          "name": "Swords to Plowshares",
+          "quantity": 3,
+          "set": "SPG"
+        },
+        {
+          "name": "Ghost Vacuum",
+          "quantity": 2,
+          "set": "DSK"
+        }
+      ]
+    },
+    {
+      "archetype": "Mardu Lurrus",
+      "deck_id": "mardu-lurrus-1394230",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mardu-lurrus-1394230",
+      "main": [
+        {
+          "name": "Ragavan, Nimble Pilferer",
+          "quantity": 4,
+          "set": "MUL"
+        },
+        {
+          "name": "Orcish Bowmasters",
+          "quantity": 4,
+          "set": "LTR"
+        },
+        {
+          "name": "Ocelot Pride",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Amped Raptor",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Guide of Souls",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Voice of Victory",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Swords to Plowshares",
+          "quantity": 4,
+          "set": "SPG"
+        },
+        {
+          "name": "Static Prison",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Lightning Bolt",
+          "quantity": 4,
+          "set": "STA"
+        },
+        {
+          "name": "Godless Shrine",
+          "quantity": 3,
+          "set": "RNA"
+        },
+        {
+          "name": "Sunbillow Verge",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Bloodstained Mire",
+          "quantity": 2,
+          "set": "MH3"
+        },
+        {
+          "name": "Marsh Flats",
+          "quantity": 4,
+          "set": "MH2"
+        },
+        {
+          "name": "Blood Crypt",
+          "quantity": 2,
+          "set": "RNA"
+        },
+        {
+          "name": "Sacred Foundry",
+          "quantity": 3,
+          "set": "GRN"
+        },
+        {
+          "name": "Arid Mesa",
+          "quantity": 4,
+          "set": "MH2"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Lurrus of the Dream-Den",
+          "quantity": 1,
+          "set": "MUL"
+        }
+      ]
+    },
+    {
+      "archetype": "Rakdos Lurrus",
+      "deck_id": "rakdos-lurrus-1393143",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/rakdos-lurrus-1393143",
+      "main": [
+        {
+          "name": "Lightning Bolt",
+          "quantity": 1,
+          "set": "STA"
+        },
+        {
+          "name": "Dark Ritual",
+          "quantity": 4,
+          "set": "STA"
+        },
+        {
+          "name": "Mishra's Bauble",
+          "quantity": 4,
+          "set": "BRR"
+        },
+        {
+          "name": "Demonic Tutor",
+          "quantity": 1,
+          "set": "STA"
+        },
+        {
+          "name": "Thoughtseize",
+          "quantity": 2,
+          "set": "OTP"
+        },
+        {
+          "name": "Tendrils of Agony",
+          "quantity": 1,
+          "set": "STA"
+        },
+        {
+          "name": "Diabolic Intent",
+          "quantity": 1,
+          "set": "BRO"
+        },
+        {
+          "name": "Underworld Breach",
+          "quantity": 4,
+          "set": "THB"
+        },
+        {
+          "name": "Galvanic Discharge",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Unstable Amulet",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Stitcher's Supplier",
+          "quantity": 4,
+          "set": "M19"
+        },
+        {
+          "name": "Dragon's Rage Channeler",
+          "quantity": 4,
+          "set": "MH2"
+        },
+        {
+          "name": "Orcish Bowmasters",
+          "quantity": 2,
+          "set": "LTR"
+        },
+        {
+          "name": "Amped Raptor",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Wooded Foothills",
+          "quantity": 1,
+          "set": "MH3"
+        },
+        {
+          "name": "Phyrexian Tower",
+          "quantity": 2,
+          "set": "MH3"
+        },
+        {
+          "name": "Sulfurous Springs",
+          "quantity": 3,
+          "set": "DMU"
+        },
+        {
+          "name": "Blackcleave Cliffs",
+          "quantity": 3,
+          "set": "ONE"
+        },
+        {
+          "name": "Cavern of Souls",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Haunted Ridge",
+          "quantity": 3,
+          "set": "MID"
+        },
+        {
+          "name": "Takenuma, Abandoned Mire",
+          "quantity": 1,
+          "set": "NEO"
+        },
+        {
+          "name": "Raucous Theater",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Blazemire Verge",
+          "quantity": 1,
+          "set": "DSK"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Lurrus of the Dream-Den",
+          "quantity": 1,
+          "set": "MUL"
+        }
+      ]
     },
     {
       "archetype": "Mono Red Jegantha",
@@ -1882,284 +2259,6 @@
           "name": "Chandra, Acolyte of Flame",
           "quantity": 1,
           "set": "M20"
-        }
-      ]
-    },
-    {
-      "archetype": "Mono Blue",
-      "deck_id": "mono-blue-1381931",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-blue-1381931",
-      "main": [
-        {
-          "name": "Chrome Mox",
-          "quantity": 4,
-          "set": "SPG"
-        },
-        {
-          "name": "Stock Up",
-          "quantity": 4,
-          "set": "DFT"
-        },
-        {
-          "name": "Dig Through Time",
-          "quantity": 1,
-          "set": "KTK"
-        },
-        {
-          "name": "Flare of Denial",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Goblin Charbelcher",
-          "quantity": 4,
-          "set": "BRR"
-        },
-        {
-          "name": "Jwari Disruption",
-          "quantity": 3,
-          "set": "PIO"
-        },
-        {
-          "name": "Mana Drain",
-          "quantity": 4,
-          "set": "OTP"
-        },
-        {
-          "name": "Omniscience",
-          "quantity": 4,
-          "set": "FDN"
-        },
-        {
-          "name": "Sea Gate Restoration",
-          "quantity": 4,
-          "set": "ZNR"
-        },
-        {
-          "name": "Show and Tell",
-          "quantity": 3,
-          "set": "SPG"
-        },
-        {
-          "name": "Sink into Stupor",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "The One Ring",
-          "quantity": 4,
-          "set": "LTR"
-        },
-        {
-          "name": "Waterlogged Teachings",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Hullbreaker Horror",
-          "quantity": 1,
-          "set": "VOW"
-        },
-        {
-          "name": "Hydroelectric Specimen",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Phantasmal Shieldback",
-          "quantity": 4,
-          "set": "J25"
-        },
-        {
-          "name": "Thundertrap Trainer",
-          "quantity": 4,
-          "set": "BLB"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "Harbinger of the Seas",
-          "quantity": 1,
-          "set": "MH3"
-        },
-        {
-          "name": "Disruptor Flute",
-          "quantity": 2,
-          "set": "MH3"
-        },
-        {
-          "name": "Flusterstorm",
-          "quantity": 2,
-          "set": "MB2"
-        },
-        {
-          "name": "Leyline of Sanctity",
-          "quantity": 4,
-          "set": "WOT"
-        },
-        {
-          "name": "Stern Scolding",
-          "quantity": 3,
-          "set": "LTR"
-        },
-        {
-          "name": "Commandeer",
-          "quantity": 3,
-          "set": "OTP"
-        }
-      ]
-    },
-    {
-      "archetype": "Mono Black",
-      "deck_id": "mono-black-1381169",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-black-1381169",
-      "main": [
-        {
-          "name": "Ashiok, Dream Render",
-          "quantity": 3,
-          "set": "WAR"
-        },
-        {
-          "name": "Karn, the Great Creator",
-          "quantity": 3,
-          "set": "BLC"
-        },
-        {
-          "name": "Cling to Dust",
-          "quantity": 1,
-          "set": "THB"
-        },
-        {
-          "name": "Collective Brutality",
-          "quantity": 1,
-          "set": "SIR"
-        },
-        {
-          "name": "Dark Ritual",
-          "quantity": 4,
-          "set": "STA"
-        },
-        {
-          "name": "Beseech the Mirror",
-          "quantity": 1,
-          "set": "WOE"
-        },
-        {
-          "name": "Fatal Push",
-          "quantity": 2,
-          "set": "KLR"
-        },
-        {
-          "name": "Leyline of the Void",
-          "quantity": 3,
-          "set": "DSK"
-        },
-        {
-          "name": "March of Wretched Sorrow",
-          "quantity": 4,
-          "set": "NEO"
-        },
-        {
-          "name": "The Meathook Massacre",
-          "quantity": 1,
-          "set": "MID"
-        },
-        {
-          "name": "Jet Medallion",
-          "quantity": 2,
-          "set": "MH3"
-        },
-        {
-          "name": "Necrodominance",
-          "quantity": 3,
-          "set": "MH3"
-        },
-        {
-          "name": "Gray Merchant of Asphodel",
-          "quantity": 4,
-          "set": "THB"
-        },
-        {
-          "name": "Orcish Bowmasters",
-          "quantity": 3,
-          "set": "LTR"
-        },
-        {
-          "name": "Preacher of the Schism",
-          "quantity": 2,
-          "set": "LCI"
-        },
-        {
-          "name": "Sheoldred, the Apocalypse",
-          "quantity": 3,
-          "set": "DMU"
-        },
-        {
-          "name": "Field of Ruin",
-          "quantity": 1,
-          "set": "MID"
-        },
-        {
-          "name": "Hive of the Eye Tyrant",
-          "quantity": 1,
-          "set": "AFR"
-        },
-        {
-          "name": "Nykthos, Shrine to Nyx",
-          "quantity": 4,
-          "set": "THS"
-        },
-        {
-          "name": "Sunken Citadel",
-          "quantity": 4,
-          "set": "LCI"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 11,
-          "set": "DFT"
-        },
-        {
-          "name": "Takenuma, Abandoned Mire",
-          "quantity": 1,
-          "set": "NEO"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "Cityscape Leveler",
-          "quantity": 1,
-          "set": "BRO"
-        },
-        {
-          "name": "Wurmcoil Engine",
-          "quantity": 1,
-          "set": "BRR"
-        },
-        {
-          "name": "Grafdigger's Cage",
-          "quantity": 1,
-          "set": "M20"
-        },
-        {
-          "name": "Liquimetal Coating",
-          "quantity": 1,
-          "set": "BRR"
-        },
-        {
-          "name": "Pithing Needle",
-          "quantity": 1,
-          "set": "MID"
-        },
-        {
-          "name": "The One Ring",
-          "quantity": 1,
-          "set": "LTR"
-        },
-        {
-          "name": "Tormod's Crypt",
-          "quantity": 1,
-          "set": "M21"
         }
       ]
     }
