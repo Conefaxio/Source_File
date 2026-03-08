@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-23T11:08:19.131004",
-  "total_cards": 304,
+  "generated": "2026-03-07T22:23:39.548869",
+  "total_cards": 287,
   "cards": {
     "Emporium Thopterist": {
       "set": "YMKM",
@@ -75,6 +75,7 @@
       "set": "BRR",
       "main": [
         "izzet-1390174",
+        "rakdos-lurrus-1393143",
         "azorius-1389953",
         "dimir-1389161",
         "four-color-1387083",
@@ -185,6 +186,473 @@
       ],
       "sideboard": []
     },
+    "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "mono-white-1390322",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Guide of Souls": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "mono-white-1390322",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Ragavan, Nimble Pilferer": {
+      "set": "MUL",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "grixis-1386117",
+        "rakdos-1384966",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Ocelot Pride": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "mono-white-1390322",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Amped Raptor": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "rakdos-lurrus-1393143",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Phlage, Titan of Fire's Fury": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Static Prison": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "boros-1383843"
+      ],
+      "sideboard": [
+        "mono-red-1385557"
+      ]
+    },
+    "Galvanic Discharge": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "rakdos-lurrus-1393143",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "The One Ring": {
+      "set": "LTR",
+      "main": [
+        "boros-jegantha-1394468",
+        "mono-white-1390322"
+      ],
+      "sideboard": []
+    },
+    "Goblin Bombardment": {
+      "set": "WOT",
+      "main": [
+        "boros-jegantha-1394468",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Lightning Bolt": {
+      "set": "STA",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "rakdos-lurrus-1393143",
+        "grixis-1386117",
+        "rakdos-1384966"
+      ],
+      "sideboard": []
+    },
+    "Elegant Parlor": {
+      "set": "MKM",
+      "main": [
+        "boros-jegantha-1394468",
+        "mono-red-1385557",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Windswept Heath": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "boros-1383843",
+        "four-color-1382357"
+      ],
+      "sideboard": []
+    },
+    "Arid Mesa": {
+      "set": "MH2",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "mono-red-1385557",
+        "rakdos-1384966"
+      ],
+      "sideboard": []
+    },
+    "Flooded Strand": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "boros-1383843",
+        "four-color-1382357"
+      ],
+      "sideboard": []
+    },
+    "Arena of Glory": {
+      "set": "MH3",
+      "main": [
+        "boros-jegantha-1394468",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Sunbaked Canyon": {
+      "set": "HA7",
+      "main": [
+        "boros-jegantha-1394468"
+      ],
+      "sideboard": []
+    },
+    "Sacred Foundry": {
+      "set": "GRN",
+      "main": [
+        "boros-jegantha-1394468",
+        "mardu-lurrus-1394230",
+        "mono-red-1385557",
+        "boros-1383843",
+        "four-color-1382357"
+      ],
+      "sideboard": []
+    },
+    "Aether Hub": {
+      "set": "KLR",
+      "main": [
+        "boros-jegantha-1394468"
+      ],
+      "sideboard": []
+    },
+    "Plains": {
+      "set": "DFT",
+      "main": [
+        "boros-jegantha-1394468",
+        "mono-white-1390322",
+        "azorius-1389953",
+        "boros-1383843",
+        "five-color-1383036",
+        "four-color-1382357"
+      ],
+      "sideboard": []
+    },
+    "Suncleanser": {
+      "set": "M19",
+      "main": [],
+      "sideboard": [
+        "boros-jegantha-1394468",
+        "boros-1383843"
+      ]
+    },
+    "Jegantha, the Wellspring": {
+      "set": "MUL",
+      "main": [],
+      "sideboard": [
+        "boros-jegantha-1394468",
+        "mono-red-1385557",
+        "boros-1383843"
+      ]
+    },
+    "High Noon": {
+      "set": "OTJ",
+      "main": [],
+      "sideboard": [
+        "boros-jegantha-1394468"
+      ]
+    },
+    "Blood Moon": {
+      "set": "WOT",
+      "main": [],
+      "sideboard": [
+        "boros-jegantha-1394468",
+        "mono-red-1385557",
+        "boros-1383843"
+      ]
+    },
+    "Swords to Plowshares": {
+      "set": "SPG",
+      "main": [
+        "mardu-lurrus-1394230",
+        "boros-1383843"
+      ],
+      "sideboard": [
+        "boros-jegantha-1394468"
+      ]
+    },
+    "Ghost Vacuum": {
+      "set": "DSK",
+      "main": [],
+      "sideboard": [
+        "boros-jegantha-1394468"
+      ]
+    },
+    "Orcish Bowmasters": {
+      "set": "LTR",
+      "main": [
+        "mardu-lurrus-1394230",
+        "rakdos-lurrus-1393143",
+        "rakdos-1384966"
+      ],
+      "sideboard": []
+    },
+    "Voice of Victory": {
+      "set": "TDM",
+      "main": [
+        "mardu-lurrus-1394230"
+      ],
+      "sideboard": []
+    },
+    "Godless Shrine": {
+      "set": "RNA",
+      "main": [
+        "mardu-lurrus-1394230"
+      ],
+      "sideboard": []
+    },
+    "Sunbillow Verge": {
+      "set": "DFT",
+      "main": [
+        "mardu-lurrus-1394230"
+      ],
+      "sideboard": []
+    },
+    "Bloodstained Mire": {
+      "set": "MH3",
+      "main": [
+        "mardu-lurrus-1394230",
+        "grixis-1386117",
+        "rakdos-1384966",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Marsh Flats": {
+      "set": "MH2",
+      "main": [
+        "mardu-lurrus-1394230"
+      ],
+      "sideboard": []
+    },
+    "Blood Crypt": {
+      "set": "RNA",
+      "main": [
+        "mardu-lurrus-1394230",
+        "grixis-1386117",
+        "rakdos-1384966"
+      ],
+      "sideboard": []
+    },
+    "Lurrus of the Dream-Den": {
+      "set": "MUL",
+      "main": [],
+      "sideboard": [
+        "mardu-lurrus-1394230",
+        "rakdos-lurrus-1393143"
+      ]
+    },
+    "Dark Ritual": {
+      "set": "STA",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "mono-black-1390600",
+        "dimir-1389161",
+        "five-color-1389157",
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Demonic Tutor": {
+      "set": "STA",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "mono-black-1390600",
+        "five-color-1389157",
+        "four-color-1387083"
+      ],
+      "sideboard": []
+    },
+    "Thoughtseize": {
+      "set": "OTP",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "grixis-1386117",
+        "rakdos-1384966"
+      ],
+      "sideboard": []
+    },
+    "Tendrils of Agony": {
+      "set": "STA",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "dimir-1389161"
+      ],
+      "sideboard": []
+    },
+    "Diabolic Intent": {
+      "set": "BRO",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Underworld Breach": {
+      "set": "THB",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Unstable Amulet": {
+      "set": "MH3",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "boros-1383843"
+      ],
+      "sideboard": []
+    },
+    "Stitcher's Supplier": {
+      "set": "M19",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Dragon's Rage Channeler": {
+      "set": "MH2",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "grixis-1386117"
+      ],
+      "sideboard": []
+    },
+    "Swamp": {
+      "set": "DFT",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "mono-black-1390600",
+        "mono-black-1390118",
+        "dimir-1389161",
+        "grixis-1386117",
+        "rakdos-1384966",
+        "five-color-1383036"
+      ],
+      "sideboard": []
+    },
+    "Mountain": {
+      "set": "DFT",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "mono-red-1385557",
+        "rakdos-1384966",
+        "boros-1383843",
+        "five-color-1383036",
+        "four-color-1382357"
+      ],
+      "sideboard": []
+    },
+    "Wooded Foothills": {
+      "set": "MH3",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "four-color-1382357"
+      ],
+      "sideboard": []
+    },
+    "Phyrexian Tower": {
+      "set": "MH3",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Sulfurous Springs": {
+      "set": "DMU",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Blackcleave Cliffs": {
+      "set": "ONE",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Cavern of Souls": {
+      "set": "LCI",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Haunted Ridge": {
+      "set": "MID",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Takenuma, Abandoned Mire": {
+      "set": "NEO",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
+    "Raucous Theater": {
+      "set": "MKM",
+      "main": [
+        "rakdos-lurrus-1393143",
+        "rakdos-1384966"
+      ],
+      "sideboard": []
+    },
+    "Blazemire Verge": {
+      "set": "DSK",
+      "main": [
+        "rakdos-lurrus-1393143"
+      ],
+      "sideboard": []
+    },
     "Manamorphose": {
       "set": "SPG",
       "main": [
@@ -212,8 +680,7 @@
         "mono-red-1385557",
         "dimir-1389161",
         "five-color-1389157",
-        "four-color-1387083",
-        "mono-blue-1381931"
+        "four-color-1387083"
       ],
       "sideboard": []
     },
@@ -289,47 +756,11 @@
       ],
       "sideboard": []
     },
-    "Mountain": {
-      "set": "DFT",
-      "main": [
-        "mono-red-1385557",
-        "rakdos-1384966",
-        "boros-1383843",
-        "five-color-1383036",
-        "four-color-1382357"
-      ],
-      "sideboard": []
-    },
-    "Arid Mesa": {
-      "set": "MH2",
-      "main": [
-        "mono-red-1385557",
-        "rakdos-1384966"
-      ],
-      "sideboard": []
-    },
     "Scalding Tarn": {
       "set": "MH2",
       "main": [
         "mono-red-1385557",
         "grixis-1386117"
-      ],
-      "sideboard": []
-    },
-    "Elegant Parlor": {
-      "set": "MKM",
-      "main": [
-        "mono-red-1385557",
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Sacred Foundry": {
-      "set": "GRN",
-      "main": [
-        "mono-red-1385557",
-        "boros-1383843",
-        "four-color-1382357"
       ],
       "sideboard": []
     },
@@ -340,14 +771,6 @@
       ],
       "sideboard": [
         "mono-red-1385557"
-      ]
-    },
-    "Jegantha, the Wellspring": {
-      "set": "MUL",
-      "main": [],
-      "sideboard": [
-        "mono-red-1385557",
-        "boros-1383843"
       ]
     },
     "Grapeshot": {
@@ -371,28 +794,11 @@
         "mono-red-1385557"
       ]
     },
-    "Static Prison": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": [
-        "mono-red-1385557"
-      ]
-    },
     "Defense Grid": {
       "set": "BRR",
       "main": [],
       "sideboard": [
         "mono-red-1385557"
-      ]
-    },
-    "Blood Moon": {
-      "set": "WOT",
-      "main": [],
-      "sideboard": [
-        "mono-red-1385557",
-        "boros-1383843"
       ]
     },
     "Blast Zone": {
@@ -401,17 +807,6 @@
       "sideboard": [
         "mono-red-1385557"
       ]
-    },
-    "Dark Ritual": {
-      "set": "STA",
-      "main": [
-        "mono-black-1390600",
-        "dimir-1389161",
-        "five-color-1389157",
-        "four-color-1387083",
-        "mono-black-1381169"
-      ],
-      "sideboard": []
     },
     "Vicious Rumors": {
       "set": "GRN",
@@ -452,15 +847,6 @@
       "set": "SPG",
       "main": [
         "mono-black-1390600"
-      ],
-      "sideboard": []
-    },
-    "Demonic Tutor": {
-      "set": "STA",
-      "main": [
-        "mono-black-1390600",
-        "five-color-1389157",
-        "four-color-1387083"
       ],
       "sideboard": []
     },
@@ -558,39 +944,10 @@
       ],
       "sideboard": []
     },
-    "Swamp": {
-      "set": "DFT",
-      "main": [
-        "mono-black-1390600",
-        "mono-black-1390118",
-        "dimir-1389161",
-        "grixis-1386117",
-        "rakdos-1384966",
-        "five-color-1383036",
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
     "Cabal Stronghold": {
       "set": "DOM",
       "main": [
         "mono-black-1390600"
-      ],
-      "sideboard": []
-    },
-    "Ocelot Pride": {
-      "set": "MH3",
-      "main": [
-        "mono-white-1390322",
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Guide of Souls": {
-      "set": "MH3",
-      "main": [
-        "mono-white-1390322",
-        "boros-1383843"
       ],
       "sideboard": []
     },
@@ -605,14 +962,6 @@
       "set": "THB",
       "main": [
         "mono-white-1390322"
-      ],
-      "sideboard": []
-    },
-    "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger": {
-      "set": "MH3",
-      "main": [
-        "mono-white-1390322",
-        "boros-1383843"
       ],
       "sideboard": []
     },
@@ -672,16 +1021,6 @@
       ],
       "sideboard": []
     },
-    "The One Ring": {
-      "set": "LTR",
-      "main": [
-        "mono-white-1390322",
-        "mono-blue-1381931"
-      ],
-      "sideboard": [
-        "mono-black-1381169"
-      ]
-    },
     "Abiding Grace": {
       "set": "MH2",
       "main": [
@@ -693,17 +1032,6 @@
       "set": "ONE",
       "main": [
         "mono-white-1390322",
-        "four-color-1382357"
-      ],
-      "sideboard": []
-    },
-    "Plains": {
-      "set": "DFT",
-      "main": [
-        "mono-white-1390322",
-        "azorius-1389953",
-        "boros-1383843",
-        "five-color-1383036",
         "four-color-1382357"
       ],
       "sideboard": []
@@ -939,23 +1267,14 @@
       "set": "WOE",
       "main": [
         "dimir-1389161",
-        "four-color-1387083",
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Tendrils of Agony": {
-      "set": "STA",
-      "main": [
-        "dimir-1389161"
+        "four-color-1387083"
       ],
       "sideboard": []
     },
     "Necrodominance": {
       "set": "MH3",
       "main": [
-        "dimir-1389161",
-        "mono-black-1381169"
+        "dimir-1389161"
       ],
       "sideboard": []
     },
@@ -1077,8 +1396,7 @@
     "Goblin Charbelcher": {
       "set": "BRR",
       "main": [
-        "four-color-1387083",
-        "mono-blue-1381931"
+        "four-color-1387083"
       ],
       "sideboard": [
         "five-color-1389157"
@@ -1090,15 +1408,12 @@
         "four-color-1387083"
       ],
       "sideboard": [
-        "five-color-1389157",
-        "mono-blue-1381931"
+        "five-color-1389157"
       ]
     },
     "Leyline of the Void": {
       "set": "DSK",
-      "main": [
-        "mono-black-1381169"
-      ],
+      "main": [],
       "sideboard": [
         "five-color-1389157"
       ]
@@ -1195,38 +1510,6 @@
       ],
       "sideboard": []
     },
-    "Dragon's Rage Channeler": {
-      "set": "MH2",
-      "main": [
-        "grixis-1386117"
-      ],
-      "sideboard": []
-    },
-    "Ragavan, Nimble Pilferer": {
-      "set": "MUL",
-      "main": [
-        "grixis-1386117",
-        "rakdos-1384966",
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Thoughtseize": {
-      "set": "OTP",
-      "main": [
-        "grixis-1386117",
-        "rakdos-1384966"
-      ],
-      "sideboard": []
-    },
-    "Lightning Bolt": {
-      "set": "STA",
-      "main": [
-        "grixis-1386117",
-        "rakdos-1384966"
-      ],
-      "sideboard": []
-    },
     "Treasure Cruise": {
       "set": "PIO",
       "main": [
@@ -1244,8 +1527,7 @@
     "Mana Drain": {
       "set": "OTP",
       "main": [
-        "grixis-1386117",
-        "mono-blue-1381931"
+        "grixis-1386117"
       ],
       "sideboard": []
     },
@@ -1259,8 +1541,7 @@
     "Fatal Push": {
       "set": "KLR",
       "main": [
-        "grixis-1386117",
-        "mono-black-1381169"
+        "grixis-1386117"
       ],
       "sideboard": []
     },
@@ -1273,23 +1554,6 @@
     },
     "Polluted Delta": {
       "set": "MH3",
-      "main": [
-        "grixis-1386117",
-        "rakdos-1384966"
-      ],
-      "sideboard": []
-    },
-    "Bloodstained Mire": {
-      "set": "MH3",
-      "main": [
-        "grixis-1386117",
-        "rakdos-1384966",
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Blood Crypt": {
-      "set": "RNA",
       "main": [
         "grixis-1386117",
         "rakdos-1384966"
@@ -1339,14 +1603,6 @@
       ],
       "sideboard": []
     },
-    "Orcish Bowmasters": {
-      "set": "LTR",
-      "main": [
-        "rakdos-1384966",
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
     "Fury": {
       "set": "SPG",
       "main": [
@@ -1382,55 +1638,6 @@
       ],
       "sideboard": []
     },
-    "Raucous Theater": {
-      "set": "MKM",
-      "main": [
-        "rakdos-1384966"
-      ],
-      "sideboard": []
-    },
-    "Amped Raptor": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Phlage, Titan of Fire's Fury": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Swords to Plowshares": {
-      "set": "SPG",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Galvanic Discharge": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Unstable Amulet": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Goblin Bombardment": {
-      "set": "WOT",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
     "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki": {
       "set": "NEO",
       "main": [
@@ -1445,42 +1652,12 @@
       ],
       "sideboard": []
     },
-    "Arena of Glory": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843"
-      ],
-      "sideboard": []
-    },
-    "Flooded Strand": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843",
-        "four-color-1382357"
-      ],
-      "sideboard": []
-    },
     "Inspiring Vantage": {
       "set": "OTJ",
       "main": [
         "boros-1383843"
       ],
       "sideboard": []
-    },
-    "Windswept Heath": {
-      "set": "MH3",
-      "main": [
-        "boros-1383843",
-        "four-color-1382357"
-      ],
-      "sideboard": []
-    },
-    "Suncleanser": {
-      "set": "M19",
-      "main": [],
-      "sideboard": [
-        "boros-1383843"
-      ]
     },
     "Vexing Bauble": {
       "set": "MH3",
@@ -1500,8 +1677,7 @@
       "set": "MID",
       "main": [],
       "sideboard": [
-        "boros-1383843",
-        "mono-black-1381169"
+        "boros-1383843"
       ]
     },
     "Unlicensed Hearse": {
@@ -1668,8 +1844,7 @@
     "Omniscience": {
       "set": "FDN",
       "main": [
-        "five-color-1383036",
-        "mono-blue-1381931"
+        "five-color-1383036"
       ],
       "sideboard": []
     },
@@ -1902,13 +2077,6 @@
       ],
       "sideboard": []
     },
-    "Wooded Foothills": {
-      "set": "MH3",
-      "main": [
-        "four-color-1382357"
-      ],
-      "sideboard": []
-    },
     "Ketria Triome": {
       "set": "IKO",
       "main": [
@@ -1918,9 +2086,7 @@
     },
     "Hullbreaker Horror": {
       "set": "VOW",
-      "main": [
-        "mono-blue-1381931"
-      ],
+      "main": [],
       "sideboard": [
         "four-color-1382357"
       ]
@@ -1986,258 +2152,6 @@
       "main": [],
       "sideboard": [
         "four-color-1382357"
-      ]
-    },
-    "Stock Up": {
-      "set": "DFT",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Dig Through Time": {
-      "set": "KTK",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Flare of Denial": {
-      "set": "MH3",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Jwari Disruption": {
-      "set": "PIO",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Sea Gate Restoration": {
-      "set": "ZNR",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Show and Tell": {
-      "set": "SPG",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Sink into Stupor": {
-      "set": "MH3",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Waterlogged Teachings": {
-      "set": "MH3",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Hydroelectric Specimen": {
-      "set": "MH3",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Phantasmal Shieldback": {
-      "set": "J25",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Thundertrap Trainer": {
-      "set": "BLB",
-      "main": [
-        "mono-blue-1381931"
-      ],
-      "sideboard": []
-    },
-    "Harbinger of the Seas": {
-      "set": "MH3",
-      "main": [],
-      "sideboard": [
-        "mono-blue-1381931"
-      ]
-    },
-    "Disruptor Flute": {
-      "set": "MH3",
-      "main": [],
-      "sideboard": [
-        "mono-blue-1381931"
-      ]
-    },
-    "Flusterstorm": {
-      "set": "MB2",
-      "main": [],
-      "sideboard": [
-        "mono-blue-1381931"
-      ]
-    },
-    "Stern Scolding": {
-      "set": "LTR",
-      "main": [],
-      "sideboard": [
-        "mono-blue-1381931"
-      ]
-    },
-    "Commandeer": {
-      "set": "OTP",
-      "main": [],
-      "sideboard": [
-        "mono-blue-1381931"
-      ]
-    },
-    "Ashiok, Dream Render": {
-      "set": "WAR",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Karn, the Great Creator": {
-      "set": "BLC",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Cling to Dust": {
-      "set": "THB",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Collective Brutality": {
-      "set": "SIR",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "March of Wretched Sorrow": {
-      "set": "NEO",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "The Meathook Massacre": {
-      "set": "MID",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Jet Medallion": {
-      "set": "MH3",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Gray Merchant of Asphodel": {
-      "set": "THB",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Preacher of the Schism": {
-      "set": "LCI",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Sheoldred, the Apocalypse": {
-      "set": "DMU",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Field of Ruin": {
-      "set": "MID",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Hive of the Eye Tyrant": {
-      "set": "AFR",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Nykthos, Shrine to Nyx": {
-      "set": "THS",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Sunken Citadel": {
-      "set": "LCI",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Takenuma, Abandoned Mire": {
-      "set": "NEO",
-      "main": [
-        "mono-black-1381169"
-      ],
-      "sideboard": []
-    },
-    "Cityscape Leveler": {
-      "set": "BRO",
-      "main": [],
-      "sideboard": [
-        "mono-black-1381169"
-      ]
-    },
-    "Wurmcoil Engine": {
-      "set": "BRR",
-      "main": [],
-      "sideboard": [
-        "mono-black-1381169"
-      ]
-    },
-    "Grafdigger's Cage": {
-      "set": "M20",
-      "main": [],
-      "sideboard": [
-        "mono-black-1381169"
-      ]
-    },
-    "Liquimetal Coating": {
-      "set": "BRR",
-      "main": [],
-      "sideboard": [
-        "mono-black-1381169"
-      ]
-    },
-    "Tormod's Crypt": {
-      "set": "M21",
-      "main": [],
-      "sideboard": [
-        "mono-black-1381169"
       ]
     }
   }
