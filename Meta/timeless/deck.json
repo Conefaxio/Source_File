@@ -2,8 +2,8 @@
   "version": "1.0",
   "format": "Timeless BO1",
   "period": "Last 30 days",
-  "generated": "2026-03-07T22:23:39.545360",
-  "total_decks": 18,
+  "generated": "2026-03-13T19:05:09.570007",
+  "total_decks": 17,
   "decks": [
     {
       "archetype": "Izzet",
@@ -129,6 +129,445 @@
           "name": "Steam Vents",
           "quantity": 1,
           "set": "GRN"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mardu Lurrus",
+      "deck_id": "mardu-lurrus-1394230",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mardu-lurrus-1394230",
+      "main": [
+        {
+          "name": "Ragavan, Nimble Pilferer",
+          "quantity": 4,
+          "set": "MUL"
+        },
+        {
+          "name": "Orcish Bowmasters",
+          "quantity": 4,
+          "set": "LTR"
+        },
+        {
+          "name": "Ocelot Pride",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Amped Raptor",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Guide of Souls",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Voice of Victory",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Swords to Plowshares",
+          "quantity": 4,
+          "set": "SPG"
+        },
+        {
+          "name": "Static Prison",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Lightning Bolt",
+          "quantity": 4,
+          "set": "STA"
+        },
+        {
+          "name": "Godless Shrine",
+          "quantity": 3,
+          "set": "RNA"
+        },
+        {
+          "name": "Sunbillow Verge",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Bloodstained Mire",
+          "quantity": 2,
+          "set": "MH3"
+        },
+        {
+          "name": "Marsh Flats",
+          "quantity": 4,
+          "set": "MH2"
+        },
+        {
+          "name": "Blood Crypt",
+          "quantity": 2,
+          "set": "RNA"
+        },
+        {
+          "name": "Sacred Foundry",
+          "quantity": 3,
+          "set": "GRN"
+        },
+        {
+          "name": "Arid Mesa",
+          "quantity": 4,
+          "set": "MH2"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Lurrus of the Dream-Den",
+          "quantity": 1,
+          "set": "MUL"
+        }
+      ]
+    },
+    {
+      "archetype": "Mono White",
+      "deck_id": "mono-white-1390322",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-white-1390322",
+      "main": [
+        {
+          "name": "Ocelot Pride",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Guide of Souls",
+          "quantity": 4,
+          "set": "MH3"
+        },
+        {
+          "name": "Soul Warden",
+          "quantity": 4,
+          "set": "SPG"
+        },
+        {
+          "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+          "quantity": 2,
+          "set": "MH3"
+        },
+        {
+          "name": "Ajani's Welcome",
+          "quantity": 3,
+          "set": "M19"
+        },
+        {
+          "name": "Cleric Class",
+          "quantity": 3,
+          "set": "AFR"
+        },
+        {
+          "name": "Skrelv's Hive",
+          "quantity": 4,
+          "set": "ONE"
+        },
+        {
+          "name": "Griffin Aerie",
+          "quantity": 2,
+          "set": "WOT"
+        },
+        {
+          "name": "Land Tax",
+          "quantity": 2,
+          "set": "WOT"
+        },
+        {
+          "name": "Fountain of Renewal",
+          "quantity": 2,
+          "set": "M19"
+        },
+        {
+          "name": "The One Ring",
+          "quantity": 2,
+          "set": "LTR"
+        },
+        {
+          "name": "Abiding Grace",
+          "quantity": 2,
+          "set": "MH2"
+        },
+        {
+          "name": "Ossification",
+          "quantity": 2,
+          "set": "ONE"
+        },
+        {
+          "name": "Helping Hand",
+          "quantity": 2,
+          "set": "LCI"
+        },
+        {
+          "name": "Caretaker's Talent",
+          "quantity": 2,
+          "set": "BLB"
+        },
+        {
+          "name": "Plains",
+          "quantity": 20,
+          "set": "DFT"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mono Black",
+      "deck_id": "mono-black-1390600",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-black-1390600",
+      "main": [
+        {
+          "name": "Dark Ritual",
+          "quantity": 4,
+          "set": "STA"
+        },
+        {
+          "name": "Trespasser's Curse",
+          "quantity": 3,
+          "set": "AKR"
+        },
+        {
+          "name": "Damn",
+          "quantity": 3,
+          "set": "SLD"
+        },
+        {
+          "name": "Underworld Dreams",
+          "quantity": 3,
+          "set": "THB"
+        },
+        {
+          "name": "Grievous Wound",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Darkness",
+          "quantity": 3,
+          "set": "SPG"
+        },
+        {
+          "name": "Rush of Dread",
+          "quantity": 2,
+          "set": "OTJ"
+        },
+        {
+          "name": "Withering Torment",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Jet Medallion",
+          "quantity": 3,
+          "set": "MH3"
+        },
+        {
+          "name": "Tymaret, Chosen from Death",
+          "quantity": 1,
+          "set": "MUL"
+        },
+        {
+          "name": "Vadmir, New Blood",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Unstoppable Slasher",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Erebos, God of the Dead",
+          "quantity": 1,
+          "set": "PIO"
+        },
+        {
+          "name": "Zodiark, Umbral God",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Qarsi Revenant",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "Sheoldred, the Apocalypse",
+          "quantity": 1,
+          "set": "DMU"
+        },
+        {
+          "name": "Tergrid, God of Fright",
+          "quantity": 2,
+          "set": "KHM"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 19,
+          "set": "DFT"
+        },
+        {
+          "name": "Nykthos, Shrine to Nyx",
+          "quantity": 1,
+          "set": "THS"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Bloodline Keeper",
+          "quantity": 2,
+          "set": "SIS"
+        },
+        {
+          "name": "Nowhere to Run",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Demonic Tutor",
+          "quantity": 1,
+          "set": "STA"
+        },
+        {
+          "name": "Strip Mine",
+          "quantity": 4,
+          "set": "EOS"
+        }
+      ]
+    },
+    {
+      "archetype": "Golgari",
+      "deck_id": "golgari-1394668",
+      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/golgari-1394668",
+      "main": [
+        {
+          "name": "Unstoppable Slasher",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Glissa Sunslayer",
+          "quantity": 3,
+          "set": "ONE"
+        },
+        {
+          "name": "Scavenging Ooze",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Llanowar Elves",
+          "quantity": 2,
+          "set": "J25"
+        },
+        {
+          "name": "Foulmire Knight",
+          "quantity": 2,
+          "set": "CELD"
+        },
+        {
+          "name": "Questing Beast",
+          "quantity": 3,
+          "set": "ELD"
+        },
+        {
+          "name": "Broodspinner",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Arasta of the Endless Web",
+          "quantity": 2,
+          "set": "THB"
+        },
+        {
+          "name": "Sheoldred, the Apocalypse",
+          "quantity": 1,
+          "set": "DMU"
+        },
+        {
+          "name": "Phyrexian Obliterator",
+          "quantity": 1,
+          "set": "ONE"
+        },
+        {
+          "name": "Polukranos, Unchained",
+          "quantity": 1,
+          "set": "THB"
+        },
+        {
+          "name": "Knight of the Ebon Legion",
+          "quantity": 2,
+          "set": "M20"
+        },
+        {
+          "name": "Sire of Seven Deaths",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Dark Ritual",
+          "quantity": 4,
+          "set": "STA"
+        },
+        {
+          "name": "Innkeeper's Talent",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Thoughtseize",
+          "quantity": 1,
+          "set": "OTP"
+        },
+        {
+          "name": "Fatal Push",
+          "quantity": 4,
+          "set": "KLR"
+        },
+        {
+          "name": "Restless Cottage",
+          "quantity": 4,
+          "set": "WOE"
+        },
+        {
+          "name": "Festering Gulch",
+          "quantity": 4,
+          "set": "OTJ"
+        },
+        {
+          "name": "Foul Orchard",
+          "quantity": 4,
+          "set": "SIR"
+        },
+        {
+          "name": "Temple of Malady",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Underground Mortuary",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Forest",
+          "quantity": 9,
+          "set": "DFT"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 9,
+          "set": "DFT"
         }
       ],
       "sideboard": []
@@ -269,105 +708,6 @@
           "name": "Ghost Vacuum",
           "quantity": 2,
           "set": "DSK"
-        }
-      ]
-    },
-    {
-      "archetype": "Mardu Lurrus",
-      "deck_id": "mardu-lurrus-1394230",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mardu-lurrus-1394230",
-      "main": [
-        {
-          "name": "Ragavan, Nimble Pilferer",
-          "quantity": 4,
-          "set": "MUL"
-        },
-        {
-          "name": "Orcish Bowmasters",
-          "quantity": 4,
-          "set": "LTR"
-        },
-        {
-          "name": "Ocelot Pride",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Amped Raptor",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Guide of Souls",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Voice of Victory",
-          "quantity": 4,
-          "set": "TDM"
-        },
-        {
-          "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Swords to Plowshares",
-          "quantity": 4,
-          "set": "SPG"
-        },
-        {
-          "name": "Static Prison",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Lightning Bolt",
-          "quantity": 4,
-          "set": "STA"
-        },
-        {
-          "name": "Godless Shrine",
-          "quantity": 3,
-          "set": "RNA"
-        },
-        {
-          "name": "Sunbillow Verge",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Bloodstained Mire",
-          "quantity": 2,
-          "set": "MH3"
-        },
-        {
-          "name": "Marsh Flats",
-          "quantity": 4,
-          "set": "MH2"
-        },
-        {
-          "name": "Blood Crypt",
-          "quantity": 2,
-          "set": "RNA"
-        },
-        {
-          "name": "Sacred Foundry",
-          "quantity": 3,
-          "set": "GRN"
-        },
-        {
-          "name": "Arid Mesa",
-          "quantity": 4,
-          "set": "MH2"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "Lurrus of the Dream-Den",
-          "quantity": 1,
-          "set": "MUL"
         }
       ]
     },
@@ -668,222 +1008,6 @@
           "set": "BRO"
         }
       ]
-    },
-    {
-      "archetype": "Mono Black",
-      "deck_id": "mono-black-1390600",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-black-1390600",
-      "main": [
-        {
-          "name": "Dark Ritual",
-          "quantity": 4,
-          "set": "STA"
-        },
-        {
-          "name": "Vicious Rumors",
-          "quantity": 3,
-          "set": "GRN"
-        },
-        {
-          "name": "Trespasser's Curse",
-          "quantity": 2,
-          "set": "AKR"
-        },
-        {
-          "name": "Murder",
-          "quantity": 2,
-          "set": "J25"
-        },
-        {
-          "name": "Underworld Dreams",
-          "quantity": 3,
-          "set": "THB"
-        },
-        {
-          "name": "Grievous Wound",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Darkness",
-          "quantity": 3,
-          "set": "SPG"
-        },
-        {
-          "name": "Demonic Tutor",
-          "quantity": 1,
-          "set": "STA"
-        },
-        {
-          "name": "Nowhere to Run",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Withering Torment",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Dogged Pursuit",
-          "quantity": 2,
-          "set": "KHM"
-        },
-        {
-          "name": "Drana, Liberator of Malakir",
-          "quantity": 1,
-          "set": "JMP"
-        },
-        {
-          "name": "Tinybones, the Pickpocket",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Tymaret, Chosen from Death",
-          "quantity": 1,
-          "set": "MUL"
-        },
-        {
-          "name": "Vadmir, New Blood",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Unstoppable Slasher",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Erebos, God of the Dead",
-          "quantity": 1,
-          "set": "PIO"
-        },
-        {
-          "name": "Skithiryx, the Blight Dragon",
-          "quantity": 1,
-          "set": "MUL"
-        },
-        {
-          "name": "Zodiark, Umbral God",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Qarsi Revenant",
-          "quantity": 4,
-          "set": "TDM"
-        },
-        {
-          "name": "Bloodline Keeper // Lord of Lineage",
-          "quantity": 2,
-          "set": "SIS"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 19,
-          "set": "DFT"
-        },
-        {
-          "name": "Cabal Stronghold",
-          "quantity": 1,
-          "set": "DOM"
-        }
-      ],
-      "sideboard": []
-    },
-    {
-      "archetype": "Mono White",
-      "deck_id": "mono-white-1390322",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/mono-white-1390322",
-      "main": [
-        {
-          "name": "Ocelot Pride",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Guide of Souls",
-          "quantity": 4,
-          "set": "MH3"
-        },
-        {
-          "name": "Soul Warden",
-          "quantity": 4,
-          "set": "SPG"
-        },
-        {
-          "name": "Heliod, Sun-Crowned",
-          "quantity": 2,
-          "set": "THB"
-        },
-        {
-          "name": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
-          "quantity": 2,
-          "set": "MH3"
-        },
-        {
-          "name": "Speaker of the Heavens",
-          "quantity": 2,
-          "set": "J25"
-        },
-        {
-          "name": "Recruiter of the Guard",
-          "quantity": 1,
-          "set": "MH3"
-        },
-        {
-          "name": "Ajani's Welcome",
-          "quantity": 3,
-          "set": "M19"
-        },
-        {
-          "name": "Cleric Class",
-          "quantity": 3,
-          "set": "AFR"
-        },
-        {
-          "name": "Skrelv's Hive",
-          "quantity": 3,
-          "set": "ONE"
-        },
-        {
-          "name": "Griffin Aerie",
-          "quantity": 2,
-          "set": "WOT"
-        },
-        {
-          "name": "Land Tax",
-          "quantity": 2,
-          "set": "WOT"
-        },
-        {
-          "name": "Fountain of Renewal",
-          "quantity": 4,
-          "set": "M19"
-        },
-        {
-          "name": "The One Ring",
-          "quantity": 2,
-          "set": "LTR"
-        },
-        {
-          "name": "Abiding Grace",
-          "quantity": 2,
-          "set": "MH2"
-        },
-        {
-          "name": "Ossification",
-          "quantity": 2,
-          "set": "ONE"
-        },
-        {
-          "name": "Plains",
-          "quantity": 19,
-          "set": "DFT"
-        }
-      ],
-      "sideboard": []
     },
     {
       "archetype": "Mono Black",
@@ -1822,443 +1946,6 @@
           "name": "Blood Moon",
           "quantity": 4,
           "set": "WOT"
-        }
-      ]
-    },
-    {
-      "archetype": "Five Color",
-      "deck_id": "five-color-1383036",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/five-color-1383036",
-      "main": [
-        {
-          "name": "Yuna, Hope of Spira",
-          "quantity": 3,
-          "set": "FIN"
-        },
-        {
-          "name": "Overlord of the Balemurk",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Summon: Fenrir",
-          "quantity": 3,
-          "set": "FIN"
-        },
-        {
-          "name": "Overlord of the Mistmoors",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Summon: Knights of Round",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Summon: Primal Odin",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Fear of Surveillance",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Summon: Titan",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Summon: Bahamut",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Dragon Sniper",
-          "quantity": 2,
-          "set": "TDM"
-        },
-        {
-          "name": "Shoreline Looter",
-          "quantity": 3,
-          "set": "BLB"
-        },
-        {
-          "name": "Enduring Courage",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Enduring Vitality",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Dredger's Insight",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Restricted Office // Lecture Hall",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Kin-Tree Severance",
-          "quantity": 2,
-          "set": "TDM"
-        },
-        {
-          "name": "Strategic Betrayal",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Trapped in the Screen",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Nowhere to Run",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Day of Judgment",
-          "quantity": 2,
-          "set": "FDN"
-        },
-        {
-          "name": "Momentum Breaker",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Zombify",
-          "quantity": 2,
-          "set": "FDN"
-        },
-        {
-          "name": "Swiftfoot Boots",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Extravagant Replication",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Omniscience",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Resentful Revelation",
-          "quantity": 2,
-          "set": "FIN"
-        },
-        {
-          "name": "Authority of the Consuls",
-          "quantity": 2,
-          "set": "FDN"
-        },
-        {
-          "name": "Worldweave",
-          "quantity": 2,
-          "set": "YEOE"
-        },
-        {
-          "name": "Forest",
-          "quantity": 4,
-          "set": "DFT"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 1,
-          "set": "DFT"
-        },
-        {
-          "name": "Plains",
-          "quantity": 3,
-          "set": "DFT"
-        },
-        {
-          "name": "Sandsteppe Citadel",
-          "quantity": 4,
-          "set": "KTK"
-        },
-        {
-          "name": "Mountain",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Kishla Village",
-          "quantity": 2,
-          "set": "TDM"
-        },
-        {
-          "name": "Opulent Palace",
-          "quantity": 3,
-          "set": "KTK"
-        },
-        {
-          "name": "Temple of Plenty",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Temple of Silence",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Blossoming Sands",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Mystic Monastery",
-          "quantity": 2,
-          "set": "KTK"
-        },
-        {
-          "name": "Watery Grave",
-          "quantity": 4,
-          "set": "GRN"
-        }
-      ],
-      "sideboard": []
-    },
-    {
-      "archetype": "Four Color",
-      "deck_id": "four-color-1382357",
-      "deck_url": "https://aetherhub.com/Metagame/Timeless-BO1/Deck/four-color-1382357",
-      "main": [
-        {
-          "name": "Growth Spiral",
-          "quantity": 4,
-          "set": "STA"
-        },
-        {
-          "name": "Awaken the Woods",
-          "quantity": 1,
-          "set": "BRO"
-        },
-        {
-          "name": "Three Steps Ahead",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Ossification",
-          "quantity": 3,
-          "set": "ONE"
-        },
-        {
-          "name": "Pact of Negation",
-          "quantity": 1,
-          "set": "AKR"
-        },
-        {
-          "name": "Farewell",
-          "quantity": 1,
-          "set": "NEO"
-        },
-        {
-          "name": "Leyline Binding",
-          "quantity": 1,
-          "set": "OTP"
-        },
-        {
-          "name": "Moraug, Fury of Akoum",
-          "quantity": 1,
-          "set": "ZNR"
-        },
-        {
-          "name": "Lotus Cobra",
-          "quantity": 4,
-          "set": "J25"
-        },
-        {
-          "name": "Scute Swarm",
-          "quantity": 2,
-          "set": "ZNR"
-        },
-        {
-          "name": "Risen Reef",
-          "quantity": 3,
-          "set": "M20"
-        },
-        {
-          "name": "Omnath, Locus of Creation",
-          "quantity": 4,
-          "set": "ZNR"
-        },
-        {
-          "name": "Mossborn Hydra",
-          "quantity": 4,
-          "set": "FDN"
-        },
-        {
-          "name": "Elesh Norn, Mother of Machines",
-          "quantity": 1,
-          "set": "ONE"
-        },
-        {
-          "name": "Ancient Greenwarden",
-          "quantity": 2,
-          "set": "J25"
-        },
-        {
-          "name": "Bristly Bill, Spine Sower",
-          "quantity": 3,
-          "set": "OTJ"
-        },
-        {
-          "name": "Subtlety",
-          "quantity": 1,
-          "set": "SPG"
-        },
-        {
-          "name": "Eiganjo, Seat of the Empire",
-          "quantity": 1,
-          "set": "NEO"
-        },
-        {
-          "name": "Jetmir's Garden",
-          "quantity": 1,
-          "set": "SNC"
-        },
-        {
-          "name": "Spara's Headquarters",
-          "quantity": 2,
-          "set": "SNC"
-        },
-        {
-          "name": "Flooded Strand",
-          "quantity": 1,
-          "set": "MH3"
-        },
-        {
-          "name": "Fabled Passage",
-          "quantity": 4,
-          "set": "BLB"
-        },
-        {
-          "name": "Boseiju, Who Endures",
-          "quantity": 1,
-          "set": "NEO"
-        },
-        {
-          "name": "Raugrin Triome",
-          "quantity": 1,
-          "set": "IKO"
-        },
-        {
-          "name": "Wooded Foothills",
-          "quantity": 1,
-          "set": "MH3"
-        },
-        {
-          "name": "Ketria Triome",
-          "quantity": 1,
-          "set": "IKO"
-        },
-        {
-          "name": "Windswept Heath",
-          "quantity": 1,
-          "set": "MH3"
-        },
-        {
-          "name": "Plains",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Island",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Forest",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Mountain",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Sacred Foundry",
-          "quantity": 1,
-          "set": "GRN"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "Hullbreaker Horror",
-          "quantity": 2,
-          "set": "VOW"
-        },
-        {
-          "name": "Yasharn, Implacable Earth",
-          "quantity": 2,
-          "set": "ZNR"
-        },
-        {
-          "name": "Bristly Bill, Spine Sower",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Omnath, Locus of the Roil",
-          "quantity": 1,
-          "set": "M20"
-        },
-        {
-          "name": "Moraug, Fury of Akoum",
-          "quantity": 1,
-          "set": "ZNR"
-        },
-        {
-          "name": "Leyline of the Guildpact",
-          "quantity": 1,
-          "set": "MKM"
-        },
-        {
-          "name": "Ondu Inversion",
-          "quantity": 1,
-          "set": "ZNR"
-        },
-        {
-          "name": "Banishing Light",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Get Lost",
-          "quantity": 1,
-          "set": "LCI"
-        },
-        {
-          "name": "Fiery Emancipation",
-          "quantity": 1,
-          "set": "WOT"
-        },
-        {
-          "name": "Wrenn and Realmbreaker",
-          "quantity": 1,
-          "set": "MOM"
-        },
-        {
-          "name": "Chandra, Acolyte of Flame",
-          "quantity": 1,
-          "set": "M20"
         }
       ]
     }
