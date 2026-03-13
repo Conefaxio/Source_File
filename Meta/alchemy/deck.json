@@ -2,8 +2,8 @@
   "version": "1.0",
   "format": "Alchemy BO1",
   "period": "Last 30 days",
-  "generated": "2026-03-07T22:18:33.434729",
-  "total_decks": 15,
+  "generated": "2026-03-13T19:00:09.798421",
+  "total_decks": 14,
   "decks": [
     {
       "archetype": "Mono Green",
@@ -105,8 +105,8 @@
     },
     {
       "archetype": "Orzhov",
-      "deck_id": "orzhov-1389189",
-      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/orzhov-1389189",
+      "deck_id": "orzhov-1385166",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/orzhov-1385166",
       "main": [
         {
           "name": "Unstoppable Slasher",
@@ -174,11 +174,6 @@
           "set": "DSK"
         },
         {
-          "name": "Fountainport",
-          "quantity": 2,
-          "set": "BLB"
-        },
-        {
           "name": "Swamp",
           "quantity": 9,
           "set": "DFT"
@@ -197,6 +192,94 @@
           "name": "Temple of Silence",
           "quantity": 1,
           "set": "FDN"
+        },
+        {
+          "name": "Godless Shrine",
+          "quantity": 2,
+          "set": "RNA"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mono Black",
+      "deck_id": "mono-black-1391233",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-black-1391233",
+      "main": [
+        {
+          "name": "Tragic Trajectory",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Phyrexian Arena",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Song of Point Prime",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Archenemy's Charm",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Embrace Oblivion",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Worthy Cost",
+          "quantity": 2,
+          "set": "TDM"
+        },
+        {
+          "name": "Monoist Gravliner",
+          "quantity": 3,
+          "set": "YEOE"
+        },
+        {
+          "name": "Sothera, the Supervoid",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Timeline Culler",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Susurian Voidborn",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Voidcalled Devotee",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Cantor of the Refrain",
+          "quantity": 3,
+          "set": "YEOE"
+        },
+        {
+          "name": "Umbral Collar Zealot",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 21,
+          "set": "DFT"
+        },
+        {
+          "name": "Susur Secundi, Void Altar",
+          "quantity": 2,
+          "set": "EOE"
         }
       ],
       "sideboard": []
@@ -295,207 +378,6 @@
           "name": "Fountainport",
           "quantity": 2,
           "set": "BLB"
-        }
-      ],
-      "sideboard": []
-    },
-    {
-      "archetype": "Mono Black",
-      "deck_id": "mono-black-1391233",
-      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-black-1391233",
-      "main": [
-        {
-          "name": "Tragic Trajectory",
-          "quantity": 3,
-          "set": "EOE"
-        },
-        {
-          "name": "Phyrexian Arena",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Song of Point Prime",
-          "quantity": 4,
-          "set": "YEOE"
-        },
-        {
-          "name": "Archenemy's Charm",
-          "quantity": 2,
-          "set": "EOE"
-        },
-        {
-          "name": "Embrace Oblivion",
-          "quantity": 2,
-          "set": "EOE"
-        },
-        {
-          "name": "Worthy Cost",
-          "quantity": 2,
-          "set": "TDM"
-        },
-        {
-          "name": "Monoist Gravliner",
-          "quantity": 3,
-          "set": "YEOE"
-        },
-        {
-          "name": "Sothera, the Supervoid",
-          "quantity": 4,
-          "set": "EOE"
-        },
-        {
-          "name": "Timeline Culler",
-          "quantity": 4,
-          "set": "EOE"
-        },
-        {
-          "name": "Susurian Voidborn",
-          "quantity": 2,
-          "set": "EOE"
-        },
-        {
-          "name": "Voidcalled Devotee",
-          "quantity": 4,
-          "set": "YEOE"
-        },
-        {
-          "name": "Cantor of the Refrain",
-          "quantity": 3,
-          "set": "YEOE"
-        },
-        {
-          "name": "Umbral Collar Zealot",
-          "quantity": 3,
-          "set": "EOE"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 21,
-          "set": "DFT"
-        },
-        {
-          "name": "Susur Secundi, Void Altar",
-          "quantity": 2,
-          "set": "EOE"
-        }
-      ],
-      "sideboard": []
-    },
-    {
-      "archetype": "Mono Red",
-      "deck_id": "mono-red-1390096",
-      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-red-1390096",
-      "main": [
-        {
-          "name": "Haste Magic",
-          "quantity": 3,
-          "set": "FIN"
-        },
-        {
-          "name": "Burst Lightning",
-          "quantity": 2,
-          "set": "FDN"
-        },
-        {
-          "name": "Turn Inside Out",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Blacksmith's Talent",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "War Squeak",
-          "quantity": 2,
-          "set": "BLB"
-        },
-        {
-          "name": "Stormforged Armor",
-          "quantity": 2,
-          "set": "YTDM"
-        },
-        {
-          "name": "Full Bore",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Swiftspear's Teachings",
-          "quantity": 3,
-          "set": "YTDM"
-        },
-        {
-          "name": "Red Mage's Rapier",
-          "quantity": 2,
-          "set": "FIN"
-        },
-        {
-          "name": "Wild Ride",
-          "quantity": 3,
-          "set": "TDM"
-        },
-        {
-          "name": "Abrade",
-          "quantity": 2,
-          "set": "FDN"
-        },
-        {
-          "name": "Brave Meadowguard",
-          "quantity": 2,
-          "set": "YBLB"
-        },
-        {
-          "name": "Clockwork Percussionist",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Emberheart Challenger",
-          "quantity": 3,
-          "set": "BLB"
-        },
-        {
-          "name": "Dragonblood Twins",
-          "quantity": 4,
-          "set": "YTDM"
-        },
-        {
-          "name": "Fleeting Effigy",
-          "quantity": 3,
-          "set": "TDM"
-        },
-        {
-          "name": "Fanatical Firebrand",
-          "quantity": 2,
-          "set": "J25"
-        },
-        {
-          "name": "Kellan, Planar Trailblazer",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Manifold Mouse",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Fear of Being Hunted",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Mountain",
-          "quantity": 20,
-          "set": "DFT"
-        },
-        {
-          "name": "Cori Mountain Monastery",
-          "quantity": 1,
-          "set": "TDM"
         }
       ],
       "sideboard": []
@@ -958,6 +840,124 @@
       "sideboard": []
     },
     {
+      "archetype": "Mono Red",
+      "deck_id": "mono-red-1390096",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-red-1390096",
+      "main": [
+        {
+          "name": "Haste Magic",
+          "quantity": 3,
+          "set": "FIN"
+        },
+        {
+          "name": "Burst Lightning",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Turn Inside Out",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Blacksmith's Talent",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "War Squeak",
+          "quantity": 2,
+          "set": "BLB"
+        },
+        {
+          "name": "Stormforged Armor",
+          "quantity": 2,
+          "set": "YTDM"
+        },
+        {
+          "name": "Full Bore",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Swiftspear's Teachings",
+          "quantity": 3,
+          "set": "YTDM"
+        },
+        {
+          "name": "Red Mage's Rapier",
+          "quantity": 2,
+          "set": "FIN"
+        },
+        {
+          "name": "Wild Ride",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Abrade",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Brave Meadowguard",
+          "quantity": 2,
+          "set": "YBLB"
+        },
+        {
+          "name": "Clockwork Percussionist",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Emberheart Challenger",
+          "quantity": 3,
+          "set": "BLB"
+        },
+        {
+          "name": "Dragonblood Twins",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Fleeting Effigy",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Fanatical Firebrand",
+          "quantity": 2,
+          "set": "J25"
+        },
+        {
+          "name": "Kellan, Planar Trailblazer",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Manifold Mouse",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Fear of Being Hunted",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 20,
+          "set": "DFT"
+        },
+        {
+          "name": "Cori Mountain Monastery",
+          "quantity": 1,
+          "set": "TDM"
+        }
+      ],
+      "sideboard": []
+    },
+    {
       "archetype": "Mardu",
       "deck_id": "mardu-1386065",
       "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mardu-1386065",
@@ -1270,355 +1270,6 @@
         }
       ],
       "sideboard": []
-    },
-    {
-      "archetype": "Four Color",
-      "deck_id": "four-color-1382199",
-      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/four-color-1382199",
-      "main": [
-        {
-          "name": "Ugin, Eye of the Storms",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Worldweave",
-          "quantity": 1,
-          "set": "YEOE"
-        },
-        {
-          "name": "Piercing Exhale",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Thunder Magic",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Encroaching Dragonstorm",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Sleep Magic",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Dragonstorm Globe",
-          "quantity": 3,
-          "set": "TDM"
-        },
-        {
-          "name": "Caustic Exhale",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Heritage Reclamation",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Wail of War",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Dragonclaw Strike",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Mox Jasper",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Dragonweave Tapestry",
-          "quantity": 2,
-          "set": "YTDM"
-        },
-        {
-          "name": "Abrade",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Commune with Beavers",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Rydia's Return",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Roiling Dragonstorm",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Dragonback Assault",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Maximum Overdrive",
-          "quantity": 1,
-          "set": "DFT"
-        },
-        {
-          "name": "Territorial Strike",
-          "quantity": 2,
-          "set": "YTDM"
-        },
-        {
-          "name": "Corroding Dragonstorm",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Dragon Typhoon",
-          "quantity": 1,
-          "set": "YTDM"
-        },
-        {
-          "name": "Innkeeper's Talent",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Breaching Dragonstorm",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Draconic Fealty",
-          "quantity": 1,
-          "set": "YTDM"
-        },
-        {
-          "name": "Bloomvine Regent",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Dragonstorm Forecaster",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Warden of the Grove",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Stalwart Successor",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Summon: Fenrir",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Dragon Sniper",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Ureni, the Song Unending",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Qarsi Revenant",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Dragonlord's Servant",
-          "quantity": 2,
-          "set": "J25"
-        },
-        {
-          "name": "Pearl Lake Warden",
-          "quantity": 2,
-          "set": "YTDM"
-        },
-        {
-          "name": "Sagu Wildling",
-          "quantity": 2,
-          "set": "TDM"
-        },
-        {
-          "name": "Marang River Regent",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Cunning Azurescale",
-          "quantity": 1,
-          "set": "YTDM"
-        },
-        {
-          "name": "Eshki Dragonclaw",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Whirlwing Stormbrood",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Undergrowth Leopard",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Dragonologist",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Ouroboroid",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Quilled Greatwurm",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Feral Deathgorger",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Runescale Stormbrood",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Stormshriek Feral",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Skyserpent Seeker",
-          "quantity": 2,
-          "set": "DFT"
-        },
-        {
-          "name": "Temur Battlecrier",
-          "quantity": 2,
-          "set": "TDM"
-        },
-        {
-          "name": "Wildwood Scourge",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Koma, World-Eater",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Mountain",
-          "quantity": 3,
-          "set": "DFT"
-        },
-        {
-          "name": "Forest",
-          "quantity": 7,
-          "set": "DFT"
-        },
-        {
-          "name": "Island",
-          "quantity": 5,
-          "set": "DFT"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 5,
-          "set": "DFT"
-        },
-        {
-          "name": "Maelstrom of the Spirit Dragon",
-          "quantity": 3,
-          "set": "TDM"
-        },
-        {
-          "name": "Opulent Palace",
-          "quantity": 4,
-          "set": "KTK"
-        },
-        {
-          "name": "Frontier Bivouac",
-          "quantity": 4,
-          "set": "KTK"
-        },
-        {
-          "name": "Valgavoth's Lair",
-          "quantity": 2,
-          "set": "DSK"
-        },
-        {
-          "name": "Evolving Wilds",
-          "quantity": 3,
-          "set": "PIO"
-        },
-        {
-          "name": "Secluded Courtyard",
-          "quantity": 2,
-          "set": "FDN"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "Vincent Valentine",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Mossborn Hydra",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Host of the Hereafter",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Hylderblade",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Dracogenesis",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Ureni's Counsel",
-          "quantity": 1,
-          "set": "YTDM"
-        },
-        {
-          "name": "Ornate Imitations",
-          "quantity": 1,
-          "set": "YDFT"
-        }
-      ]
     },
     {
       "archetype": "Mardu",
