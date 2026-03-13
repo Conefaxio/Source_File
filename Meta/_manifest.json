@@ -1,7 +1,7 @@
 {
   "version": "1.3.0",
-  "date": "07-MAR-2026",
-  "updatedAt": "2026-03-08T01:15:30.359573+00:00",
+  "date": "13-MAR-2026",
+  "updatedAt": "2026-03-13T21:57:18.932703+00:00",
   "formats": [
     "standard",
     "alchemy",
@@ -13,27 +13,27 @@
   "outputs": {
     "standard": {
       "decks": 50,
-      "uniqueCards": 485
+      "uniqueCards": 490
     },
     "alchemy": {
-      "decks": 15,
-      "uniqueCards": 261
+      "decks": 14,
+      "uniqueCards": 209
     },
     "explorer": {
       "decks": 50,
-      "uniqueCards": 664
+      "uniqueCards": 674
     },
     "historic": {
       "decks": 50,
-      "uniqueCards": 799
+      "uniqueCards": 878
     },
     "timeless": {
-      "decks": 18,
-      "uniqueCards": 287
+      "decks": 17,
+      "uniqueCards": 238
     },
     "brawl": {
-      "decks": 10,
-      "uniqueCards": 303
+      "decks": 9,
+      "uniqueCards": 278
     }
   }
 }
