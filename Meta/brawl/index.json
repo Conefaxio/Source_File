@@ -1,23 +1,22 @@
 {
   "version": "1.0",
-  "generated": "2026-03-07T22:24:10.241333",
-  "total_cards": 303,
+  "generated": "2026-03-13T19:05:38.247536",
+  "total_cards": 278,
   "cards": {
     "Hare Apparent": {
       "set": "FDN",
       "main": [
-        "elspeth-storm-slayer-1388354"
+        "elspeth-storm-slayer-1395492"
       ],
       "sideboard": []
     },
     "Plains": {
       "set": "DFT",
       "main": [
-        "elspeth-storm-slayer-1388354",
-        "ketramose-the-new-dawn-1387619",
+        "elspeth-storm-slayer-1395492",
+        "ketramose-the-new-dawn-1382576",
         "momo-friendly-flier-1379732",
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -27,31 +26,29 @@
         "momo-friendly-flier-1379732"
       ],
       "sideboard": [
-        "elspeth-storm-slayer-1388354"
+        "elspeth-storm-slayer-1395492"
       ]
     },
     "Get Lost": {
       "set": "LCI",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "momo-friendly-flier-1379732",
-        "arahbo-the-first-fang-1374933"
+        "ketramose-the-new-dawn-1382576",
+        "momo-friendly-flier-1379732"
       ],
       "sideboard": []
     },
     "Sheltered by Ghosts": {
       "set": "DSK",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "ketramose-the-new-dawn-1382576",
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
     "Banishing Light": {
       "set": "J25",
       "main": [
-        "ketramose-the-new-dawn-1387619",
+        "ketramose-the-new-dawn-1382576",
         "hope-estheim-1386744"
       ],
       "sideboard": []
@@ -59,107 +56,106 @@
     "Split Up": {
       "set": "DSK",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Stormplain Detainment": {
       "set": "TDM",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Spectacular Pileup": {
       "set": "DFT",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Withering Torment": {
       "set": "DSK",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "sephiroth-fabled-soldier-1383788"
+        "ketramose-the-new-dawn-1382576",
+        "sephiroth-fabled-soldier-1384539"
       ],
       "sideboard": []
     },
     "Trapped in the Screen": {
       "set": "DSK",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Ultima": {
       "set": "PSS5",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Ride's End": {
       "set": "DFT",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Intimidation Tactics": {
       "set": "DFT",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Agatha's Soul Cauldron": {
       "set": "WOE",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Gravkill": {
       "set": "EOE",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Shoot the Sheriff": {
       "set": "OTJ",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Ghost Vacuum": {
       "set": "DSK",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Day of Judgment": {
       "set": "FDN",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "arahbo-the-first-fang-1374933"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Exorcise": {
       "set": "DSK",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Seam Rip": {
       "set": "EOE",
       "main": [
-        "ketramose-the-new-dawn-1387619",
+        "ketramose-the-new-dawn-1382576",
         "hope-estheim-1386744"
       ],
       "sideboard": []
@@ -167,43 +163,42 @@
     "Deadly Cover-Up": {
       "set": "MKM",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Duress": {
       "set": "FDN",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Feed the Cycle": {
       "set": "BLB",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Virtue of Persistence": {
       "set": "WOE",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Strategic Betrayal": {
       "set": "TDM",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "sephiroth-fabled-soldier-1383788"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Parting Gust": {
       "set": "BLB",
       "main": [
-        "ketramose-the-new-dawn-1387619",
+        "ketramose-the-new-dawn-1382576",
         "momo-friendly-flier-1379732"
       ],
       "sideboard": []
@@ -211,43 +206,43 @@
     "Expel the Interlopers": {
       "set": "WOE",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Feed the Swarm": {
       "set": "ZNR",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "sephiroth-fabled-soldier-1383788"
+        "ketramose-the-new-dawn-1382576",
+        "sephiroth-fabled-soldier-1384539"
       ],
       "sideboard": []
     },
     "Soul-Guide Lantern": {
       "set": "FDN",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "The Aetherspark": {
       "set": "DFT",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "White Auracite": {
       "set": "FIN",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Ugin, Eye of the Storms": {
       "set": "TDM",
       "main": [
-        "ketramose-the-new-dawn-1387619",
+        "ketramose-the-new-dawn-1382576",
         "kona-rescue-beastie-1380961"
       ],
       "sideboard": []
@@ -255,36 +250,36 @@
     "Liliana, Dreadhorde General": {
       "set": "FDN",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "sephiroth-fabled-soldier-1383788"
+        "ketramose-the-new-dawn-1382576",
+        "sephiroth-fabled-soldier-1384539"
       ],
       "sideboard": []
     },
     "Kaya, Spirits' Justice": {
       "set": "MKM",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Deep-Cavern Bat": {
       "set": "LCI",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Skullcap Snail": {
       "set": "LCI",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Charming Prince": {
       "set": "FDN",
       "main": [
-        "ketramose-the-new-dawn-1387619",
+        "ketramose-the-new-dawn-1382576",
         "hope-estheim-1386744"
       ],
       "sideboard": []
@@ -292,53 +287,52 @@
     "Unscrupulous Agent": {
       "set": "MKM",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Swamp": {
       "set": "DFT",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "sephiroth-fabled-soldier-1383788"
+        "ketramose-the-new-dawn-1382576",
+        "sephiroth-fabled-soldier-1384539"
       ],
       "sideboard": []
     },
     "Bleachbone Verge": {
       "set": "DFT",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Godless Shrine": {
       "set": "RNA",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Cavern of Souls": {
       "set": "LCI",
       "main": [
-        "ketramose-the-new-dawn-1387619",
+        "ketramose-the-new-dawn-1382576",
         "momo-friendly-flier-1379732",
-        "eluge-the-shoreless-sea-1393036",
-        "arahbo-the-first-fang-1374933"
+        "eluge-the-shoreless-sea-1393036"
       ],
       "sideboard": []
     },
     "Concealed Courtyard": {
       "set": "OTJ",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Fabled Passage": {
       "set": "BLB",
       "main": [
-        "ketramose-the-new-dawn-1387619",
+        "ketramose-the-new-dawn-1382576",
         "kona-rescue-beastie-1380961",
         "tifa-lockhart-1379986",
         "bristly-bill-spine-sower-1365295"
@@ -348,53 +342,51 @@
     "Night Market": {
       "set": "DFT",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Pit of Offerings": {
       "set": "LCI",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Restless Fortress": {
       "set": "WOE",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Shadowy Backstreet": {
       "set": "MKM",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Temple of Silence": {
       "set": "FDN",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Sunken Citadel": {
       "set": "LCI",
       "main": [
-        "ketramose-the-new-dawn-1387619"
+        "ketramose-the-new-dawn-1382576"
       ],
       "sideboard": []
     },
     "Fountainport": {
       "set": "BLB",
       "main": [
-        "ketramose-the-new-dawn-1387619",
-        "sephiroth-fabled-soldier-1383788",
+        "ketramose-the-new-dawn-1382576",
         "momo-friendly-flier-1379732",
-        "eluge-the-shoreless-sea-1393036",
-        "arahbo-the-first-fang-1374933"
+        "eluge-the-shoreless-sea-1393036"
       ],
       "sideboard": []
     },
@@ -402,261 +394,7 @@
       "set": "DFT",
       "main": [],
       "sideboard": [
-        "ketramose-the-new-dawn-1387619"
-      ]
-    },
-    "The Masamune": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Eaten Alive": {
-      "set": "J25",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Extract a Confession": {
-      "set": "MKM",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Come Back Wrong": {
-      "set": "DSK",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Not Dead After All": {
-      "set": "WOE",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Corrupted Conviction": {
-      "set": "OTJ",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Bitter Triumph": {
-      "set": "LCI",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Overkill": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Archenemy's Charm": {
-      "set": "EOE",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Season of Loss": {
-      "set": "BLB",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Vincent's Limit Break": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Depressurize": {
-      "set": "EOE",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Swiftfoot Boots": {
-      "set": "FDN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Resentful Revelation": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Sothera, the Supervoid": {
-      "set": "EOE",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Scavenger's Talent": {
-      "set": "BLB",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Zodiark, Umbral God": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Forsaken Miner": {
-      "set": "OTJ",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Reassembling Skeleton": {
-      "set": "J25",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Nine-Lives Familiar": {
-      "set": "FDN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Harvester of Misery": {
-      "set": "BIG",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Vincent Valentine // Galian Beast": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Vengeful Bloodwitch": {
-      "set": "FDN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Infestation Sage": {
-      "set": "FDN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Massacre Wurm": {
-      "set": "M21",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Midnight Reaper": {
-      "set": "FDN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Gaius van Baelsar": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Venerated Stormsinger": {
-      "set": "TDM",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Lord Skitter, Sewer King": {
-      "set": "WOE",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Greedy Freebooter": {
-      "set": "LCI",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Al Bhed Salvagers": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Bloodletter of Aclazotz": {
-      "set": "LCI",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Bloodghast": {
-      "set": "DFT",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Midgar, City of Mako": {
-      "set": "FIN",
-      "main": [
-        "sephiroth-fabled-soldier-1383788"
-      ],
-      "sideboard": []
-    },
-    "Rogue's Passage": {
-      "set": "PIO",
-      "main": [
-        "sephiroth-fabled-soldier-1383788",
-        "bristly-bill-spine-sower-1365295"
-      ],
-      "sideboard": []
-    },
-    "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel": {
-      "set": "FIN",
-      "main": [],
-      "sideboard": [
-        "sephiroth-fabled-soldier-1383788"
+        "ketramose-the-new-dawn-1382576"
       ]
     },
     "Llanowar Elves": {
@@ -934,6 +672,253 @@
       ],
       "sideboard": [
         "kona-rescue-beastie-1380961"
+      ]
+    },
+    "The Masamune": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Extract a Confession": {
+      "set": "MKM",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Dawnsire, Sunstar Dreadnought": {
+      "set": "EOE",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Not Dead After All": {
+      "set": "WOE",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Corrupted Conviction": {
+      "set": "OTJ",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Sephiroth's Intervention": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Overkill": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Rise of the Dark Realms": {
+      "set": "FDN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Fight On!": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Season of Loss": {
+      "set": "BLB",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Vincent's Limit Break": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Depressurize": {
+      "set": "EOE",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Swiftfoot Boots": {
+      "set": "FDN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Macabre Waltz": {
+      "set": "FDN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Resentful Revelation": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Zodiark, Umbral God": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Forsaken Miner": {
+      "set": "OTJ",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Reassembling Skeleton": {
+      "set": "J25",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Nine-Lives Familiar": {
+      "set": "FDN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Avenger of the Fallen": {
+      "set": "TDM",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Harvester of Misery": {
+      "set": "BIG",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Vincent Valentine // Galian Beast": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Vengeful Bloodwitch": {
+      "set": "FDN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Infestation Sage": {
+      "set": "FDN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Massacre Wurm": {
+      "set": "M21",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Midnight Reaper": {
+      "set": "FDN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Gaius van Baelsar": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Venerated Stormsinger": {
+      "set": "TDM",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Lord Skitter, Sewer King": {
+      "set": "WOE",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Greedy Freebooter": {
+      "set": "LCI",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Al Bhed Salvagers": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Bloodletter of Aclazotz": {
+      "set": "LCI",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Midgar, City of Mako": {
+      "set": "FIN",
+      "main": [
+        "sephiroth-fabled-soldier-1384539"
+      ],
+      "sideboard": []
+    },
+    "Rogue's Passage": {
+      "set": "PIO",
+      "main": [
+        "sephiroth-fabled-soldier-1384539",
+        "bristly-bill-spine-sower-1365295"
+      ],
+      "sideboard": []
+    },
+    "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel": {
+      "set": "FIN",
+      "main": [],
+      "sideboard": [
+        "sephiroth-fabled-soldier-1384539"
       ]
     },
     "Sazh's Chocobo": {
@@ -1357,8 +1342,7 @@
     "Dawnwing Marshal": {
       "set": "J25",
       "main": [
-        "momo-friendly-flier-1379732",
-        "arahbo-the-first-fang-1374933"
+        "momo-friendly-flier-1379732"
       ],
       "sideboard": []
     },
@@ -1373,8 +1357,7 @@
       "set": "DSK",
       "main": [
         "momo-friendly-flier-1379732",
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -1397,8 +1380,7 @@
       "set": "FDN",
       "main": [
         "momo-friendly-flier-1379732",
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -1568,16 +1550,14 @@
     "Hinterland Sanctifier": {
       "set": "J25",
       "main": [
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
     "Leonin Vanguard": {
       "set": "J25",
       "main": [
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -1591,16 +1571,14 @@
     "Dazzling Angel": {
       "set": "FDN",
       "main": [
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
     "Ajani's Pridemate": {
       "set": "J25",
       "main": [
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -1635,8 +1613,7 @@
     "Cat Collector": {
       "set": "FDN",
       "main": [
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -1685,8 +1662,7 @@
     "Patchwork Banner": {
       "set": "BLB",
       "main": [
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -1721,8 +1697,7 @@
     "Authority of the Consuls": {
       "set": "FDN",
       "main": [
-        "hope-estheim-1386744",
-        "arahbo-the-first-fang-1374933"
+        "hope-estheim-1386744"
       ],
       "sideboard": []
     },
@@ -2033,174 +2008,6 @@
       "main": [],
       "sideboard": [
         "eluge-the-shoreless-sea-1393036"
-      ]
-    },
-    "Helpful Hunter": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Skyknight Squire": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Savannah Lions": {
-      "set": "J25",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Felidar Savior": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Regal Caracal": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Bounding Felidar": {
-      "set": "OTJ",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "G'raha Tia": {
-      "set": "FIN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Delney, Streetwise Lookout": {
-      "set": "MKM",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Roaming Throne": {
-      "set": "LCI",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Adaptive Automaton": {
-      "set": "BRR",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "No Witnesses": {
-      "set": "MKM",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Felidar Retreat": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Claws Out": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Case of the Uneaten Feast": {
-      "set": "MKM",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Sidequest: Catch a Fish // Cooking Campsite": {
-      "set": "FIN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Caretaker's Talent": {
-      "set": "BLB",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Starfall Invocation": {
-      "set": "BLB",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Season of the Burrow": {
-      "set": "BLB",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Banner of Kinship": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Shardmage's Rescue": {
-      "set": "DSK",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Requisition Raid": {
-      "set": "OTJ",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Ajani, Caller of the Pride": {
-      "set": "FDN",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Three Tree City": {
-      "set": "BLB",
-      "main": [
-        "arahbo-the-first-fang-1374933"
-      ],
-      "sideboard": []
-    },
-    "Arahbo, the First Fang": {
-      "set": "FDN",
-      "main": [],
-      "sideboard": [
-        "arahbo-the-first-fang-1374933"
       ]
     }
   }
