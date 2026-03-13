@@ -2,13 +2,13 @@
   "version": "1.0",
   "format": "Brawl",
   "period": "Last 30 days",
-  "generated": "2026-03-07T22:24:10.239309",
-  "total_decks": 10,
+  "generated": "2026-03-13T19:05:38.244335",
+  "total_decks": 9,
   "decks": [
     {
       "archetype": "Elspeth, Storm Slayer",
-      "deck_id": "elspeth-storm-slayer-1388354",
-      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/elspeth-storm-slayer-1388354",
+      "deck_id": "elspeth-storm-slayer-1395492",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/elspeth-storm-slayer-1395492",
       "main": [
         {
           "name": "Hare Apparent",
@@ -31,8 +31,8 @@
     },
     {
       "archetype": "Ketramose, the New Dawn",
-      "deck_id": "ketramose-the-new-dawn-1387619",
-      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/ketramose-the-new-dawn-1387619",
+      "deck_id": "ketramose-the-new-dawn-1382576",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/ketramose-the-new-dawn-1382576",
       "main": [
         {
           "name": "Get Lost",
@@ -294,225 +294,6 @@
       ]
     },
     {
-      "archetype": "Sephiroth, Fabled SOLDIER",
-      "deck_id": "sephiroth-fabled-soldier-1383788",
-      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/sephiroth-fabled-soldier-1383788",
-      "main": [
-        {
-          "name": "The Masamune",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Eaten Alive",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Extract a Confession",
-          "quantity": 1,
-          "set": "MKM"
-        },
-        {
-          "name": "Come Back Wrong",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Withering Torment",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Not Dead After All",
-          "quantity": 1,
-          "set": "WOE"
-        },
-        {
-          "name": "Corrupted Conviction",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Bitter Triumph",
-          "quantity": 1,
-          "set": "LCI"
-        },
-        {
-          "name": "Overkill",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Archenemy's Charm",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Season of Loss",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Vincent's Limit Break",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Feed the Swarm",
-          "quantity": 1,
-          "set": "ZNR"
-        },
-        {
-          "name": "Depressurize",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Swiftfoot Boots",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Resentful Revelation",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Strategic Betrayal",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Sothera, the Supervoid",
-          "quantity": 1,
-          "set": "EOE"
-        },
-        {
-          "name": "Scavenger's Talent",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Zodiark, Umbral God",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Forsaken Miner",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Reassembling Skeleton",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Nine-Lives Familiar",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Harvester of Misery",
-          "quantity": 1,
-          "set": "BIG"
-        },
-        {
-          "name": "Vincent Valentine // Galian Beast",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Vengeful Bloodwitch",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Infestation Sage",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Massacre Wurm",
-          "quantity": 1,
-          "set": "M21"
-        },
-        {
-          "name": "Midnight Reaper",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Gaius van Baelsar",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Venerated Stormsinger",
-          "quantity": 1,
-          "set": "TDM"
-        },
-        {
-          "name": "Lord Skitter, Sewer King",
-          "quantity": 1,
-          "set": "WOE"
-        },
-        {
-          "name": "Greedy Freebooter",
-          "quantity": 1,
-          "set": "LCI"
-        },
-        {
-          "name": "Al Bhed Salvagers",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Bloodletter of Aclazotz",
-          "quantity": 1,
-          "set": "LCI"
-        },
-        {
-          "name": "Bloodghast",
-          "quantity": 1,
-          "set": "DFT"
-        },
-        {
-          "name": "Liliana, Dreadhorde General",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Swamp",
-          "quantity": 19,
-          "set": "DFT"
-        },
-        {
-          "name": "Midgar, City of Mako",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Fountainport",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Rogue's Passage",
-          "quantity": 1,
-          "set": "PIO"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
-          "quantity": 1,
-          "set": "FIN"
-        }
-      ]
-    },
-    {
       "archetype": "Kona, Rescue Beastie",
       "deck_id": "kona-rescue-beastie-1380961",
       "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/kona-rescue-beastie-1380961",
@@ -713,6 +494,210 @@
           "name": "Kona, Rescue Beastie",
           "quantity": 1,
           "set": "DSK"
+        }
+      ]
+    },
+    {
+      "archetype": "Sephiroth, Fabled SOLDIER",
+      "deck_id": "sephiroth-fabled-soldier-1384539",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/sephiroth-fabled-soldier-1384539",
+      "main": [
+        {
+          "name": "The Masamune",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Extract a Confession",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Dawnsire, Sunstar Dreadnought",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Withering Torment",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Not Dead After All",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Corrupted Conviction",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Sephiroth's Intervention",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Overkill",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Rise of the Dark Realms",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Fight On!",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Season of Loss",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Vincent's Limit Break",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Feed the Swarm",
+          "quantity": 1,
+          "set": "ZNR"
+        },
+        {
+          "name": "Depressurize",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Swiftfoot Boots",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Macabre Waltz",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Resentful Revelation",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Zodiark, Umbral God",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Forsaken Miner",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Reassembling Skeleton",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Nine-Lives Familiar",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Avenger of the Fallen",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Harvester of Misery",
+          "quantity": 1,
+          "set": "BIG"
+        },
+        {
+          "name": "Vincent Valentine // Galian Beast",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Vengeful Bloodwitch",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Infestation Sage",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Massacre Wurm",
+          "quantity": 1,
+          "set": "M21"
+        },
+        {
+          "name": "Midnight Reaper",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Gaius van Baelsar",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Venerated Stormsinger",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Lord Skitter, Sewer King",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Greedy Freebooter",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Al Bhed Salvagers",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Bloodletter of Aclazotz",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Liliana, Dreadhorde General",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 22,
+          "set": "DFT"
+        },
+        {
+          "name": "Midgar, City of Mako",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Rogue's Passage",
+          "quantity": 1,
+          "set": "PIO"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+          "quantity": 1,
+          "set": "FIN"
         }
       ]
     },
@@ -1773,215 +1758,6 @@
           "name": "Eluge, the Shoreless Sea",
           "quantity": 1,
           "set": "BLB"
-        }
-      ]
-    },
-    {
-      "archetype": "Arahbo, the First Fang",
-      "deck_id": "arahbo-the-first-fang-1374933",
-      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/arahbo-the-first-fang-1374933",
-      "main": [
-        {
-          "name": "Leonin Vanguard",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Ajani's Pridemate",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Dawnwing Marshal",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Helpful Hunter",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Skyknight Squire",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Cat Collector",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Savannah Lions",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Healer's Hawk",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Felidar Savior",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Regal Caracal",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Bounding Felidar",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Hinterland Sanctifier",
-          "quantity": 1,
-          "set": "J25"
-        },
-        {
-          "name": "Enduring Innocence",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Dazzling Angel",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "G'raha Tia",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Delney, Streetwise Lookout",
-          "quantity": 1,
-          "set": "MKM"
-        },
-        {
-          "name": "Roaming Throne",
-          "quantity": 1,
-          "set": "LCI"
-        },
-        {
-          "name": "Adaptive Automaton",
-          "quantity": 1,
-          "set": "BRR"
-        },
-        {
-          "name": "Day of Judgment",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "No Witnesses",
-          "quantity": 1,
-          "set": "MKM"
-        },
-        {
-          "name": "Felidar Retreat",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Claws Out",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Case of the Uneaten Feast",
-          "quantity": 1,
-          "set": "MKM"
-        },
-        {
-          "name": "Sheltered by Ghosts",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Sidequest: Catch a Fish // Cooking Campsite",
-          "quantity": 1,
-          "set": "FIN"
-        },
-        {
-          "name": "Caretaker's Talent",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Starfall Invocation",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Season of the Burrow",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Banner of Kinship",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Patchwork Banner",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Shardmage's Rescue",
-          "quantity": 1,
-          "set": "DSK"
-        },
-        {
-          "name": "Requisition Raid",
-          "quantity": 1,
-          "set": "OTJ"
-        },
-        {
-          "name": "Get Lost",
-          "quantity": 1,
-          "set": "LCI"
-        },
-        {
-          "name": "Authority of the Consuls",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Ajani, Caller of the Pride",
-          "quantity": 1,
-          "set": "FDN"
-        },
-        {
-          "name": "Plains",
-          "quantity": 21,
-          "set": "DFT"
-        },
-        {
-          "name": "Fountainport",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Three Tree City",
-          "quantity": 1,
-          "set": "BLB"
-        },
-        {
-          "name": "Cavern of Souls",
-          "quantity": 1,
-          "set": "LCI"
-        }
-      ],
-      "sideboard": [
-        {
-          "name": "Arahbo, the First Fang",
-          "quantity": 1,
-          "set": "FDN"
         }
       ]
     }
