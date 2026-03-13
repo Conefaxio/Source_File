@@ -1,0 +1,1895 @@
+{
+  "version": "1.0",
+  "format": "Alchemy BO1",
+  "period": "Last 30 days",
+  "generated": "2026-03-07T22:18:33.434729",
+  "total_decks": 15,
+  "decks": [
+    {
+      "archetype": "Mono Green",
+      "deck_id": "mono-green-1394154",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-green-1394154",
+      "main": [
+        {
+          "name": "Llanowar Elves",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Springbloom Druid",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Mossborn Hydra",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Sazh's Chocobo",
+          "quantity": 4,
+          "set": "FIN"
+        },
+        {
+          "name": "Tifa Lockhart",
+          "quantity": 3,
+          "set": "FIN"
+        },
+        {
+          "name": "Traveling Chocobo",
+          "quantity": 4,
+          "set": "FIN"
+        },
+        {
+          "name": "Icetill Explorer",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Dauntless Scrapbot",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Snakeskin Veil",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Overprotect",
+          "quantity": 2,
+          "set": "BLB"
+        },
+        {
+          "name": "Ride the Shoopuf",
+          "quantity": 2,
+          "set": "FIN"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Heritage Reclamation",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Biosynthic Burst",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Forest",
+          "quantity": 12,
+          "set": "DFT"
+        },
+        {
+          "name": "Terramorphic Expanse",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Evolving Wilds",
+          "quantity": 3,
+          "set": "PIO"
+        },
+        {
+          "name": "Fabled Passage",
+          "quantity": 3,
+          "set": "BLB"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Orzhov",
+      "deck_id": "orzhov-1389189",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/orzhov-1389189",
+      "main": [
+        {
+          "name": "Unstoppable Slasher",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Haliya, Guided by Light",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Leonin Vanguard",
+          "quantity": 3,
+          "set": "J25"
+        },
+        {
+          "name": "Vampire Nighthawk",
+          "quantity": 2,
+          "set": "J25"
+        },
+        {
+          "name": "Bloodthirsty Conqueror",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Enduring Tenacity",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Starscape Cleric",
+          "quantity": 3,
+          "set": "BLB"
+        },
+        {
+          "name": "Sanguine Soothsayer",
+          "quantity": 4,
+          "set": "YBLB"
+        },
+        {
+          "name": "Hinterland Sanctifier",
+          "quantity": 3,
+          "set": "J25"
+        },
+        {
+          "name": "Marauding Blight-Priest",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Leyline of Hope",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Fountainport",
+          "quantity": 2,
+          "set": "BLB"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 9,
+          "set": "DFT"
+        },
+        {
+          "name": "Plains",
+          "quantity": 8,
+          "set": "DFT"
+        },
+        {
+          "name": "Scoured Barrens",
+          "quantity": 4,
+          "set": "DFT"
+        },
+        {
+          "name": "Temple of Silence",
+          "quantity": 1,
+          "set": "FDN"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mono White",
+      "deck_id": "mono-white-1392995",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-white-1392995",
+      "main": [
+        {
+          "name": "Ajani's Pridemate",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Leonin Vanguard",
+          "quantity": 3,
+          "set": "J25"
+        },
+        {
+          "name": "Healer's Hawk",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Linden, the Steadfast Queen",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Essence Channeler",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Hinterland Sanctifier",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Exemplar of Light",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Starry-Eyed Skyrider",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Inspiring Paladin",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Basri, Tomorrow's Champion",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Squad Rallier",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Thunderbond Vanguard",
+          "quantity": 2,
+          "set": "YTDM"
+        },
+        {
+          "name": "Awestruck Cygnet",
+          "quantity": 1,
+          "set": "YBLB"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Leyline of Hope",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Plains",
+          "quantity": 19,
+          "set": "DFT"
+        },
+        {
+          "name": "Fountainport",
+          "quantity": 2,
+          "set": "BLB"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mono Black",
+      "deck_id": "mono-black-1391233",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-black-1391233",
+      "main": [
+        {
+          "name": "Tragic Trajectory",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Phyrexian Arena",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Song of Point Prime",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Archenemy's Charm",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Embrace Oblivion",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Worthy Cost",
+          "quantity": 2,
+          "set": "TDM"
+        },
+        {
+          "name": "Monoist Gravliner",
+          "quantity": 3,
+          "set": "YEOE"
+        },
+        {
+          "name": "Sothera, the Supervoid",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Timeline Culler",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Susurian Voidborn",
+          "quantity": 2,
+          "set": "EOE"
+        },
+        {
+          "name": "Voidcalled Devotee",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Cantor of the Refrain",
+          "quantity": 3,
+          "set": "YEOE"
+        },
+        {
+          "name": "Umbral Collar Zealot",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 21,
+          "set": "DFT"
+        },
+        {
+          "name": "Susur Secundi, Void Altar",
+          "quantity": 2,
+          "set": "EOE"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mono Red",
+      "deck_id": "mono-red-1390096",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-red-1390096",
+      "main": [
+        {
+          "name": "Haste Magic",
+          "quantity": 3,
+          "set": "FIN"
+        },
+        {
+          "name": "Burst Lightning",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Turn Inside Out",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Blacksmith's Talent",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "War Squeak",
+          "quantity": 2,
+          "set": "BLB"
+        },
+        {
+          "name": "Stormforged Armor",
+          "quantity": 2,
+          "set": "YTDM"
+        },
+        {
+          "name": "Full Bore",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Swiftspear's Teachings",
+          "quantity": 3,
+          "set": "YTDM"
+        },
+        {
+          "name": "Red Mage's Rapier",
+          "quantity": 2,
+          "set": "FIN"
+        },
+        {
+          "name": "Wild Ride",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Abrade",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Brave Meadowguard",
+          "quantity": 2,
+          "set": "YBLB"
+        },
+        {
+          "name": "Clockwork Percussionist",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Emberheart Challenger",
+          "quantity": 3,
+          "set": "BLB"
+        },
+        {
+          "name": "Dragonblood Twins",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Fleeting Effigy",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Fanatical Firebrand",
+          "quantity": 2,
+          "set": "J25"
+        },
+        {
+          "name": "Kellan, Planar Trailblazer",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Manifold Mouse",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Fear of Being Hunted",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 20,
+          "set": "DFT"
+        },
+        {
+          "name": "Cori Mountain Monastery",
+          "quantity": 1,
+          "set": "TDM"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mono White",
+      "deck_id": "mono-white-1394220",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mono-white-1394220",
+      "main": [
+        {
+          "name": "Banishing Light",
+          "quantity": 2,
+          "set": "J25"
+        },
+        {
+          "name": "Moment of Triumph",
+          "quantity": 2,
+          "set": "J25"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Claws Out",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Split Up",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Enduring Innocence",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Leonin Vanguard",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Arahbo, the First Fang",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Helpful Hunter",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Skyknight Squire",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Ajani's Pridemate",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Regal Caracal",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Plains",
+          "quantity": 24,
+          "set": "DFT"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Sultai",
+      "deck_id": "sultai-1392297",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/sultai-1392297",
+      "main": [
+        {
+          "name": "Archival Whorl",
+          "quantity": 2,
+          "set": "YBLB"
+        },
+        {
+          "name": "Aetherize",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Zero Point Ballad",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Finale of Revelation",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Ornate Imitations",
+          "quantity": 4,
+          "set": "YDFT"
+        },
+        {
+          "name": "Heaped Harvest",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Encroaching Dragonstorm",
+          "quantity": 2,
+          "set": "TDM"
+        },
+        {
+          "name": "Blasphemous Edict",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Replicating Terror",
+          "quantity": 2,
+          "set": "YDSK"
+        },
+        {
+          "name": "Feed the Cycle",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Ambassador of Evendo",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Summon: Fenrir",
+          "quantity": 4,
+          "set": "FIN"
+        },
+        {
+          "name": "Island",
+          "quantity": 5,
+          "set": "DFT"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 5,
+          "set": "DFT"
+        },
+        {
+          "name": "Forest",
+          "quantity": 5,
+          "set": "DFT"
+        },
+        {
+          "name": "Starting Town",
+          "quantity": 4,
+          "set": "FIN"
+        },
+        {
+          "name": "Fabled Passage",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Opulent Palace",
+          "quantity": 4,
+          "set": "KTK"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Boros",
+      "deck_id": "boros-1390573",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/boros-1390573",
+      "main": [
+        {
+          "name": "Boros Charm",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Might of the Meek",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Naktamun Shines Again",
+          "quantity": 2,
+          "set": "YDFT"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Enduring Innocence",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Flowerfoot Swordmaster",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Emberheart Challenger",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Manifold Mouse",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Brave Meadowguard",
+          "quantity": 2,
+          "set": "YBLB"
+        },
+        {
+          "name": "Recruit Instructor",
+          "quantity": 4,
+          "set": "YBLB"
+        },
+        {
+          "name": "Valiant Emberkin",
+          "quantity": 3,
+          "set": "YDSK"
+        },
+        {
+          "name": "Plains",
+          "quantity": 6,
+          "set": "DFT"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 6,
+          "set": "DFT"
+        },
+        {
+          "name": "Clifftop Retreat",
+          "quantity": 1,
+          "set": "DOM"
+        },
+        {
+          "name": "Sunbillow Verge",
+          "quantity": 4,
+          "set": "DFT"
+        },
+        {
+          "name": "Starting Town",
+          "quantity": 2,
+          "set": "FIN"
+        },
+        {
+          "name": "Rockface Village",
+          "quantity": 2,
+          "set": "BLB"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mardu",
+      "deck_id": "mardu-1389842",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mardu-1389842",
+      "main": [
+        {
+          "name": "Fear of Lost Teeth",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Fear of Ridicule",
+          "quantity": 3,
+          "set": "YDSK"
+        },
+        {
+          "name": "Fear of Surveillance",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Fear of Missing Out",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Fear of Being Hunted",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Golden Sidekick",
+          "quantity": 4,
+          "set": "YDSK"
+        },
+        {
+          "name": "Optimistic Scavenger",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Glimmer Seeker",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Ghostly Dancers",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Enduring Innocence",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Mothlight Processionist",
+          "quantity": 1,
+          "set": "YDSK"
+        },
+        {
+          "name": "Glimmer Hoarder",
+          "quantity": 1,
+          "set": "YDSK"
+        },
+        {
+          "name": "Alesha, Who Laughs at Fate",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Victor, Valgavoth's Seneschal",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Dragonmaster Outcast",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Hazoret, Godseeker",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Dollmaker's Shop // Porcelain Gallery",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Ethereal Armor",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Chainsaw",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Obliterating Bolt",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "The Seriema",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Monoist Gravliner",
+          "quantity": 1,
+          "set": "YEOE"
+        },
+        {
+          "name": "The Aetherspark",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Elspeth, Storm Slayer",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Nomad Outpost",
+          "quantity": 4,
+          "set": "KTK"
+        },
+        {
+          "name": "Temple of Malice",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Temple of Triumph",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Capital City",
+          "quantity": 2,
+          "set": "FIN"
+        },
+        {
+          "name": "Plains",
+          "quantity": 7,
+          "set": "DFT"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 6,
+          "set": "DFT"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 4,
+          "set": "DFT"
+        },
+        {
+          "name": "Temple of Silence",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Sunbillow Verge",
+          "quantity": 1,
+          "set": "DFT"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Mardu",
+      "deck_id": "mardu-1386065",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mardu-1386065",
+      "main": [
+        {
+          "name": "Dalkovan Packbeasts",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Voice of Victory",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Thunderbond Vanguard",
+          "quantity": 3,
+          "set": "YTDM"
+        },
+        {
+          "name": "Stadium Headliner",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Zurgo's Vanguard",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Zurgo, Thunder's Decree",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Exalted Sunborn",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Resolute Reinforcements",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Waystone's Guidance",
+          "quantity": 3,
+          "set": "YTDM"
+        },
+        {
+          "name": "Day of Judgment",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Thunder Magic",
+          "quantity": 3,
+          "set": "FIN"
+        },
+        {
+          "name": "Disenchant",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Angelic Destiny",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 3,
+          "set": "DFT"
+        },
+        {
+          "name": "Wind-Scarred Crag",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Temple of Triumph",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 3,
+          "set": "DFT"
+        },
+        {
+          "name": "Plains",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Nomad Outpost",
+          "quantity": 4,
+          "set": "KTK"
+        },
+        {
+          "name": "Sandsteppe Citadel",
+          "quantity": 4,
+          "set": "KTK"
+        },
+        {
+          "name": "Mystic Monastery",
+          "quantity": 4,
+          "set": "KTK"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Izzet",
+      "deck_id": "izzet-1385841",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/izzet-1385841",
+      "main": [
+        {
+          "name": "Astrologian's Planisphere",
+          "quantity": 2,
+          "set": "FIN"
+        },
+        {
+          "name": "Bounce Off",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Burst Lightning",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Consult the Star Charts",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Enter the Enigma",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Illuminating Lash",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Into the Flood Maw",
+          "quantity": 2,
+          "set": "BLB"
+        },
+        {
+          "name": "Opt",
+          "quantity": 4,
+          "set": "J25"
+        },
+        {
+          "name": "Stock Up",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Swiftspear's Teachings",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Wild Ride",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "A-Vivi Ornitier",
+          "quantity": 4,
+          "set": "FIN"
+        },
+        {
+          "name": "Balmor, Battlemage Captain",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Ral, Crackling Wit",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Desert Cenote",
+          "quantity": 1,
+          "set": "YTDM"
+        },
+        {
+          "name": "Island",
+          "quantity": 8,
+          "set": "DFT"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 8,
+          "set": "DFT"
+        },
+        {
+          "name": "Sulfur Falls",
+          "quantity": 4,
+          "set": "DOM"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Simic",
+      "deck_id": "simic-1385261",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/simic-1385261",
+      "main": [
+        {
+          "name": "Weftwalking",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Omniscience",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Bounce Off",
+          "quantity": 3,
+          "set": "DFT"
+        },
+        {
+          "name": "Stock Up",
+          "quantity": 3,
+          "set": "DFT"
+        },
+        {
+          "name": "Dispelling Exhale",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "Consult the Star Charts",
+          "quantity": 4,
+          "set": "EOE"
+        },
+        {
+          "name": "Extinguisher Battleship",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Kona, Rescue Beastie",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Marang River Regent",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "Cunning Azurescale",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Brood Astronomer",
+          "quantity": 4,
+          "set": "YEOE"
+        },
+        {
+          "name": "Forest",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Island",
+          "quantity": 5,
+          "set": "DFT"
+        },
+        {
+          "name": "Breeding Pool",
+          "quantity": 4,
+          "set": "RNA"
+        },
+        {
+          "name": "Hinterland Harbor",
+          "quantity": 2,
+          "set": "DOM"
+        },
+        {
+          "name": "Willowrush Verge",
+          "quantity": 4,
+          "set": "DFT"
+        },
+        {
+          "name": "Mistrise Village",
+          "quantity": 2,
+          "set": "TDM"
+        },
+        {
+          "name": "Evendo, Waking Haven",
+          "quantity": 3,
+          "set": "EOE"
+        },
+        {
+          "name": "Uthros, Titanic Godcore",
+          "quantity": 3,
+          "set": "EOE"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Four Color",
+      "deck_id": "four-color-1382199",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/four-color-1382199",
+      "main": [
+        {
+          "name": "Ugin, Eye of the Storms",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Worldweave",
+          "quantity": 1,
+          "set": "YEOE"
+        },
+        {
+          "name": "Piercing Exhale",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Thunder Magic",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Encroaching Dragonstorm",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Sleep Magic",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Dragonstorm Globe",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Caustic Exhale",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Heritage Reclamation",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Wail of War",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Dragonclaw Strike",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Mox Jasper",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Dragonweave Tapestry",
+          "quantity": 2,
+          "set": "YTDM"
+        },
+        {
+          "name": "Abrade",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Commune with Beavers",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Rydia's Return",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Roiling Dragonstorm",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Dragonback Assault",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Maximum Overdrive",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Territorial Strike",
+          "quantity": 2,
+          "set": "YTDM"
+        },
+        {
+          "name": "Corroding Dragonstorm",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Dragon Typhoon",
+          "quantity": 1,
+          "set": "YTDM"
+        },
+        {
+          "name": "Innkeeper's Talent",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Breaching Dragonstorm",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Draconic Fealty",
+          "quantity": 1,
+          "set": "YTDM"
+        },
+        {
+          "name": "Bloomvine Regent",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Dragonstorm Forecaster",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Warden of the Grove",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Stalwart Successor",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Summon: Fenrir",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Dragon Sniper",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Ureni, the Song Unending",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Qarsi Revenant",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Dragonlord's Servant",
+          "quantity": 2,
+          "set": "J25"
+        },
+        {
+          "name": "Pearl Lake Warden",
+          "quantity": 2,
+          "set": "YTDM"
+        },
+        {
+          "name": "Sagu Wildling",
+          "quantity": 2,
+          "set": "TDM"
+        },
+        {
+          "name": "Marang River Regent",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Cunning Azurescale",
+          "quantity": 1,
+          "set": "YTDM"
+        },
+        {
+          "name": "Eshki Dragonclaw",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Whirlwing Stormbrood",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Undergrowth Leopard",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Dragonologist",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Ouroboroid",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Quilled Greatwurm",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Feral Deathgorger",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Runescale Stormbrood",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Stormshriek Feral",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Skyserpent Seeker",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Temur Battlecrier",
+          "quantity": 2,
+          "set": "TDM"
+        },
+        {
+          "name": "Wildwood Scourge",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Koma, World-Eater",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 3,
+          "set": "DFT"
+        },
+        {
+          "name": "Forest",
+          "quantity": 7,
+          "set": "DFT"
+        },
+        {
+          "name": "Island",
+          "quantity": 5,
+          "set": "DFT"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 5,
+          "set": "DFT"
+        },
+        {
+          "name": "Maelstrom of the Spirit Dragon",
+          "quantity": 3,
+          "set": "TDM"
+        },
+        {
+          "name": "Opulent Palace",
+          "quantity": 4,
+          "set": "KTK"
+        },
+        {
+          "name": "Frontier Bivouac",
+          "quantity": 4,
+          "set": "KTK"
+        },
+        {
+          "name": "Valgavoth's Lair",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Evolving Wilds",
+          "quantity": 3,
+          "set": "PIO"
+        },
+        {
+          "name": "Secluded Courtyard",
+          "quantity": 2,
+          "set": "FDN"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Vincent Valentine",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Mossborn Hydra",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Host of the Hereafter",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Hylderblade",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Dracogenesis",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Ureni's Counsel",
+          "quantity": 1,
+          "set": "YTDM"
+        },
+        {
+          "name": "Ornate Imitations",
+          "quantity": 1,
+          "set": "YDFT"
+        }
+      ]
+    },
+    {
+      "archetype": "Mardu",
+      "deck_id": "mardu-1384543",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/mardu-1384543",
+      "main": [
+        {
+          "name": "Day of Judgment",
+          "quantity": 4,
+          "set": "FDN"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 3,
+          "set": "FDN"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Withering Torment",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "All-Out Assault",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Swiftspear's Teachings",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Waystone's Guidance",
+          "quantity": 3,
+          "set": "YTDM"
+        },
+        {
+          "name": "Screaming Nemesis",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Skyknight Squire",
+          "quantity": 2,
+          "set": "FDN"
+        },
+        {
+          "name": "Dalkovan Packbeasts",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "Voice of Victory",
+          "quantity": 4,
+          "set": "TDM"
+        },
+        {
+          "name": "Neriv, Heart of the Storm",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Zurgo, Thunder's Decree",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Thunderbond Vanguard",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Mardu Thunderkite",
+          "quantity": 4,
+          "set": "YTDM"
+        },
+        {
+          "name": "Dalkovan Outrider",
+          "quantity": 2,
+          "set": "YTDM"
+        },
+        {
+          "name": "Elspeth, Storm Slayer",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Plains",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Mountain",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Dragonskull Summit",
+          "quantity": 1,
+          "set": "XLN"
+        },
+        {
+          "name": "Isolated Chapel",
+          "quantity": 1,
+          "set": "DOM"
+        },
+        {
+          "name": "Clifftop Retreat",
+          "quantity": 1,
+          "set": "DOM"
+        },
+        {
+          "name": "Nomad Outpost",
+          "quantity": 4,
+          "set": "KTK"
+        },
+        {
+          "name": "Fabled Passage",
+          "quantity": 4,
+          "set": "BLB"
+        },
+        {
+          "name": "Blazemire Verge",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Bleachbone Verge",
+          "quantity": 2,
+          "set": "DFT"
+        },
+        {
+          "name": "Sunbillow Verge",
+          "quantity": 2,
+          "set": "DFT"
+        }
+      ],
+      "sideboard": []
+    },
+    {
+      "archetype": "Orzhov",
+      "deck_id": "orzhov-1384221",
+      "deck_url": "https://aetherhub.com/Metagame/Alchemy-BO1/Deck/orzhov-1384221",
+      "main": [
+        {
+          "name": "Grievous Wound",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Rite of the Moth",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Funeral Room // Awakening Hall",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Unholy Annex // Ritual Chamber",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Derelict Attic // Widow's Walk",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Dollmaker's Shop // Porcelain Gallery",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Surgical Suite // Hospital Room",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Emerge from the Cocoon",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Defiled Crypt // Cadaver Lab",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Shroudstomper",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Victor, Valgavoth's Seneschal",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Valgavoth, Terror Eater",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Golden Sidekick",
+          "quantity": 3,
+          "set": "YDSK"
+        },
+        {
+          "name": "Valgavoth's Faithful",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Cynical Loner",
+          "quantity": 4,
+          "set": "DSK"
+        },
+        {
+          "name": "Ghostly Dancers",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Fear of Surveillance",
+          "quantity": 2,
+          "set": "DSK"
+        },
+        {
+          "name": "Fear of the Dark",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Mothlight Processionist",
+          "quantity": 2,
+          "set": "YDSK"
+        },
+        {
+          "name": "Possessed Goat",
+          "quantity": 3,
+          "set": "DSK"
+        },
+        {
+          "name": "Plains",
+          "quantity": 9,
+          "set": "DFT"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 9,
+          "set": "DFT"
+        },
+        {
+          "name": "Neglected Manor",
+          "quantity": 4,
+          "set": "DSK"
+        }
+      ],
+      "sideboard": []
+    }
+  ]
+}
