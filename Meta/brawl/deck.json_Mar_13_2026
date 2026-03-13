@@ -1,0 +1,1989 @@
+{
+  "version": "1.0",
+  "format": "Brawl",
+  "period": "Last 30 days",
+  "generated": "2026-03-07T22:24:10.239309",
+  "total_decks": 10,
+  "decks": [
+    {
+      "archetype": "Elspeth, Storm Slayer",
+      "deck_id": "elspeth-storm-slayer-1388354",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/elspeth-storm-slayer-1388354",
+      "main": [
+        {
+          "name": "Hare Apparent",
+          "quantity": 31,
+          "set": "FDN"
+        },
+        {
+          "name": "Plains",
+          "quantity": 28,
+          "set": "DFT"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Elspeth, Storm Slayer",
+          "quantity": 1,
+          "set": "TDM"
+        }
+      ]
+    },
+    {
+      "archetype": "Ketramose, the New Dawn",
+      "deck_id": "ketramose-the-new-dawn-1387619",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/ketramose-the-new-dawn-1387619",
+      "main": [
+        {
+          "name": "Get Lost",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Banishing Light",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Split Up",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Stormplain Detainment",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Spectacular Pileup",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Withering Torment",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Trapped in the Screen",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Ultima",
+          "quantity": 1,
+          "set": "PSS5"
+        },
+        {
+          "name": "Ride's End",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Intimidation Tactics",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Agatha's Soul Cauldron",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Gravkill",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Shoot the Sheriff",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Ghost Vacuum",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Day of Judgment",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Exorcise",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Seam Rip",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Deadly Cover-Up",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Duress",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Feed the Cycle",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Virtue of Persistence",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Strategic Betrayal",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Parting Gust",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Expel the Interlopers",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Feed the Swarm",
+          "quantity": 1,
+          "set": "ZNR"
+        },
+        {
+          "name": "Soul-Guide Lantern",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "The Aetherspark",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "White Auracite",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Ugin, Eye of the Storms",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Liliana, Dreadhorde General",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Kaya, Spirits' Justice",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Deep-Cavern Bat",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Skullcap Snail",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Charming Prince",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Unscrupulous Agent",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 5,
+          "set": "DFT"
+        },
+        {
+          "name": "Plains",
+          "quantity": 6,
+          "set": "DFT"
+        },
+        {
+          "name": "Bleachbone Verge",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Godless Shrine",
+          "quantity": 1,
+          "set": "RNA"
+        },
+        {
+          "name": "Cavern of Souls",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Concealed Courtyard",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Fabled Passage",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Night Market",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Pit of Offerings",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Restless Fortress",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Shadowy Backstreet",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Temple of Silence",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Sunken Citadel",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Fountainport",
+          "quantity": 1,
+          "set": "BLB"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Ketramose, the New Dawn",
+          "quantity": 1,
+          "set": "DFT"
+        }
+      ]
+    },
+    {
+      "archetype": "Sephiroth, Fabled SOLDIER",
+      "deck_id": "sephiroth-fabled-soldier-1383788",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/sephiroth-fabled-soldier-1383788",
+      "main": [
+        {
+          "name": "The Masamune",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Eaten Alive",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Extract a Confession",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Come Back Wrong",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Withering Torment",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Not Dead After All",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Corrupted Conviction",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Bitter Triumph",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Overkill",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Archenemy's Charm",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Season of Loss",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Vincent's Limit Break",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Feed the Swarm",
+          "quantity": 1,
+          "set": "ZNR"
+        },
+        {
+          "name": "Depressurize",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Swiftfoot Boots",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Resentful Revelation",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Strategic Betrayal",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Sothera, the Supervoid",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Scavenger's Talent",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Zodiark, Umbral God",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Forsaken Miner",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Reassembling Skeleton",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Nine-Lives Familiar",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Harvester of Misery",
+          "quantity": 1,
+          "set": "BIG"
+        },
+        {
+          "name": "Vincent Valentine // Galian Beast",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Vengeful Bloodwitch",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Infestation Sage",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Massacre Wurm",
+          "quantity": 1,
+          "set": "M21"
+        },
+        {
+          "name": "Midnight Reaper",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Gaius van Baelsar",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Venerated Stormsinger",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Lord Skitter, Sewer King",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Greedy Freebooter",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Al Bhed Salvagers",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Bloodletter of Aclazotz",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Bloodghast",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Liliana, Dreadhorde General",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Swamp",
+          "quantity": 19,
+          "set": "DFT"
+        },
+        {
+          "name": "Midgar, City of Mako",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Fountainport",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Rogue's Passage",
+          "quantity": 1,
+          "set": "PIO"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel",
+          "quantity": 1,
+          "set": "FIN"
+        }
+      ]
+    },
+    {
+      "archetype": "Kona, Rescue Beastie",
+      "deck_id": "kona-rescue-beastie-1380961",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/kona-rescue-beastie-1380961",
+      "main": [
+        {
+          "name": "Llanowar Elves",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Gene Pollinator",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Druid of the Cowl",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Summon: Fenrir",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Overlord of the Hauntwoods",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Anticausal Vestige",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "District Mascot",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Ornery Tumblewagg",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Lumra, Bellow of the Woods",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Ghalta, Stampede Tyrant",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Ghalta, Primal Hunger",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Summon: Bahamut",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Sire of Seven Deaths",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Meteor Golem",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Craterhoof Behemoth",
+          "quantity": 1,
+          "set": "JMP"
+        },
+        {
+          "name": "Famished Worldsire",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Diamond Weapon",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "The Walls of Ba Sing Se",
+          "quantity": 1,
+          "set": "TLA"
+        },
+        {
+          "name": "Glacier Godmaw",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Spinewoods Armadillo",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Quilled Greatwurm",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Aggressive Mammoth",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Harmonious Grovestrider",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Hivespine Wolverine",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Railway Brawler",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Summon: Titan",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Coliseum Behemoth",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Lumbering Worldwagon",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Larval Scoutlander",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "The Regalia",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Extinguisher Battleship",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Virtue of Strength",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Chimil, the Inner Sun",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Vivien Reid",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Ugin, Eye of the Storms",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Forest",
+          "quantity": 22,
+          "set": "DFT"
+        },
+        {
+          "name": "Fabled Passage",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Evendo, Waking Haven",
+          "quantity": 1,
+          "set": "EOE"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Kona, Rescue Beastie",
+          "quantity": 1,
+          "set": "DSK"
+        }
+      ]
+    },
+    {
+      "archetype": "Tifa Lockhart",
+      "deck_id": "tifa-lockhart-1379986",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/tifa-lockhart-1379986",
+      "main": [
+        {
+          "name": "Sazh's Chocobo",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Bristly Bill, Spine Sower",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Mossborn Hydra",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Springbloom Druid",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Traveling Chocobo",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Icetill Explorer",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Mightform Harmonizer",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Overlord of the Hauntwoods",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Famished Worldsire",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Sagu Wildling",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Rampaging Baloths",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Summon: Fat Chocobo",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Traveling Botanist",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Glacier Godmaw",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Kona, Rescue Beastie",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "House Cartographer",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Edge Rover",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Frenzied Baloth",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Ouroboroid",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Craterhoof Behemoth",
+          "quantity": 1,
+          "set": "JMP"
+        },
+        {
+          "name": "Chocobo Kick",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Ride the Shoopuf",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Ordeal of Nylea",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Bioengineered Future",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Archdruid's Charm",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Larval Scoutlander",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Eusocial Engineering",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Sledge-Class Seedship",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Defend the Rider",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Heaped Harvest",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Snakeskin Veil",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Lumbering Worldwagon",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Origin of Metalbending",
+          "quantity": 1,
+          "set": "TLA"
+        },
+        {
+          "name": "Vivien Reid",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Forest",
+          "quantity": 19,
+          "set": "DFT"
+        },
+        {
+          "name": "Escape Tunnel",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Fabled Passage",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Demolition Field",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Evolving Wilds",
+          "quantity": 1,
+          "set": "PIO"
+        },
+        {
+          "name": "Terramorphic Expanse",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Evendo, Waking Haven",
+          "quantity": 1,
+          "set": "EOE"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Tifa Lockhart",
+          "quantity": 1,
+          "set": "FIN"
+        }
+      ]
+    },
+    {
+      "archetype": "Bristly Bill, Spine Sower",
+      "deck_id": "bristly-bill-spine-sower-1365295",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/bristly-bill-spine-sower-1365295",
+      "main": [
+        {
+          "name": "Llanowar Elves",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Pawpatch Recruit",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Sazh's Chocobo",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Scavenging Ooze",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Tifa Lockhart",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Webstrike Elite",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Wildborn Preserver",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Ojer Kaslem, Deepest Growth // Temple of Cultivation",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Ornery Tumblewagg",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Mossborn Hydra",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Reclamation Sage",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Traveling Chocobo",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Summon: Fenrir",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Ouroboroid",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Overlord of the Hauntwoods",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Railway Brawler",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Summon: Titan",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Wildwood Scourge",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Snakeskin Veil",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Royal Treatment",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Bushwhack",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Blitzball Shot",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Chocobo Kick",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Feral Encounter",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Innkeeper's Talent",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Over the Edge",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Ride the Shoopuf",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Case of the Trampled Garden",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Primal Might",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Garruk's Uprising",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Inspiring Call",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Knockout Maneuver",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Swiftfoot Boots",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "The Earth Crystal",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Doubling Season",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Forest",
+          "quantity": 20,
+          "set": "DFT"
+        },
+        {
+          "name": "Fabled Passage",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Evolving Wilds",
+          "quantity": 1,
+          "set": "PIO"
+        },
+        {
+          "name": "Rogue's Passage",
+          "quantity": 1,
+          "set": "PIO"
+        },
+        {
+          "name": "Zanarkand, Ancient Metropolis",
+          "quantity": 1,
+          "set": "FIN"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Bristly Bill, Spine Sower",
+          "quantity": 1,
+          "set": "OTJ"
+        }
+      ]
+    },
+    {
+      "archetype": "Momo, Friendly Flier",
+      "deck_id": "momo-friendly-flier-1379732",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/momo-friendly-flier-1379732",
+      "main": [
+        {
+          "name": "Appa, Steadfast Guardian",
+          "quantity": 1,
+          "set": "TLA"
+        },
+        {
+          "name": "Archangel of Tithes",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Aven Interrupter",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "City Pigeon",
+          "quantity": 1,
+          "set": "SPM"
+        },
+        {
+          "name": "Clarion Conqueror",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Cosmogrand Zenith",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Dawnwing Marshal",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Doorkeeper Thrull",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Enduring Innocence",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Exemplar of Light",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Giada, Font of Hope",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Healer's Hawk",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Inspiring Overseer",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Jackdaw Savior",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Miner's Guidewing",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Momo, Playful Pet",
+          "quantity": 1,
+          "set": "TLA"
+        },
+        {
+          "name": "Moonshaker Cavalry",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Nurturing Pixie",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Overlord of the Mistmoors",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Resplendent Angel",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Ruin-Lurker Bat",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Sage of the Skies",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Starfield Shepherd",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Suki, Courageous Rescuer",
+          "quantity": 1,
+          "set": "TLA"
+        },
+        {
+          "name": "Sunpearl Kirin",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Voice of Victory",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Case of the Gateway Express",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Collector's Cage",
+          "quantity": 1,
+          "set": "BIG"
+        },
+        {
+          "name": "Get Lost",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Heraldic Banner",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Lumen-Class Frigate",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Parting Gust",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Perilous Snare",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Unidentified Hovership",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Virtue of Loyalty",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Elspeth, Storm Slayer",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Abandoned Air Temple",
+          "quantity": 1,
+          "set": "TLA"
+        },
+        {
+          "name": "Cavern of Souls",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Fountainport",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Plains",
+          "quantity": 20,
+          "set": "DFT"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Momo, Friendly Flier",
+          "quantity": 1,
+          "set": "TLA"
+        }
+      ]
+    },
+    {
+      "archetype": "Hope Estheim",
+      "deck_id": "hope-estheim-1386744",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/hope-estheim-1386744",
+      "main": [
+        {
+          "name": "Hinterland Sanctifier",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Healer's Hawk",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Leonin Vanguard",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Aerith Gainsborough",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Dazzling Angel",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Ajani's Pridemate",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Charming Prince",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Enduring Innocence",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Outlaw Medic",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Haliya, Guided by Light",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Cloudblazer",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Linden, the Steadfast Queen",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Cat Collector",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Inspiring Overseer",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Herald of Faith",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Exemplar of Light",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Lyra Dawnbringer",
+          "quantity": 1,
+          "set": "DOM"
+        },
+        {
+          "name": "Ruin-Lurker Bat",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Essence Channeler",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Lifecreed Duo",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Seam Rip",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Banishing Light",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "The Wind Crystal",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "White Mage's Staff",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Patchwork Banner",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Focus Fire",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Eriette's Lullaby",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Moment of Triumph",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Moogles' Valor",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Makeshift Binding",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Space-Time Anomaly",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "The Water Crystal",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Jidoor, Aristocratic Capital",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Plains",
+          "quantity": 16,
+          "set": "DFT"
+        },
+        {
+          "name": "Island",
+          "quantity": 6,
+          "set": "DFT"
+        },
+        {
+          "name": "Tranquil Cove",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Adventurer's Inn",
+          "quantity": 1,
+          "set": "FIN"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Hope Estheim",
+          "quantity": 1,
+          "set": "FIN"
+        }
+      ]
+    },
+    {
+      "archetype": "Eluge, the Shoreless Sea",
+      "deck_id": "eluge-the-shoreless-sea-1393036",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/eluge-the-shoreless-sea-1393036",
+      "main": [
+        {
+          "name": "Malcolm, Alluring Scoundrel",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Overlord of the Floodpits",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Picklock Prankster",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Eddymurk Crab",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Tolarian Terror",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Kiora, the Rising Tide",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Quistis Trepe",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Stoic Sphinx",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Codecracker Hound",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Marang River Regent",
+          "quantity": 1,
+          "set": "TDM"
+        },
+        {
+          "name": "Essence Scatter",
+          "quantity": 1,
+          "set": "PIO"
+        },
+        {
+          "name": "Bounce Off",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Phantom Interference",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Three Steps Ahead",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Long River's Pull",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Negate",
+          "quantity": 1,
+          "set": "MOM"
+        },
+        {
+          "name": "Spellgyre",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Shore Up",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Failed Fording",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Get Out",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Into the Flood Maw",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Disdainful Stroke",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Consult the Star Charts",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Spell Pierce",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Season of Weaving",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Spell Stutter",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Chart a Course",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Sleight of Hand",
+          "quantity": 1,
+          "set": "WOE"
+        },
+        {
+          "name": "Weftwalking",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "Louisoix's Sacrifice",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Dive Down",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Unravel",
+          "quantity": 1,
+          "set": "EOE"
+        },
+        {
+          "name": "River's Rebuke",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "This Town Ain't Big Enough",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Stock Up",
+          "quantity": 1,
+          "set": "DFT"
+        },
+        {
+          "name": "Island",
+          "quantity": 22,
+          "set": "DFT"
+        },
+        {
+          "name": "Cavern of Souls",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Fountainport",
+          "quantity": 1,
+          "set": "BLB"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Eluge, the Shoreless Sea",
+          "quantity": 1,
+          "set": "BLB"
+        }
+      ]
+    },
+    {
+      "archetype": "Arahbo, the First Fang",
+      "deck_id": "arahbo-the-first-fang-1374933",
+      "deck_url": "https://aetherhub.com/Metagame/Brawl/Deck/arahbo-the-first-fang-1374933",
+      "main": [
+        {
+          "name": "Leonin Vanguard",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Ajani's Pridemate",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Dawnwing Marshal",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Helpful Hunter",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Skyknight Squire",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Cat Collector",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Savannah Lions",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Healer's Hawk",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Felidar Savior",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Regal Caracal",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Bounding Felidar",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Hinterland Sanctifier",
+          "quantity": 1,
+          "set": "J25"
+        },
+        {
+          "name": "Enduring Innocence",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Dazzling Angel",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "G'raha Tia",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Delney, Streetwise Lookout",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Roaming Throne",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Adaptive Automaton",
+          "quantity": 1,
+          "set": "BRR"
+        },
+        {
+          "name": "Day of Judgment",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "No Witnesses",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Felidar Retreat",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Claws Out",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Case of the Uneaten Feast",
+          "quantity": 1,
+          "set": "MKM"
+        },
+        {
+          "name": "Sheltered by Ghosts",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Sidequest: Catch a Fish // Cooking Campsite",
+          "quantity": 1,
+          "set": "FIN"
+        },
+        {
+          "name": "Caretaker's Talent",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Starfall Invocation",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Season of the Burrow",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Banner of Kinship",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Patchwork Banner",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Shardmage's Rescue",
+          "quantity": 1,
+          "set": "DSK"
+        },
+        {
+          "name": "Requisition Raid",
+          "quantity": 1,
+          "set": "OTJ"
+        },
+        {
+          "name": "Get Lost",
+          "quantity": 1,
+          "set": "LCI"
+        },
+        {
+          "name": "Authority of the Consuls",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Ajani, Caller of the Pride",
+          "quantity": 1,
+          "set": "FDN"
+        },
+        {
+          "name": "Plains",
+          "quantity": 21,
+          "set": "DFT"
+        },
+        {
+          "name": "Fountainport",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Three Tree City",
+          "quantity": 1,
+          "set": "BLB"
+        },
+        {
+          "name": "Cavern of Souls",
+          "quantity": 1,
+          "set": "LCI"
+        }
+      ],
+      "sideboard": [
+        {
+          "name": "Arahbo, the First Fang",
+          "quantity": 1,
+          "set": "FDN"
+        }
+      ]
+    }
+  ]
+}
