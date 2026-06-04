@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "date": "29-APR-2026",
-  "updatedAt": "2026-04-29T03:07:55Z",
+  "date": "04-JUN-2026",
+  "updatedAt": "2026-06-04T02:05:12Z",
   "formats": [
     "standard",
     "alchemy",
@@ -12,23 +12,23 @@
   "outputs": {
     "standard": {
       "decks": 50,
-      "uniqueCards": 506
+      "uniqueCards": 500
     },
     "alchemy": {
-      "decks": 10,
-      "uniqueCards": 136
+      "decks": 11,
+      "uniqueCards": 184
     },
     "explorer": {
-      "decks": 50,
-      "uniqueCards": 681
+      "decks": 40,
+      "uniqueCards": 605
     },
     "historic": {
       "decks": 50,
-      "uniqueCards": 750
+      "uniqueCards": 789
     },
     "timeless": {
       "decks": 16,
-      "uniqueCards": 251
+      "uniqueCards": 220
     }
   }
 }
